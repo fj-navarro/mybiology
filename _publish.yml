@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: 6813c6f8-6af6-40cd-bed5-0dd8f8f896ef
+      url: 'https://resilient-fox-de4720.netlify.app'
