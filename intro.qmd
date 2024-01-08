@@ -1,9 +1,55 @@
 # Introduction
 
-This is a book created from markdown and executable code.
+The main problem that trigger the need to search for a new analytical approach is the strongly established position of "profit maximization" as a fundamental concept that drives our understanding of the behavior of the firm.
 
-See @knuth84 for additional discussion of literate programming.
+According to the conceptualization of "profit maximization" decisions are made in a strictly rational manner by units that seek to maximize the benefits obtained.
 
-```{r}
-1 + 1
-```
+The economic analysis literature of the first half of the 20th century is full of references to these profit-maximizing bases [@robinson1969economics], a way of thinking about economics that reaches its zenith in Samuelson's famous quote "The very name of my subject, economics, suggests economizing or maximizing" [@samuelson1972maximum].
+
+This does not mean that throughout this period of time there have been no authors who have questioned the entire conceptual and analytical apparatus around "profit maximization". In fact, there are a plethora of them.
+
+Authors like @tintner1941theory who go so far as to state outright that maximization makes no sense in an environment full of uncertainties (a precondition for profits) that are produced by the inability of human beings to solve complex problems involving a host of variables, and imperfect foresight. According to the author, maximization cannot be used as the basis for selecting the action that will produce the result with the greatest profits over all other actions.
+
+## Individual vs system decisions
+@alchian1950uncertainty proposes an alternative method to solve this whole problem. It consists of treating decisions and selection criteria at the level of the economic system as more important than those made by individuals within it. This allows us to look at the interrelationship that exists between the environment and the individual behaviors that arise as a consequence of a process of natural selection.
+
+The decision criterion in the firm's behavior is now the realization of profits, which in turn acts as a (natural) selection mechanism that allows some firms to survive while others disappear. This decision and selection process takes place in impersonal markets, which are completely separate from individual decisions, from the capabilities and motivations of the units that decide, and even from their awareness of the functioning of this criterion. Simply realizing positive profits is enough to make a firm survive, no matter how, who or why it is achieved.
+
+@alchian1950uncertainty recognizes that the realization of positive benefits may go to the most daring or lucky, not necessarily to those who are best prepared or carry out a process of strong reasoning, preparation and execution. Therefore, a specific motivation is not strictly necessary for the firm to survive, since "as in a race, the award goes to the relatively fastest, even if all the competitors loaf".
+
+## Adoption Behavior: Chance and Luck as a means for success
+Luck and chance can act in two ways: first when choosing an action to apply and its viability to realize benefits, second when deciding on a specific method of adaptation to a particular environment [@alchian1950uncertainty].
+
+In this discussion, the debate arises about to what extent it is the survivor who manages to adapt to the environment, or whether it is the environment that actually adopts the survivor. In the first case, the adaptation process is something conscious. In the second, the survivor does not carry out any motivated or conscious process of change in search of adaptation, but rather it is the environment that adopts him.
+
+In reality, it is the environment that determines the possible paths to success, or in other words, the path that a survivor must follow to become one. These paths are constantly changing, and what at a given moment in time made some individuals successful and others not, some time later it will make those who were previously unlucky now successful and able to survive [@alchian1950uncertainty]. 
+
+In the context of adoption by the environment, the individual doesn't really need to do anything, other than want to play this game (that is, making a decision when it is necessary to make it).  According to Alchian himself, this somewhat random behavior that individuals may have does not eliminate the possibility that the decision made by one of them is appropriate for survival. Additionally, individual behavior resulting from motivation and foresight is always different from one individual to another, and if the pattern of all individuals is observed in aggregate, it is not very different from a random distribution of actions.
+
+A model dominated by chance also does not mean that it cannot be analyzed, explained and diagnosed by an economist. The economist can explain what types of behaviors are more likely to lead a firm to survive compared to others if he knows what the requirements for survival are, and without firms having to know what these requirements are, even more so if the objective is to explain what happened in the past rather than making a prediction. "The essential point is that individual motivation and foresight, while sufficient, are not necessary" [@alchian1950uncertainty].
+
+With regards to the methods of analysis that can be used by economists, the analyst will only need some circumstances (economic environment) and some participants (firms) to diagnose the conditions under which they will be most likely to be successful.
+
+## Adaptive Behavior: Imitation and Trial and Error
+Everything said above does not mean that firms do not act with foresight and purpose-oriented motivations. In reality, Alchian's proposal is made up of both elements, the random and the purposeful. "The pursuit of profits, and not some hypothetical undefinable perfect situation, is the relevant objective whose fulfilment is rewarded with survival" [@alchian1950uncertainty]. 
+
+That said, aiming to realize positive profits does not mean that it is easier to conclude about how firms can adopt actions that realize profits. This is a very high goal too. The existence of uncertainty diverts any effort to successfully conclude what the recipe for success is.
+
+Adaptive firm behavior occurs in two ways: by imitating the things that work in successful companies (so that those who imitate them can quickly implement them and achieve success more quickly) and by trial and error. This is what Alchian calls "codified imitations of observed success" [@alchian1950uncertainty]. This type of behavior relieves the need to make decisions and make conscious innovations.
+
+The second type of adaptive behavior pointed out by Alchian is trial and error. Some authors consider that through the firm's adoption of various appropiate actions the trend is the convergence to a "profit maximization" equilibrium. However, in a changing environment, this is simply not possible since the comparability of resulting situations is destroyed. Trial-and-error is simply survival or death, but not the basis for a profit-maximization method of analysis.
+
+## Tools
+"All the preceding arguments leave the individual economic participant with imitative, venturesome, innovative, trial-and-error adaptive behavior. Most conventional economic tools and concepts are still useful, although in a vastly different analytical framework-one which is closely akin to the theory of biological evolution" [@alchian1950uncertainty].
+
+"The economic counterparts of genetic heredity, mutations, and natural selection are imitation, innovation, and positive profit" [@alchian1950uncertainty].
+
+"The formalization of this approach awaits the marriage of the theory of stochastic processes and economics-two fields of thought admirably suited for union" [@alchian1950uncertainty].
+
+## Implications
+"(...) the prevalence of a type of behavior depends upon both this probability of viability and the probability of the different types
+being submitted to the economic system for testing and selecting" [@alchian1950uncertainty]. "One is the probability of appearance of a certain type of organization (mutation), and the other is the probability of its survival or viability, once it appears (natural selection). There is much evidence for believing that these two probabilities are related" [@alchian1950uncertainty].
+
+"In summary, I have asserted that the economist, using the present analytical tools developed in the analysis of the firm under certainty, can predict the more adoptable or viable types of economic interrelationships that will be induced by environmental change even if individuals are unable to ascertain them" [@alchian1950uncertainty].
+
+"Like the biologist, the economist predicts the effects of environmental changes on the surviving class of living organisms; the economist need not assume that each participant is aware of, or acts according to, his cost and demand situation" [@alchian1950uncertainty].
