@@ -1,0 +1,9 @@
+# Discussion
+
+The inroduction of Biology has these forms:
+
+-   Biology as a theoretical framework
+
+-   Biology as a metaphora
+
+-   Biology as a canvas to draw computational methods

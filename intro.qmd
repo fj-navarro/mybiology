@@ -10,6 +10,7 @@ This does not mean that throughout this period of time there have been no author
 
 Authors like @tintner1941theory who go so far as to state outright that maximization makes no sense in an environment full of uncertainties (a precondition for profits) that are produced by the inability of human beings to solve complex problems involving a host of variables, and imperfect foresight. According to the author, maximization cannot be used as the basis for selecting the action that will produce the result with the greatest profits over all other actions.
 
+
 ## Individual vs system decisions
 @alchian1950uncertainty proposes an alternative method to solve this whole problem. It consists of treating decisions and selection criteria at the level of the economic system as more important than those made by individuals within it. This allows us to look at the interrelationship that exists between the environment and the individual behaviors that arise as a consequence of a process of natural selection.
 

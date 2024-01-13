@@ -10,6 +10,8 @@ book:
     - intro.qmd
     - reasons.qmd
     - analogies.qmd
+    - methodology.qmd
+    - discussion.qmd
     - references.qmd
 
 bibliography: references.bib
