@@ -1,9 +1,11 @@
 # Discussion
 
-The inroduction of Biology has these forms:
+The introduction of Biology has these forms, el conjunto de las cuales muestra una línea creciente de aportación a la profundidad del análisis económico y al papel más ligero o pesado en el que interviene en la resolucion de problemas ccomplejos:
 
--   Biology as a theoretical framework
+-   **Biology as a theoretical framework**, sienta las bases conceptuales y relacionales sobre las que iniciar un análisis complejo en ciencias sociales y en economía. Se trata de un marco teórico que sirve de inspiración para afrontar una primera explicación o una ampliación de la explicación de un problema social complejo sin tener que recurrir a un largo proceso de construcción teórica. Esto no significa que la teoría biológica sea siempre asimilada por la económica, sino que esta última sirve como espejo sobre la que construir un andamiaje teórico de forma más robusta y rápida.
 
--   Biology as a metaphora
+-   **Biology as a metaphora**, esto nos permite mejorar la explicación de los fenómenos económicos y reforzar nuestros argumentos al utilizar cadenas causales que ya están investigadas y demostradas en biología
 
--   Biology as a canvas to draw computational methods
+-   **Biology as a paradigm**, nos permite enfrentar el análisis económico teniendo delante un marco causal ya demostrado que podamos usar como referencia, tanto en el uso de los conceptos como en los flujos de interacción entre ellos. Digamos que el análisis económico no parte de cero ni necesita inventar un adamiaje metodológico y conceptual cada vez, sino que podemos recurrrir a la biología para que nos aporte un marco de reflexión y pensamiento (que podemos ir adaptando a las estructuras y comportamientos que vamos descubriendo en economía) y que nos ahorra mucho tiempo y esfuerzo.
+
+-   **Biology as a canvas** to draw computational methods directamente aplicables a los procesos de resolución de problemas, i.e. captura de datos, modelos lógicos, procesamiento y funcionamiento de la información e interpretación de los resultados. Esto facilita y amplia nuestras capacidades a la hora de recurrir a herramientas que ya están diseñadas y han sido probadas en la resolución de problemas complejos y que podemos manipular y hacer crecer en un entorno computacional.
