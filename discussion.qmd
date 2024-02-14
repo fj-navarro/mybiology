@@ -1,5 +1,17 @@
 # Discussion
 
+## On Evolution
+
+When addressing the study of an evolutionary system, it is of paramount importance to first elucidate what **the unit** of the system will be, on which the entire conceptual and methodological apparatus of evolution will be applied.
+
+The analysis of evolutionary **stratigraphy**, that is, the analysis of the evolutionary process cut into layers, can provide valuable evidence and insight about the evolution followed by each stratum, as well as the relationships that exist between strata. Additionally, it may also be valuable to study the global stratigraphy of the system, that is, the system of layers resulting from aggregating lower-level strata into higher-level strata, since this can suggest new stratal relationships that previously remained hidden from view of the evolutionary system.
+
+The geological **law of superposition**, which states that in any sequence of undisturbed sedimentary rocks, each layer of rock is younger than the one below it and older than the one above it, can be used analogously in the analysis of an evolutionary system, thus establishing that each lower layer manifests a behavior on which the behavior of the upper layer is based.
+
+Once the evolutionary system has been sliced into strata and the evidence that each one individually provides, as well as that of the global stratigraphic system, has been analyzed, the evolutionary analyst will be able to infer the **hierarchical structure** of evolutionary elements that characterize the system under observation.
+
+When studying the evolution of a population, building a **classification or taxonomy** of units (species) becomes relevant. This requires discipline and deep analysis into the building blocks and the relationships (or degrees of relationships) that stand between individuals. By formulating a classification/taxonomy, new avenues can be opened that allow the evolutionary analyst to trace (and understand) the past of the units and make it easier for him to foresee the next steps that the unit will go through.
+
 ## On the Origin
 
 The idea of the Origin is consubstantially associated with the idea of an end, since everything that begins must necessarily have an end.
@@ -8,13 +20,25 @@ The problem of origin is closed related to the problem of generation, thus the e
 
 ## On the Environment
 
+### On the Forces
+
 We do not know the forces (and their sources) that operate driving the process of change in the individuals of a population.
 
 Apart from the forces that operate at the level of individuals, it is necessary to know what the transmission mechanisms are like from the environment to the individual, between individuals, and vice versa, from the individual to the environment.
 
 What is the materiality of the pressure for change exerted by an environmental force?
 
+### On Selection
+
+One of the most difficult questions that every evolutionary analyst must face is how the **selection process** imposed by the environment actually work, and to what extent different alternative selection approaches can help explain the evolutionary course of the system.
+
+We refer to the selection process not as the blind application of a closed paradigm that we know a priori will provide an explanatory response to the evolution of any system, but rather the analyst evaluates to what degree alternative selection models can provide insight into our understanding of the evolution of the system. It is about better understanding how rival visions can have a place in our understanding of the evolutionary phenomena of the system, even in an open and simultaneous way.
+
 ## On the Structure
+
+## On the Behavior
+It is important for the evolutionary analyst to assess to what extent there is the possibility that we have the ability to control genes and, therefore, that we can control how human behavior can be controlled (The Blind Watchmaker- R.Dawkins)
+
 
 ## On Change
 
@@ -30,40 +54,31 @@ In the analysis of **evolutionary dynamics**, it is interesting to know if the s
 
 What are the **change mechanisms** used by units to respond to environmental forces? Some may be:
 
-1) Hybridization
-2) Recombination
-3) etc.
+1)  Hybridization
+2)  Recombination
+3)  etc.
 
 To what extent is the **timeline** for the adoption of changes a key factor that determines the individual results of the change? When analyzing change it is key therefore key to elucidate the timeline in which it unfolds.
 
 Speaking about the timescale of the change processes, it is interesting to find out if the system is constrained by certain structural limitations, or that they have their origin in its own development, and that explain why the changes occur. This would allow the evolutionary analyst to estimate the particular evolutionary **"clock"** of the system, which would be the one that explains the rate of change at which changes accumulate over time. It is evident that the clock idea would not offer precise information similar to that currently used in the field of molecular biology or genetics to provide insight into the the tempo and mode of evolutionary change, but it could be a qualitative approximation to the temporal factors that intervene in the rate of evolution of a system.
 
-## On Evolution
+A possible model that explains the evolutionary process that should be seriously taken into account is known as "punctuated equilibria." According to this model, species remain relatively stable and in equilibrium with their environment for long periods of time. During this time they register small changes in their morphology or level of adaptation. However, at certain times, sudden changes occur that trigger evolutionary episodes of changes (punctuation) associated with events that are accompanied by speciation. These periods of rapid change would be interspersed with long periods of stasis.
 
-When addressing the study of an evolutionary system, it is of paramount importance to first elucidate what **the unit** of the system will be, on which the entire conceptual and methodological apparatus of evolution will be applied.
+## On Success
 
-The analysis of evolutionary **stratigraphy**, that is, the analysis of the evolutionary process cut into layers, can provide valuable evidence and insight about the evolution followed by each stratum, as well as the relationships that exist between strata. Additionally, it may also be valuable to study the global stratigraphy of the system, that is, the system of layers resulting from aggregating lower-level strata into higher-level strata, since this can suggest new stratal relationships that previously remained hidden from view of the evolutionary system.
 
-The geological **law of superposition**, which states that in any sequence of undisturbed sedimentary rocks, each layer of rock is younger than the one below it and older than the one above it, can be used analogously in the analysis of an evolutionary system, thus establishing that each lower layer manifests a behavior on which the behavior of the upper layer is based.
 
-Once the evolutionary system has been sliced into strata and the evidence that each one individually provides, as well as that of the global stratigraphic system, has been analyzed, the evolutionary analyst will be able to infer the **hierarchical structure** of evolutionary elements that characterize the system under observation.
+## Practical Implication benefits
 
-When studying the evolution of a population, building a **classification or taxonomy** of units (species) becomes relevant. This requires discipline and deep analysis into the building blocks and the relationships (or degrees of relationships) that stand between individuals. By formulating a classification/taxonomy, new avenues can be opened that allow the evolutionary analyst to trace (and understand) the past of the units and make it easier for him to foresee the next steps that the unit will go through.
+**Evolutionary analyst** One of the practical benefits derived from the present proposal of formulating an evolutionary systems analytical framework is to determine the need to have professionals with an evolutionary analyst profile. An evolutionary analyst is understood to be an academic or professional who has a clear and deep understanding of the evolutionary functioning of systems and who is capable of using rigorous analysis and tools to determine the factors that explain their essence and elements of change.
 
-## Practical benefits
-
-**Evolutionary analyst**
-One of the practical benefits derived from the present proposal of formulating an evolutionary systems analytical framework is to determine the need to have professionals with an evolutionary analyst profile. An evolutionary analyst is understood to be an academic or professional who has a clear and deep understanding of the evolutionary functioning of systems and who is capable of using rigorous analysis and tools to determine the factors that explain their essence and elements of change.
-
-**Prediction ability**
-If we are able to acquire a deep understanding of the functioning of the evolutionary system, its components, behaviors and flow of changes, we can then better foresee in which direction the evolutionary system is moving and glimpse whether the system has the capacity to survive or, on the contrary, is doomed to disappearance.
+**Prediction ability** If we are able to acquire a deep understanding of the functioning of the evolutionary system, its components, behaviors and flow of changes, we can then better foresee in which direction the evolutionary system is moving and glimpse whether the system has the capacity to survive or, on the contrary, is doomed to disappearance.
 
 It is worth considering the possibility of whether, based on increasingly deeper knowledge of the evolution of a system, it would be possible to act on the future of the system. In other words, if it could be feasible to design your own plan and carry it out based on the knowledge generated about the evolution of the system.
 
 To what extent is the system under observation random in change or does it evidence a logic that can be known and even altered based on our desires or needs?
 
-**Manipulation of the system and its programmability**
-If they were really able to manipulate the system as we wish, on what elements would it be most feasible to do so? Would it be possible to act on both the structural and behavioral elements, only on one of them? Being able to act on a known evolutionary system would open new and great opportunities to design systems that meet a wide diversity of needs. 
+**Manipulation of the system and its programmability** If they were really able to manipulate the system as we wish, on what elements would it be most feasible to do so? Would it be possible to act on both the structural and behavioral elements, only on one of them? Being able to act on a known evolutionary system would open new and great opportunities to design systems that meet a wide diversity of needs.
 
 The above would necessarily entail having to assess the ethical problems of altering the course of nature and the new problems that would emerge by distorting the natural mechanisms of the functioning of life and society. The opposite position would be to conclude that the system is unalterable and we cannot intelligently design it to satisfy our desires.
 

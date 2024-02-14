@@ -1,8 +1,10 @@
-# Scheme
+# Description
 
 It is important to clearly establish the differences that distinguish an evolutionary process from another of change or transformation. Although these are related concepts in evolutionary theory, they actually denote different processes that act on different agents, which is why they tend to be confusing even among some specialists.
 
 Evolution is an overarching process that drives change in populations over generations. This means that evolutionary processes do not operate at the level of a specific individual or organism, which would only change or transform. Evolution therefore represents the cumulative effect of the inherited changes made by the characteristics of the individuals of a population, on which a selection process operates affecting the frequency of traits within a population over time. Change encompasses a broad spectrum of morphological or behavioral alterations within individuals from a variety of factors, including environmental pressures and reproductive patterns. Transformation suggests more profound or significant shifts in form, structure or function of individuals.
+
+![Fig1. Framework for evolutionary systems analysis. Source: own elaboration](scheme.png)
 
 ## Origin
 
@@ -15,6 +17,10 @@ The problem of the origin is associated with that of the "Problem of Generation"
 -   Pre-existence
 
 -   A mold that is fixed.
+
+When the evolutionary analyst deals with the problem of generation she must attend to the *developmental process*, and the constraints that it can impose on the rest of the evolutionary process. These constraints might introduce non-random variations, which can mean a way to direct. the course of evolution. 
+
+It is especially useful for the evolutionary analyst to consider that the unit (species) has a limited number of developmental pathways available and that the selection process would therefore be limited only to the possibility of tinkering with the details.
 
 ## Structure
 
@@ -55,3 +61,12 @@ The characterization of the change process must be carried out considering the f
 4.  The time scale on which the change process takes place. This can develop over a vast amount of time or a small amount of time, or somewhere in between.
 
 Some important considerations to keep in mind are that the process of change always implies progress, but it can also involve regression.
+
+## Reproduction
+Currently there is a generalized consensus in accepting the **reproductive success** of the unit as the main driver of selection, that is, the ability to transmit the genetic load of the unit to the offspring. This modern vision of evolution has not always been like this, so less than 100 years ago success was considered to be found in the ability to adapt to the environment.
+
+Selection based on reproductive success has opened the doors to new avenues of interest and study, which now focus more on sexual selection, in the case of natural systems, or on the **reproduction** mechanisms of any other system.
+
+Let us also think that the selection process that takes place in the environment is continuous and is not interrupted even when the environment is stable. In other words, competition between some units and others for scarce resources never stops, even if the environment appears stable. The analogy of the **Red Queen hypothesis**, introduced by Van Halen @van201419 to denote that in the evolutionary race between organisms species must constantly adapt and evolve just to maintain their relative fitness within an ever-changing environment, it is good to explain that units must remain constantly improving or, otherwise, they will be outstripped by their rivals.
+
+The notion of selection used in this paper is that of having a balance between different characters within a population and not about the development of a murderous or aggressive instinct.

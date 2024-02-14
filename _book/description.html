@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>mybiology - 2&nbsp; Methodology</title>
+<title>mybiology - 3&nbsp; Description</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -20,7 +20,26 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
@@ -30,8 +49,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<link href="./description.html" rel="next">
-<link href="./intro_2.html" rel="prev">
+<link href="./discussion.html" rel="next">
+<link href="./methodology.html" rel="prev">
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -73,7 +92,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./methodology.html"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Methodology</span></a></li></ol></nav>
+      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./description.html"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Description</span></a></li></ol></nav>
       <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
       </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -112,13 +131,13 @@ ul.task-list li input[type="checkbox"] {
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./methodology.html" class="sidebar-item-text sidebar-link active">
+  <a href="./methodology.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Methodology</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./description.html" class="sidebar-item-text sidebar-link">
+  <a href="./description.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Description</span></span></a>
   </div>
 </li>
@@ -146,14 +165,25 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-sidebar-glass" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass"></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Table of contents</h2>
+   
+  <ul>
+  <li><a href="#origin" id="toc-origin" class="nav-link active" data-scroll-target="#origin"><span class="header-section-number">3.1</span> Origin</a></li>
+  <li><a href="#structure" id="toc-structure" class="nav-link" data-scroll-target="#structure"><span class="header-section-number">3.2</span> Structure</a></li>
+  <li><a href="#environment" id="toc-environment" class="nav-link" data-scroll-target="#environment"><span class="header-section-number">3.3</span> Environment</a></li>
+  <li><a href="#behavior" id="toc-behavior" class="nav-link" data-scroll-target="#behavior"><span class="header-section-number">3.4</span> Behavior</a></li>
+  <li><a href="#change" id="toc-change" class="nav-link" data-scroll-target="#change"><span class="header-section-number">3.5</span> Change</a></li>
+  <li><a href="#reproduction" id="toc-reproduction" class="nav-link" data-scroll-target="#reproduction"><span class="header-section-number">3.6</span> Reproduction</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Methodology</span></h1>
+<h1 class="title"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Description</span></h1>
 </div>
 
 
@@ -168,10 +198,71 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<p>The methodology uses the bases of a meta-theory and meta-history, parting from a seminal work in that of Marshall. From there the author draws and follows a timeline with which a progress in the motivations and contributions made by biology in economics and business studies can be traced. - How a seminal work is defined? - How the author decides to entretain around a certain seminal work and the works around it?</p>
-<p>The meta-analysis is nit exhaustive not complete, The conclusions are extracted once saturation is achieved.</p>
+<p>It is important to clearly establish the differences that distinguish an evolutionary process from another of change or transformation. Although these are related concepts in evolutionary theory, they actually denote different processes that act on different agents, which is why they tend to be confusing even among some specialists.</p>
+<p>Evolution is an overarching process that drives change in populations over generations. This means that evolutionary processes do not operate at the level of a specific individual or organism, which would only change or transform. Evolution therefore represents the cumulative effect of the inherited changes made by the characteristics of the individuals of a population, on which a selection process operates affecting the frequency of traits within a population over time. Change encompasses a broad spectrum of morphological or behavioral alterations within individuals from a variety of factors, including environmental pressures and reproductive patterns. Transformation suggests more profound or significant shifts in form, structure or function of individuals.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="scheme.png" class="quarto-discovered-preview-image img-fluid figure-img"></p>
+<p></p><figcaption class="figure-caption">Fig1. Framework for evolutionary systems analysis. Source: own elaboration</figcaption><p></p>
+</figure>
+</div>
+<section id="origin" class="level2" data-number="3.1">
+<h2 data-number="3.1" class="anchored" data-anchor-id="origin"><span class="header-section-number">3.1</span> Origin</h2>
+<p>The problem of the origin is associated with that of the “Problem of Generation” and its accompanying theories of generation. An analysis of the origin involves the need to explore for evidence of the past in search for a better system. The following are some of the theories to consider when addressing the problem of generation of the original structure:</p>
+<ul>
+<li><p>Spontaneous generation</p></li>
+<li><p>Preformationism (forms that are predetermined)</p></li>
+<li><p>Pre-existence</p></li>
+<li><p>A mold that is fixed.</p></li>
+</ul>
+</section>
+<section id="structure" class="level2" data-number="3.2">
+<h2 data-number="3.2" class="anchored" data-anchor-id="structure"><span class="header-section-number">3.2</span> Structure</h2>
+<p>The main issue when considering Structure is to establish what the analytical unit of the system is (and what its main basic components are). In the case of natural evolutionary theory, this unit has traditionally been the organism, but also the population and later, after modern synthesis, the gene. It is the analyst’s job to determine as clearly as possible which is the “unit” on which the evolutionary analysis of the system will focus.</p>
+</section>
+<section id="environment" class="level2" data-number="3.3">
+<h2 data-number="3.3" class="anchored" data-anchor-id="environment"><span class="header-section-number">3.3</span> Environment</h2>
+<p>The environment surrounding the chosen unit of analysis exerts various types of forces that act on the structure to provoke a process of change, with greater or lesser intensity, and in one direction or another.</p>
+<p>The forces of change originating in the environment force the unit to change, so it is essential that the analyst analyze the environment in depth as a key impact driver, understanding the role of the environment in the evolutionary process of the system.</p>
+<p>The connection between the environment and the origin is a key issue as well, since the direction of the change, if it exists, and the intensity or depth of the change that may take place in the structure of the unit may sometimes depend on it.</p>
+<p>It is important when analyzing the environment to specify the type of force applied to the structure, and its sources in said environment.</p>
+</section>
+<section id="behavior" class="level2" data-number="3.4">
+<h2 data-number="3.4" class="anchored" data-anchor-id="behavior"><span class="header-section-number">3.4</span> Behavior</h2>
+<p>Behavior is the way in which the structure articulates a response to the pressure exerted by environmental forces. Behavior establishes the boundaries within which the structure is capable of absorbing the forces of the environment and giving an adaptive response to the new situation or challenge posed by the environment.</p>
+<p>The result of the behavior, which takes place within the boundaries established by the structure of the unit, can give rise to three types of adaptive responses by the system:</p>
+<ul>
+<li>New system qualities (traits)</li>
+<li>Loss of system qualities (traits)</li>
+<li>Modification of system qualities (traits)</li>
+</ul>
+</section>
+<section id="change" class="level2" data-number="3.5">
+<h2 data-number="3.5" class="anchored" data-anchor-id="change"><span class="header-section-number">3.5</span> Change</h2>
+<p>Both the structure and the behavior are permanently immersed in a process of change, since the unit is always sensitive to the forces exerted on it originating in the environment. The overall evolutionary process of the unit will depend on the way in which these forces affect the unit.</p>
+<p>The characterization of the change process must be carried out considering the following key dimensions, all of them closely related:</p>
+<ol type="1">
+<li><p>The direction or trend of the change process. This question has historically been part of the discussion on evolutionary theory, with different approaches given by different authors.</p></li>
+<li><p>The change driver, whether it is a single one or a set of drivers that configure the change process.</p></li>
+<li><p>The mechanics of the process, whether gradual and slow, or sudden and in jumps, or any intermediate alternative in the continuum formed by these two extremes.</p></li>
+<li><p>The time scale on which the change process takes place. This can develop over a vast amount of time or a small amount of time, or somewhere in between.</p></li>
+</ol>
+<p>Some important considerations to keep in mind are that the process of change always implies progress, but it can also involve regression.</p>
+</section>
+<section id="reproduction" class="level2" data-number="3.6">
+<h2 data-number="3.6" class="anchored" data-anchor-id="reproduction"><span class="header-section-number">3.6</span> Reproduction</h2>
+<p>Currently there is a generalized consensus in accepting the <strong>reproductive success</strong> of the unit as the main driver of selection, that is, the ability to transmit the genetic load of the unit to the offspring. This modern vision of evolution has not always been like this, so less than 100 years ago success was considered to be found in the ability to adapt to the environment.</p>
+<p>Selection based on reproductive success has opened the doors to new avenues of interest and study, which now focus more on sexual selection, in the case of natural systems, or on the <strong>reproduction</strong> mechanisms of any other system.</p>
+<p>Let us also think that the selection process that takes place in the environment is continuous and is not interrupted even when the environment is stable. In other words, competition between some units and others for scarce resources never stops, even if the environment appears stable. The analogy of the <strong>Red Queen hypothesis</strong>, introduced by Van Halen <span class="citation" data-cites="van201419">Van Valen (<a href="references.html#ref-van201419" role="doc-biblioref">2014</a>)</span> to denote that in the evolutionary race between organisms species must constantly adapt and evolve just to maintain their relative fitness within an ever-changing environment, it is good to explain that units must remain constantly improving or, otherwise, they will be outstripped by their rivals.</p>
+<p>The notion of selection used in this paper is that of having a well-balanced balance between different characters within a population and not about the development of a murderous or aggressive instinct.</p>
 
 
+<div id="refs" class="references csl-bib-body hanging-indent" role="list" style="display: none">
+<div id="ref-van201419" class="csl-entry" role="listitem">
+Van Valen, L. 2014. <span>“19. A New Evolutionary Law (1973).”</span> In <em>Foundations of Macroecology</em>, 284–314. University of Chicago Press.
+</div>
+</div>
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -409,13 +500,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="./intro_2.html" class="pagination-link">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">Introduction</span></span>
+      <a href="./methodology.html" class="pagination-link">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Methodology</span></span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="./description.html" class="pagination-link">
-        <span class="nav-page-text"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Description</span></span> <i class="bi bi-arrow-right-short"></i>
+      <a href="./discussion.html" class="pagination-link">
+        <span class="nav-page-text"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Discussion</span></span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>
