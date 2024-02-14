@@ -7,8 +7,10 @@ book:
   date: "22/12/2023"
   chapters:
     - index.qmd
+    - intro_2.qmd
     - intro.qmd
     - reasons.qmd
+    - sciences.qmd
     - analogies.qmd
     - methodology.qmd
     - discussion.qmd

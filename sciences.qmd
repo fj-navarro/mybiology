@@ -1,0 +1,30 @@
+# Social Scieces
+
+EStas son las ciencias sociales que se han visto afectadas por el papel de la biología:
+
+## Antropología
+
+## Psicología (o Developmental Psychology)
+
+Según esta visión, el desarrollo psicológico es el resultado of heredity and environment.
+
+### Hebbian theory
+"On another note, the long-standing notion "cells that fire together, wire together" derives from **Hebbian theory** which asserts that synaptogenesis, a developmental process with great epigenetic precedence, depends on the activity of the respective synapses within a neural network. Where experience alters the excitability of neurons, increased neural activity has been linked to increased demethylation.\[28\]" (wikipedia, epigenetics)
+
+"Hebbian theory is a neuropsychological theory claiming that an increase in synaptic efficacy arises from a presynaptic cell's repeated and persistent stimulation of a postsynaptic cell. It is an attempt to explain synaptic plasticity, the adaptation of brain neurons during the learning process. It was introduced by Donald Hebb in his 1949 book The Organization of Behavior (...) "Cells that fire together wire together" (...) Hebb emphasized that cell A needs to "take part in firing" cell B, and such causality can occur only if cell A fires just before, not at the same time as, cell B (...)"
+
+"The theory attempts to explain associative or Hebbian learning, in which simultaneous activation of cells leads to pronounced increases in synaptic strength between those cells. It also provides a biological basis for errorless learning methods for education and memory rehabilitation. In the study of neural networks in cognitive function, it is often regarded as the neuronal basis of unsupervised learning." [@hebb2005organization] [1]" (https://en.wikipedia.org/wiki/Hebbian_theory)
+
+### Erik Erikson
+
+A revisar Erik Erikson y su visión sobre las etapas de desarrollo evolutivo psicosocial.
+
+"Favorable outcomes of each stage are sometimes known as virtues, a term used in the context of Erikson's work as it is applied to medicine, meaning"potencies". These virtues are also interpreted to be the same as "strengths", which are considered inherent in the individual life cycle and in the sequence of generations.\[57\] " (wikipedia, Erik Erikson)
+
+"a comprehensive psychoanalytic theory that identifies **a series of eight stages** that a healthy developing individual should pass through from infancy to late adulthood (...) the results at each stage, either positive or negative, influence the results of the succeding stage" (wikipedia, Erikson's stages of psychosocial development)[@erikson1993childhood]
+
+"He began by working with Freud's theories specifically, but as he began to dive deeper into biopsychosocial development and how other environmental factors affect human development, he soon progressed past Freud's theories and developed his own ideas (...) Erikson's stage theory characterizes an individual advancing through the eight life stages as a function of negotiating their biological and sociocultural forces.[6] The two conflicting forces each have a psychosocial crisis which characterizes the eight stages. If an individual does indeed successfully reconcile these forces (favoring the first mentioned attribute in the crisis), they emerge from the stage with the corresponding virtue (...) The stage challenges that are not successfully overcome may be expected to return as problems in the future. However, mastery of a stage is not required to advance to the next stage." (https://en.wikipedia.org/wiki/Erikson%27s_stages_of_psychosocial_development)
+
+## Economía y Negocios
+
+## Sociología
