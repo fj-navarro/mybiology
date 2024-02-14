@@ -8,13 +8,10 @@ book:
   chapters:
     - index.qmd
     - intro_2.qmd
-    - intro.qmd
-    - reasons.qmd
-    - sciences.qmd
-    - analogies.qmd
     - methodology.qmd
-    - scheme.qmd
+    - description.qmd
     - discussion.qmd
+    - conclusion.qmd
     - references.qmd
 
 bibliography: references.bib
