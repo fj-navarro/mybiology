@@ -1,5 +1,11 @@
 # Introduction
 
+## Research question
+One of the key questions that an evolutionary analyst can try to answer is what are the **mechanisms** that explain or direct the escalator of progress, whether this is the "struggle for existence" between individuals, nations, races, etc.
+
+Another question that the evolutionary analyst can try to resolve is whether the individual **permits the struggle** to take place and, if not, to what extent this weakens the individual and, therefore, that the individual enters into a process of degeneration that leads to a replacement by another individual.
+
+#History
 The concept of evolution, in the sense of a gradual development or change over time, has been a subject of contemplation and inquiry for civilizations throughout history. While ancient civilizations may not have had access to the scientific methods and knowledge that underpin modern evolutionary theory, they did observe and speculate about patterns of change in the natural world. For example:
 
 1.  **Ancient Greece**: The ancient Greek philosophers contemplated the origins and development of life, the diversity of species, and the process of change in the natural world, proposing early ideas that laid the groundwork for later theories of evolution. The pre-Socratic philosofer Anaximander proposed a theory of evolution where life originated from a primordial substance, the "apeiron", which evolved over time through a process of spontaneous generation and transformation. He speculated that simpler forms of life gave rise to more complex organisms, anticipating the idea of a progression or development of species. Almost one hundred years later, Empedocles in his *Theory of the Four Elements* proposed that all matter was composed of four fundamental elements - earth, air, fire, and water. He suggested that living organisms arose from combinations of these elements, hinting at a process of transformation and change over time.2. **Aristotle (384 -- 322 BCE)**: Aristotle proposed a scala naturae (Great Chain of Being), which depicted a hierarchical order of existence with all living beings arranged in a graded scale from simple to complex. While not a theory of biological evolution, Aristotle's ideas influenced later thinkers and shaped medieval and early modern views of nature. Atomist philosophers such as Leucippus and his student Democritus proposed a materialistic view of the universe, suggesting that all phenomena could be explained in terms of interactions between atoms. While their ideas differed from modern evolutionary theory, their emphasis on naturalistic explanations contributed to humanity's ongoing quest to understand the origins and development of life on Earth, and opened the possibility of variation and change in living organisms.
@@ -38,7 +44,6 @@ In the centuries preceding the formulation of Charles Darwin's theory of evoluti
 
 Overall, these pre-Darwinian ideas about evolution reflected early attempts to understand the diversity and complexity of life on Earth. While they did not constitute a comprehensive theory of biological evolution, they contributed to the intellectual foundations upon which Darwin later built his groundbreaking theory of natural selection.
 
-
 ## Role Biology
 
 The introduction of Biology has these forms, el conjunto de las cuales muestra una línea creciente de aportación a la profundidad del análisis económico y al papel más ligero o pesado en el que interviene en la resolucion de problemas ccomplejos:
@@ -50,5 +55,3 @@ The introduction of Biology has these forms, el conjunto de las cuales muestra u
 -   **Biology as a paradigm**, nos permite enfrentar el análisis económico teniendo delante un marco causal ya demostrado que podamos usar como referencia, tanto en el uso de los conceptos como en los flujos de interacción entre ellos. Digamos que el análisis económico no parte de cero ni necesita inventar un adamiaje metodológico y conceptual cada vez, sino que podemos recurrrir a la biología para que nos aporte un marco de reflexión y pensamiento (que podemos ir adaptando a las estructuras y comportamientos que vamos descubriendo en economía) y que nos ahorra mucho tiempo y esfuerzo.
 
 -   **Biology as a canvas** to draw computational methods directamente aplicables a los procesos de resolución de problemas, i.e. captura de datos, modelos lógicos, procesamiento y funcionamiento de la información e interpretación de los resultados. Esto facilita y amplia nuestras capacidades a la hora de recurrir a herramientas que ya están diseñadas y han sido probadas en la resolución de problemas complejos y que podemos manipular y hacer crecer en un entorno computacional.
-
-

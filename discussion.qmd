@@ -2,7 +2,7 @@
 
 ## On Evolution
 
-When addressing the study of an evolutionary system, it is of paramount importance to first elucidate what **the unit** of the system will be, on which the entire conceptual and methodological apparatus of evolution will be applied.
+When addressing the study of an evolutionary system, it is of paramount importance to first elucidate what **the unit** of the system will be, on which the entire conceptual and methodological apparatus of evolution will be applied. This is a discussion that has changed over time, having moved from the individual organism to what is currently considered a more correct approach, the gene. What the above means is that instead of prioritizing "adaptive fitness" in the analysis, today it seems more appropriate to focus on the reproductive success of the individual. This new perspective has given rise to the movement of ultra-Darwinism.
 
 The analysis of evolutionary **stratigraphy**, that is, the analysis of the evolutionary process cut into layers, can provide valuable evidence and insight about the evolution followed by each stratum, as well as the relationships that exist between strata. Additionally, it may also be valuable to study the global stratigraphy of the system, that is, the system of layers resulting from aggregating lower-level strata into higher-level strata, since this can suggest new stratal relationships that previously remained hidden from view of the evolutionary system.
 
@@ -12,11 +12,19 @@ Once the evolutionary system has been sliced into strata and the evidence that e
 
 When studying the evolution of a population, building a **classification or taxonomy** of units (species) becomes relevant. This requires discipline and deep analysis into the building blocks and the relationships (or degrees of relationships) that stand between individuals. By formulating a classification/taxonomy, new avenues can be opened that allow the evolutionary analyst to trace (and understand) the past of the units and make it easier for him to foresee the next steps that the unit will go through.
 
+The idea of the extent to which the **history of "life"** has been progressive but in an irregular way.
+
+The idea of **"emergent evolution"** (Lloyd Morgan) which highlights the new high-level properties that appear as evolution reaches a certain level of complexity.
+
 ## On the Origin
 
-The idea of the Origin is consubstantially associated with the idea of an end, since everything that begins must necessarily have an end.
+The idea of the Origin is consubstantially associated with the idea of an **end**, since everything that begins must necessarily have an end.
 
-The problem of origin is closed related to the problem of generation, thus the evolutionary analyst must elucidate whether the origin of the unit is spontaneous, preformationist, etc.
+The problem of origin is closed related to the **problem of generation**, thus the evolutionary analyst must elucidate whether the origin of the unit is spontaneous, preformationist, etc.
+
+An alternative perspective to the problem of origin can be raised from **biogenesis** (life arising from non-living matter) and the **"primordial soup"** (Opsin), that is, the combination of elements that gives rise to the synthesis of compounds " organic" after adding energy to the system (from lightning, UVA radiation, volcanic activity, etc.)
+
+
 
 ## On the Environment
 
@@ -42,7 +50,7 @@ To what extent is the system's behavior governed by inherited **instincts**? And
 
 What behavioral traits can be considered **innate** and which are constructed with the interaction with the natural and social environment? What are the environmental stimuli that might help explain the individual instincts?
 
-Perhaps the analyst, in addition to (the above) behavioralist approach, might  approach the analysis of the behavior by exploring the internal processes inside the individual that trigger observable responses in the individual.
+Perhaps the analyst, in addition to (the above) behavioralist approach, might approach the analysis of the behavior by exploring the internal processes inside the individual that trigger observable responses in the individual.
 
 Can individual behavior be **predicted**? Furthermore, can behavior be controlled by manipulating the environment and creating a stimulus-response association in the individual? The evolutionary analyst might also focus on how the individual learns through the association of stimuli with specific responses.
 
@@ -77,4 +85,3 @@ Speaking about the timescale of the change processes, it is interesting to find 
 A possible model that explains the evolutionary process that should be seriously taken into account is known as "punctuated equilibria." According to this model, species remain relatively stable and in equilibrium with their environment for long periods of time. During this time they register small changes in their morphology or level of adaptation. However, at certain times, sudden changes occur that trigger evolutionary episodes of changes (punctuation) associated with events that are accompanied by speciation. These periods of rapid change would be interspersed with long periods of stasis.
 
 ## On Success
-
