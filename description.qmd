@@ -18,7 +18,7 @@ The problem of the origin is associated with that of the "Problem of Generation"
 
 -   A mold that is fixed.
 
-When the evolutionary analyst deals with the problem of generation she must attend to the *developmental process*, and the constraints that it can impose on the rest of the evolutionary process. These constraints might introduce non-random variations, which can mean a way to direct. the course of evolution. 
+When the evolutionary analyst deals with the problem of generation she must attend to the *developmental process*, and the constraints that it can impose on the rest of the evolutionary process. These constraints might introduce non-random variations, which can mean a way to direct. the course of evolution.
 
 It is especially useful for the evolutionary analyst to consider that the unit (species) has a limited number of developmental pathways available and that the selection process would therefore be limited only to the possibility of tinkering with the details.
 
@@ -63,6 +63,7 @@ The characterization of the change process must be carried out considering the f
 Some important considerations to keep in mind are that the process of change always implies progress, but it can also involve regression.
 
 ## Reproduction
+
 Currently there is a generalized consensus in accepting the **reproductive success** of the unit as the main driver of selection, that is, the ability to transmit the genetic load of the unit to the offspring. This modern vision of evolution has not always been like this, so less than 100 years ago success was considered to be found in the ability to adapt to the environment.
 
 Selection based on reproductive success has opened the doors to new avenues of interest and study, which now focus more on sexual selection, in the case of natural systems, or on the **reproduction** mechanisms of any other system.
