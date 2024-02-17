@@ -13,6 +13,7 @@ It is worth considering the possibility of whether, based on increasingly deeper
 To what extent is the system under observation random in change or does it evidence a logic that can be known and even altered based on our desires or needs?
 
 ## Manipulation of the system and its programmability
+
 If they were really able to manipulate the system as we wish, on what elements would it be most feasible to do so? Would it be possible to act on both the structural and behavioral elements, only on one of them? Being able to act on a known evolutionary system would open new and great opportunities to design systems that meet a wide diversity of needs.
 
 The above would necessarily entail having to assess the ethical problems of altering the course of nature and the new problems that would emerge by distorting the natural mechanisms of the functioning of life and society. The opposite position would be to conclude that the system is unalterable and we cannot intelligently design it to satisfy our desires.
@@ -36,7 +37,9 @@ From the RQs: Another question that the evolutionary analyst can try to resolve 
 This leads us to the recommendation, in some circumstances mediated by policies, that the struggle does not have constraints that condition it. Thus, as the environment continues to pose challenges that must be faced (resolved) by the individual, progress will continues.
 
 ## Eugenics of individuals
+
 The above leads us to the problem of eugenics, and the reflection on to what extent the system must ensure that the selection produces and there are no barriers for it to unfold its effects.
 
 ## The connection with complex systems
+
 The analysis of evolutionary systems demonstrates a connection with complex systems, such that species should be seen as complex systems with an enormous amount of variation, stimulated by selection.

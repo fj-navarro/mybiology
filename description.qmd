@@ -6,6 +6,17 @@ Evolution is an overarching process that drives change in populations over gener
 
 ![Fig1. Framework for evolutionary systems analysis. Source: own elaboration](scheme.png)
 
+## Evolution
+In the process of evolution is worth consider the role of **feedback loops** between mental an social evolution (as imagined by H.Spencer). For this author a more complex society is a stimulus for more mental development. This is the foundation of evolutionary psychology and of sociobiology.
+
+How is the mechanism of evolution: **cyclic vs. continuous**?
+
+The role of the organism to focus in new habits and become an **active creative agent** in charge of its own destiny is an idea of H.Spencer.This takes the evolutionary analyst to think about the role of **knowledge** and **learning** to change habits and create new instincts, in the end, to unfold a process of self-improvement (which is Lamarckian).
+
+### Competition
+The evolutionary analyst must understand **competition** as that within an **ecology** based on **struggle**. These are three fundamental terms to understand the evolutionary analysis framework.
+
+
 ## Origin
 
 The problem of the origin is associated with that of the "Problem of Generation" and its accompanying theories of generation. An analysis of the origin involves the need to explore for evidence of the past in search for a better system. The following are some of the theories to consider when addressing the problem of generation of the original structure:
@@ -36,6 +47,19 @@ The connection between the environment and the origin is a key issue as well, si
 
 It is important when analyzing the environment to specify the type of force applied to the structure, and its sources in said environment.
 
+### Selection
+Is (natural) selection an **episodic or a continuous** process? 
+
+Are there periods of stable life where (natural) selection does not operate? or, Is (natural selection) always operating even in a stable environment?
+
+A related approach is the one which considers **selectionism vs. saltationism**, and the extension with the role of mass extinctions. This would open the debate about evolution not always being progressive, and the acceptance that species could **degenerate** in less challenging lifestyle.
+
+Is the (social) behavior programmed into us by natural selection? This would take us to the question of the **development of social instincts**. 
+
+The idea of struggle and death might have a positive purpose to keep species well adapted to a challenging environment (this is an utilitarian perspective). They might have a creative role (along with sex reproduction). 
+
+How evolution can produce **advance in several directions** (and not only towards humanity)?
+
 ## Behavior
 
 Behavior is the way in which the structure articulates a response to the pressure exerted by environmental forces. Behavior establishes the boundaries within which the structure is capable of absorbing the forces of the environment and giving an adaptive response to the new situation or challenge posed by the environment.
@@ -62,12 +86,48 @@ The characterization of the change process must be carried out considering the f
 
 Some important considerations to keep in mind are that the process of change always implies progress, but it can also involve regression.
 
+**Mutations** play a role in the process of change, specifically they provide a source of random variation, but they do not generate new species. It must be taken into account that not all genes that undergo a mutation produce drastic changes in the organism (individual); in reality, most mutations are neutral and do not produce noticeable changes. The evolutionary analyst will have to take into account that the environment plays a role in determining which mutated characters are those that spread in the population (this is nothing more than the phenomenon of **selection**).
+
+Maybe the concept of mutation is for more drastic transformations leading to new species, accepting that adaptation and selection might be irrelevant.
+
+Can the evolutionary analyst evaluate the idea that there might be **internal forces** generating characters unrelated to the organism's needs? A related consideration may take us to consider that evolutionary changes occur in a predetermined manner driven by internal factors (this is called "directed evolution"). This is what has historically been called **orthogenesis** (F.Eimer).
+
+The above opens involves **fixity** of direction, and if variation is also considered as not random, therefore there is no need for adaptation. According to this vision the environment would not have any role in evolution. Evolution might come to happen beyond what is functionally needed and not because environmental factors.
+
+Does **"overdevelopment theory"** apply (A.Hyatt)?
+
 ## Reproduction
 
-Currently there is a generalized consensus in accepting the **reproductive success** of the unit as the main driver of selection, that is, the ability to transmit the genetic load of the unit to the offspring. This modern vision of evolution has not always been like this, so less than 100 years ago success was considered to be found in the ability to adapt to the environment.
+Currently there is a generalized consensus in accepting the **reproductive success** of the unit as the main driver of selection, that is, the ability to transmit the genetic load of the unit to the offspring (this perspective has been criticised by Stephen Jay Gould). This modern vision of evolution has not always been like this, so less than 100 years ago success was considered to be found in the ability to adapt to the environment.
 
-Selection based on reproductive success has opened the doors to new avenues of interest and study, which now focus more on sexual selection, in the case of natural systems, or on the **reproduction** mechanisms of any other system.
+Selection based on reproductive success has opened the doors to new avenues of interest and study, which now focus more on sexual selection, in the case of natural systems, or on the **reproduction** mechanisms of any other system. An interesting factor that every evolutionary analyst may want to analyze is the role of **geographic barriers** to explain the way in which species multiply.
 
 Let us also think that the selection process that takes place in the environment is continuous and is not interrupted even when the environment is stable. In other words, competition between some units and others for scarce resources never stops, even if the environment appears stable. The analogy of the **Red Queen hypothesis**, introduced by Van Halen @van201419 to denote that in the evolutionary race between organisms species must constantly adapt and evolve just to maintain their relative fitness within an ever-changing environment, it is good to explain that units must remain constantly improving or, otherwise, they will be outstripped by their rivals.
 
 The notion of selection used in this paper is that of having a balance between different characters within a population and not about the development of a murderous or aggressive instinct.
+
+### Speciation and Specialization
+
+The problem of **speciation**, that is, the division of a parent into several descendants. This is related to niche **specialization** and **adaptation**. Speciation is a fundamental mechanism of **biological diversification**.
+
+Speciation leads to opportunities for specialization. Specialization within populations can contribute to reproductive isolation and promote speciation. It can also drive specialized traits that lead to divergence of populations over time.
+
+In specialization a constant force, natural selection, determines the level of specialization, posing a pressure to specialize on species (in line with Adam Smith thought). The level of specialization influences the level of adaptation, which drives a divergent process of speciation. 
+
+**Types of specialization**: genetic, behavioral or ecological.
+
+**Role of geographical isolation of speciation**
+There are two considerations in regards of the role of geographical isolation for speciation. One considers that specialization emerges without the need of geographical barriers, this is called **sympatric speciation** and is a radiply evolving type of speciation. Whereas **allopatric speciation** is much less rapid and more accepted today, and considers geographical barriers at the initial stage of species separation.
+
+
+
+## Heredity
+Species have a **gene pool** that contain a large pool of genetic variability, in which many of these genes are simply useless or harmful. This gene pool is the raw material for **selection**.
+
+An important task of the evolutionary analyst will be to determine if there are **modifier genes** (W.Castle) that influence the genes responsible for phenotypic characters.
+
+Some Lamarckian stances might be worth an analysis. For example, the evolutionary analyst might consider that not all **inherited acquired characteristics (IAC)** are inherited by or as a response to changes in the environment.
+
+The above might take of to the question if all evolution is mere **trial-and-error**, and how much is a **deliberate choice** of new habits in response to changes in the environment? Current thinking considers that not all needs to be inherited, so (to what extent) Can the environment influence heredity? (W.Bateson). But be advised that genetics is hostile to this idea.
+
+**Mendelian rule** of "one single unit" in the germ plasm being responsible for determining the character and transmitting it to offspring. This would lead us to have to elucidate which genes (alleles) are dominant and which are recessive. This would lead us to have to elucidate which genes (alleles) are dominant and which are recessive, and thus explain that there are discontinuous characters (Bateson).
