@@ -8,10 +8,25 @@ The analysis of evolutionary **stratigraphy**, that is, the analysis of the evol
 
 The geological **law of superposition**, which states that in any sequence of undisturbed sedimentary rocks, each layer of rock is younger than the one below it and older than the one above it, can be used analogously in the analysis of an evolutionary system, thus establishing that each lower layer manifests a behavior on which the behavior of the upper layer is based.
 
+### Hierarchy
+The idea of hierarchy involves something on top down to somethinge else.
+
 Once the evolutionary system has been sliced into strata and the evidence that each one individually provides, as well as that of the global stratigraphic system, has been analyzed, the evolutionary analyst will be able to infer the **hierarchical structure** of evolutionary elements that characterize the system under observation.
 
-When studying the evolution of a population, building a **classification or taxonomy** of units (species) becomes relevant. This requires discipline and deep analysis into the building blocks and the relationships (or degrees of relationships) that stand between individuals. By formulating a classification/taxonomy, new avenues can be opened that allow the evolutionary analyst to trace (and understand) the past of the units and make it easier for him to foresee the next steps that the unit will go through.
+### Classification
+A classification or taxonomy is a procedure used to better understand the diversity (and variation) of organisms.
 
+When studying the evolution of a population, building a **classification or taxonomy** of units (species) becomes relevant. This requires discipline and deep analysis into the building blocks and the relationships (or degrees of relationships) that stand between individuals. By formulating a classification/taxonomy, new avenues can be opened that allow the evolutionary analyst to trace (and understand) the past of the units and make it easier to foresee the next steps that the unit will go through.
+
+With a classification or taxonomy the analyst can study the diversity of the units (species) based e.g. in their morphology, as well as the ecological relationships that exist between them. 
+
+In the history of evolution, three major frameworks for classifying species are usually proposed:
+
+1. Chain of being (Bonnet) -> it is a hierarchical chain of relationships
+2. The rope of being (Rubinet)
+3. Lineo taxonomy based on visible resemblances (with no hierarchy)
+
+### Miscelaneous
 The idea of the extent to which the **history of "life"** has been progressive but in an irregular way.
 
 The idea of **"emergent evolution"** (Lloyd Morgan) which highlights the new high-level properties that appear as evolution reaches a certain level of complexity.
@@ -40,9 +55,11 @@ One of the most difficult questions that every evolutionary analyst must face is
 
 We refer to the selection process not as the blind application of a closed paradigm that we know a priori will provide an explanatory response to the evolution of any system, but rather the analyst evaluates to what degree alternative selection models can provide insight into our understanding of the evolution of the system. It is about better understanding how rival visions can have a place in our understanding of the evolutionary phenomena of the system, even in an open and simultaneous way.
 
-## On the Structure
+### On the Unit
 
-## On the Behavior
+### On the Structure
+
+### On the Behavior
 
 To what extent is the system's behavior governed by inherited **instincts**? And to what extent can the selection process alter instincts? Are instincts constraints to the development of behavior and the process of change, or are they not such constraints?
 
@@ -61,6 +78,8 @@ It is important for the evolutionary analyst to assess to what extent there is t
 ## On Change
 
 We know what an individual is today, but we do not know how an individual became what it is today. This necessarily raises the need to study the **historical past** as a source of knowledge to understand the process of change or evolution followed.
+
+If change does not leave any **proof** (of evolution), why don't we seek indirect progress (i.e. the equivalent of fossils)?
 
 It is necessary to know which components of the individual's structure (or flows) the **forces of the environment** act on, or on which behaviors the forces of the environment have an impact.
 
@@ -84,4 +103,9 @@ It is evident that the clock idea would not offer precise information similar to
 
 A possible model that explains the evolutionary process that should be seriously taken into account is known as **punctuated equilibria"**. According to this model, species remain relatively stable and in equilibrium with their environment for long periods of time. During this time they register small changes in their morphology or level of adaptation. However, at certain times, sudden changes occur that trigger evolutionary episodes of changes (punctuation) associated with events that are accompanied by speciation. These periods of rapid change would be interspersed with long periods of stasis.
 
-## On Success
+The evolutionary analyst should open to the notion of **arrow of time**, and the preferred direction or sequence of change. And if the change process is reversible vs irreversible (with higher entropy). In turn, this should lead the analyst to consider the predictability or unpredictability of evolution. 
+
+Is the result of evolution the same system of a new one? 
+
+## On Heredity
+What are the limits of heredity (change)?

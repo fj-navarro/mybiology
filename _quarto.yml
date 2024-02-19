@@ -2,9 +2,9 @@ project:
   type: book
 
 book:
-  title: "mybiology"
-  author: "Norah Jones"
-  date: "22/12/2023"
+  title: "EVOLUTIOSoc: A Meta-Framework for Complex Social Systems"
+  author: "Francisco J Navarro-Meneses"
+  date: "22/02/2024"
   chapters:
     - index.qmd
     - intro_2.qmd
