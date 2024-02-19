@@ -8,7 +8,7 @@ The idea of **individualism** is confronted with that of **populationism**. Darw
 
 Another important approach to take into account is the one that confronts the idea of **evolutionism** with that of **progressionism**. The first refers to a change that is non-directional, while the second implies a direction in evolution, usually following a teleological change.
 
-![Fig1. Framework for evolutionary systems analysis. Source: own elaboration](scheme.png)
+![Fig1. Framework for evolutionary systems analysis. Source: own elaboration](scheme-1.png)
 
 ## Evolution
 In the process of evolution is worth consider the role of **feedback loops** between mental an social evolution (as imagined by H.Spencer). For this author a more complex society is a stimulus for more mental development. This is the foundation of evolutionary psychology and of sociobiology.
@@ -27,6 +27,17 @@ This conception of the evolutionary process implies the existence of a paralleli
 
 The environmental challenges over species A and B, make those species develop the sames structures and behaviors, which may have an impact on morphology, physiology, and life history traits. This continues forward with the same genetic pathways (even the same phenotypic traits), the consequence being on predictability/replicability of evolution, namely, the same solutions given to similar selective pressures.
 
+### Lamarckian approach
+The Lamarckian approach to evolution is based on the changes posed by the environment that determine (influence) the needs of organisms. These needs, when varying, affect the degree of use or disuse of certain organs (as is the case of a giraffe) and hence the greater or lesser development of certain parts of the body. This greater or lesser development of the parts of the body in turn affects the size and power of the organism's organs and, ultimately, the organism's ability to be preserved through reproduction. 
+
+![Fig2. Lamarckian evolutionary framework](scheme-2.png)
+
+### Buffon's perfect adapted organism
+According to this framework of thought, only when alterations in the environment occur, due to alterations in climate or geography, do variations appear. This is the moment when natural selection operates to adapt the species to new conditions.
+
+Environmental stressors cause the perfectly adapted organism to begin a process of degeneration and lose its original adaptability and perfection. This process that takes place over time gives rise to intermediate or transitional forms, which ultimately explain the diversity of life on earth.
+
+![Fig3. Buffon's evolution framework. Source: own elaboration](scheme-3.png)
 
 ## Origin
 
