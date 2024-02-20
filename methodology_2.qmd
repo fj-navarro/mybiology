@@ -1,0 +1,32 @@
+# Methodology: Meta-synthesis
+
+Meta-synthesis and meta-summary are both methods used in research to synthesize findings across multiple (qualitative) studies, but they have different approaches and goals:
+
+A meta-synthesis involves the integration or synthesis of qualitative findings from multiple primary studies to develop new interpretations, theories, or frameworks. It goes beyond simply summarizing individual study findings; instead, it seeks to identify common themes, patterns, or concepts across studies and generate new insights or understandings. Therefore, a meta-synthesis involves a more interpretive or analytical approach. Through meta-sythesis the goal is to produce a richer, deeper understanding of the phenomenon of evolution by synthesizing and analyzing qualitative data from multiple sources.
+
+Meta-synthesis in qualitative research involves several methodological steps to systematically integrate and analyze findings from multiple primary studies. While specific approaches may vary depending on the research context, here are some general methodological steps commonly used in conducting a meta-synthesis:
+
+1.  **Formulate the research question**: Clearly define the research question or objective of the meta-synthesis. This question should guide the selection of studies, data extraction, and synthesis process.
+
+2.  **Search for relevant studies**: Conduct a comprehensive literature search to identify relevant qualitative studies related to the research question. Use multiple databases, search engines, and other sources to ensure inclusivity.
+
+3.  **Screen and select studies**: Screen the identified studies based on predetermined inclusion and exclusion criteria. These criteria may include factors such as relevance to the research question, study design, methodology, and quality of reporting.
+
+4.  **Extract data from included studies**: Develop a data extraction tool to systematically extract relevant information from each included study. This may include details about the study design, participants, data collection methods, key findings, and themes.
+
+5.  **Analyze and code the data**: Analyze the extracted data from the included studies using qualitative analysis techniques such as thematic analysis or constant comparison. Code the data to identify common themes, patterns, or concepts across studies.
+
+6.  **Synthesize the findings**: Synthesize the coded data to develop overarching themes or concepts that capture the collective findings of the included studies. Look for relationships, contradictions, or divergent perspectives within the data.
+
+7.  **Refine the synthesis**: Iteratively refine the synthesis by revisiting the original data and ensuring that the synthesized findings accurately reflect the nuances and complexities of the individual studies.
+
+8.  **Assess the quality of included studies**: Evaluate the quality of the included studies using established criteria or frameworks for assessing qualitative research, such as the Critical Appraisal Skills Programme (CASP) or the Consolidated Criteria for Reporting Qualitative Research (COREQ).
+
+9.  **Interpret and discuss the findings**: Interpret the synthesized findings in relation to the research question and existing literature. Discuss the implications of the findings for theory, practice, and future research.
+
+10. **Report the findings**: Write up the results of the meta-synthesis following the conventions of qualitative research reporting. Clearly describe the methods used, present the synthesized findings, and provide supporting evidence from the included studies.
+
+11. **Peer review and validation**: Seek feedback from peers, colleagues, or experts in the field to validate the findings and ensure the rigor and credibility of the meta-synthesis.
+
+By following these methodological steps, researchers can conduct a rigorous and systematic meta-synthesis that integrates and analyzes qualitative findings from multiple studies to generate new insights and understandings.
+

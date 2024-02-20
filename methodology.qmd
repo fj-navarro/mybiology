@@ -1,78 +1,106 @@
-# Methodology
+# Methodology 
 
-### Meta-framework analysis
 Meta-framework analysis is a qualitative research method used to analyze and synthesize findings from multiple qualitative studies, particularly when those studies employ different theoretical frameworks or methodologies. This approach goes beyond traditional qualitative synthesis methods by aiming to integrate diverse perspectives and theories into a cohesive framework that captures the complexity of the research topic. Framework synthesis offers a highly structured approach to organizing and analyzing a sheer amount of data that presents the challenge for rigorous analysis (@barnett2009methods).
 
-*Framework synthesis is distinct from the other methods outlined here in that it utilises an a priori „framework‟ – informed by background material and team discussions – to extract and synthesise findings. As such, it is largely a deductive approach although, in addition to topics identified by the framework, new topics may be developed and incorporated as they emerge from the data. (@barnett2009methods).*
+*They employed an iterative process involving familiarization with the literature, gradually developing a conceptual framework based on concepts derived from the review question and the theoretical and empirical literature, applying the framework systematically to evidence from the studies included in the review, and
+constructing a chart for each key dimension with distilled summaries from all relevant documents @dixon2011using.*
+
+*Framework synthesis is distinct from the other methods outlined here in that it utilises an a priori „framework‟ -- informed by background material and team discussions -- to extract and synthesise findings. As such, it is largely a deductive approach although, in addition to topics identified by the framework, new topics may be developed and incorporated as they emerge from the data. (...) One of the novel features of their approach is their use of a conceptual model that was used as an initial starting point for coding the evidence from 20 studies. This conceptual model was chosen because of its broad applicability to the area under review, and the authors did not engage in the more lengthy process of model specification that is often more characteristic of framework synthesis. They augmented analysis using this prespecified model with analysis that was more inductive, and ended up generating a revised conceptual model that provided a ‘best fit’ to the evidence reported in the studies they reviewed. The revised model included some factors that were absent from the original model, as well as adjustments to factors that had been reported in that model.(@barnett2009methods)*
 
 *The synthetic product can be expressed in the form of a chart for each key dimension identified, which may be used to map the nature and range of the concept under study and find associations between themes and exceptions to these (Brunton et al 2006). (@barnett2009methods).*
 
-*Brunton et al applied the approach to a review of children‟s, young people‟s and parents‟ views of walking and cycling; Oliver et al to analyse public involvement in health services research. Framework synthesis is distinct from the other methods outlined here in that it utilises an a priori „framework‟ – informed by background material and team discussions – to extract and synthesise findings. As such, it is largely a deductive approach although, in addition to topics identified by the framework, new topics may be developed and incorporated as they emerge from the data. The synthetic product can be expressed in the form of a chart for each key dimension identified, which may be used to map the nature and range of the concept under study and find associations between themes and exceptions to these (Brunton et al 2006).*
+*Brunton et al applied the approach to a review of children‟s, young people‟s and parents‟ views of walking and cycling; Oliver et al to analyse public involvement in health services research. Framework synthesis is distinct from the other methods outlined here in that it utilises an a priori „framework‟ -- informed by background material and team discussions -- to extract and synthesise findings. As such, it is largely a deductive approach although, in addition to topics identified by the framework, new topics may be developed and incorporated as they emerge from the data. The synthetic product can be expressed in the form of a chart for each key dimension identified, which may be used to map the nature and range of the concept under study and find associations between themes and exceptions to these (Brunton et al 2006).*
 
 *framework synthesis builds on framework analysis,*
 
-In epistemological terms, if we consider at two ends of the spectrum, one a highly constructivist vision of knowledge, and at the other, an unproblematized vision of knowledge as an “objective window open to the world,” the framework synthesis, although still implies a certain interpretation of the data, shares the attributes of critical realism where knowledge of reality is mediated by our perceptions and beliefs. Furthermore, its synthesis results are reproducible and correspond to a shareable objective reality. 
+## Characteristics
 
-Regarding the extent of iteration during the review process, framework analysis involves an iterative process of searching the literature. 
+In **epistemological terms**, if we consider at two ends of the spectrum, one a highly constructivist vision of knowledge, and at the other, an unproblematized vision of knowledge as an "objective window open to the world," the framework synthesis, although still implies a certain interpretation of the data, shares the attributes of critical realism where knowledge of reality is mediated by our perceptions and beliefs. Furthermore, its synthesis results are reproducible and correspond to a shareable objective reality.
+
+Regarding the extent of iteration during the review process, framework analysis involves an iterative process of searching the literature.
 
 Assessing quality is a key component in the review process of framework analysis. Typically, when performing a framework analysis, quality criteria are set for the selection of literature. Those studies that do not meet a certain number of the criteria are excluded.
 
-Framework analysis focuses on describing and summarising their primary data (often in a highly structured and detailed way) and translating the studies into one another. However, it also seeks to push beyond the original data to a fresh interpretation of the phenomena under review.  
+Framework analysis focuses on describing and summarising their primary data (often in a highly structured and detailed way) and translating the studies into one another. However, it also seeks to push beyond the original data to a fresh interpretation of the phenomena under review.
 
-With regards of the synthetic product, namely, what is the synthesis for? It is clear that framework analysis views itself as producing an output that is directly applicable to policy makers and designers of interventions. There are a few framework synthesis which involved policy makers and practitioners in directing the focus of the synthesis and used the themes derived from the synthesis to infer what kind of interventions might be most effective in encouraging walking and cycling. Likewise, the products of the thematic synthesis took the form of practical recommendations for interventions (e.g. „do not promote fruit and vegetables in the same way in the same intervention‟).  
+With regards of the synthetic product, namely, what is the synthesis for? It is clear that framework analysis views itself as producing an output that is directly applicable to policy makers and designers of interventions. There are a few framework synthesis which involved policy makers and practitioners in directing the focus of the synthesis and used the themes derived from the synthesis to infer what kind of interventions might be most effective in encouraging walking and cycling. Likewise, the products of the thematic synthesis took the form of practical recommendations for interventions (e.g. „do not promote fruit and vegetables in the same way in the same intervention‟).
 
-#### Key steps of meta-framework
+## Key steps of meta-framework
+
 Here are the key steps involved in conducting a meta-framework analysis:
 
-1. **Identify relevant studies**: Conduct a systematic search to identify qualitative studies related to the research topic. These studies may employ different theoretical frameworks, methodologies, or perspectives.
+1.  **Identify relevant studies**: Conduct a systematic search to identify qualitative studies related to the research topic. These studies may employ different theoretical frameworks, methodologies, or perspectives.
 
-2. **Extract data**: Extract relevant data from each included study, including key concepts, themes, theoretical frameworks, and methodologies used.
+2.  **Extract data**: Extract relevant data from each included study, including key concepts, themes, theoretical frameworks, and methodologies used.
 
-3. **Code and categorize**: Analyze the extracted data by coding and categorizing the concepts, themes, and frameworks identified in the included studies. This process involves identifying similarities and differences across the studies.
+3.  **Code and categorize**: Analyze the extracted data by coding and categorizing the concepts, themes, and frameworks identified in the included studies. This process involves identifying similarities and differences across the studies.
 
-4. **Develop a meta-framework**: Based on the coded data, develop a meta-framework that integrates the key concepts, themes, and theoretical frameworks identified in the included studies. The meta-framework should capture the overarching structure or framework that emerges from the synthesis of the individual studies.
+4.  **Develop a meta-framework**: Based on the coded data, develop a meta-framework that integrates the key concepts, themes, and theoretical frameworks identified in the included studies. The meta-framework should capture the overarching structure or framework that emerges from the synthesis of the individual studies.
 
-5. **Refine the meta-framework**: Iteratively refine the meta-framework by revisiting the coded data and ensuring that it accurately represents the diversity of perspectives and theories present in the included studies.
+5.  **Refine the meta-framework**: Iteratively refine the meta-framework by revisiting the coded data and ensuring that it accurately represents the diversity of perspectives and theories present in the included studies.
 
-6. **Analyze relationships**: Analyze the relationships between different elements of the meta-framework, such as how concepts and themes from different theoretical frameworks relate to each other or intersect.
+6.  **Analyze relationships**: Analyze the relationships between different elements of the meta-framework, such as how concepts and themes from different theoretical frameworks relate to each other or intersect.
 
-7. **Interpret findings**: Interpret the findings of the meta-framework analysis in relation to the research question or objective. Discuss the implications of the synthesized framework for theory, practice, and future research.
+7.  **Interpret findings**: Interpret the findings of the meta-framework analysis in relation to the research question or objective. Discuss the implications of the synthesized framework for theory, practice, and future research.
 
-8. **Report results**: Write up the results of the meta-framework analysis, describing the methodology used, presenting the synthesized framework, and providing supporting evidence from the included studies.
+8.  **Report results**: Write up the results of the meta-framework analysis, describing the methodology used, presenting the synthesized framework, and providing supporting evidence from the included studies.
 
 Meta-framework analysis offers a systematic approach to synthesizing qualitative research findings from diverse theoretical perspectives and methodologies. By integrating these perspectives into a cohesive framework, researchers can gain a more comprehensive understanding of the research topic and contribute to the advancement of knowledge in the field.
 
-## Meta-synthesis
+#### Atlas.ti
 
-Meta-synthesis and meta-summary are both methods used in research to synthesize findings across multiple (qualitative) studies, but they have different approaches and goals:
+**Process (according to Atlas.ti):**
+Thematic framework: Central to framework analysis is the development of a framework identifying key themes, concepts, and relationships in the data. The framework guides the subsequent stages of coding and charting.
 
-A meta-synthesis involves the integration or synthesis of qualitative findings from multiple primary studies to develop new interpretations, theories, or frameworks. It goes beyond simply summarizing individual study findings; instead, it seeks to identify common themes, patterns, or concepts across studies and generate new insights or understandings. Therefore, a meta-synthesis involves a more interpretive or analytical approach. Through meta-sythesis the goal is to produce a richer, deeper understanding of the phenomenon of evolution by synthesizing and analyzing qualitative data from multiple sources.
+Flexibility: While it provides a clear structure, framework analysis is also adaptable. Depending on the objectives of the study, researchers can modify the process to better suit their data and questions.
 
-Meta-synthesis in qualitative research involves several methodological steps to systematically integrate and analyze findings from multiple primary studies. While specific approaches may vary depending on the research context, here are some general methodological steps commonly used in conducting a meta-synthesis:
+Iterative process: The process in framework analysis is not linear. As data is collected and data analysis progresses, researchers often revisit earlier stages, refining the framework or revising codes to better capture the nuances in the data.*
 
-1. **Formulate the research question**: Clearly define the research question or objective of the meta-synthesis. This question should guide the selection of studies, data extraction, and synthesis process.
+**Benefits of framework analysis**
+Conducting framework analysis has several advantages:
 
-2. **Search for relevant studies**: Conduct a comprehensive literature search to identify relevant qualitative studies related to the research question. Use multiple databases, search engines, and other sources to ensure inclusivity.
+Rigorous data management: The structured approach means data is managed and analyzed with a high level of rigor, minimizing the potential influence of preconceptions.
 
-3. **Screen and select studies**: Screen the identified studies based on predetermined inclusion and exclusion criteria. These criteria may include factors such as relevance to the research question, study design, methodology, and quality of reporting.
+Inclusivity: Framework analysis accommodates both a priori issues, driven by the research questions, and emergent issues that arise from the data itself.
 
-4. **Extract data from included studies**: Develop a data extraction tool to systematically extract relevant information from each included study. This may include details about the study design, participants, data collection methods, key findings, and themes.
+Comparability: Given its structured nature, framework analysis allows researchers to compare and contrast data, facilitating the identification of patterns and differences.
 
-5. **Analyze and code the data**: Analyze the extracted data from the included studies using qualitative analysis techniques such as thematic analysis or constant comparison. Code the data to identify common themes, patterns, or concepts across studies.
+Accessibility: By presenting data in a summarized, charted form, findings from framework analysis become more accessible and comprehensible, aiding in reporting and disseminating results.
 
-6. **Synthesize the findings**: Synthesize the coded data to develop overarching themes or concepts that capture the collective findings of the included studies. Look for relationships, contradictions, or divergent perspectives within the data.
+Relevance for applied research: Given its origins in policy research and its clear focus on addressing specific research questions, framework analysis is particularly relevant for studies aiming to inform policy or practice.
 
-7. **Refine the synthesis**: Iteratively refine the synthesis by revisiting the original data and ensuring that the synthesized findings accurately reflect the nuances and complexities of the individual studies.
+**Implementing**
+Familiarization with the data
+Before discussing a more detailed analysis, it's paramount to understand the breadth and depth of the data at hand.
 
-8. **Assess the quality of included studies**: Evaluate the quality of the included studies using established criteria or frameworks for assessing qualitative research, such as the Critical Appraisal Skills Programme (CASP) or the Consolidated Criteria for Reporting Qualitative Research (COREQ).
+Reading and re-reading: Begin by reading textual data such as transcripts, field notes, and other data sources multiple times. This immersion allows researchers to understand participants' perspectives and grasp the overall context.
 
-9. **Interpret and discuss the findings**: Interpret the synthesized findings in relation to the research question and existing literature. Discuss the implications of the findings for theory, practice, and future research.
+Noting preliminary ideas: As researchers familiarize themselves with the data, preliminary themes or ideas may start to emerge. Jotting these down in memos helps in forming an initial understanding and can be instrumental in the subsequent phase of developing a set of themes.
 
-10. **Report the findings**: Write up the results of the meta-synthesis following the conventions of qualitative research reporting. Clearly describe the methods used, present the synthesized findings, and provide supporting evidence from the included studies.
+Developing a thematic framework
+As is the case across nearly all types of qualitative methodology, central to framework analysis is the construction of a robust analytical framework. This structure aids in organizing and interpreting the data.
 
-11. **Peer review and validation**: Seek feedback from peers, colleagues, or experts in the field to validate the findings and ensure the rigor and credibility of the meta-synthesis.
+Identifying key themes: Based on the initial familiarization, it's important to identify themes that occur in the multimedia or textual data. These themes should be relevant to the research question. Researchers can begin assigning codes to specific chunks of data to capture emerging themes.
 
-By following these methodological steps, researchers can conduct a rigorous and systematic meta-synthesis that integrates and analyzes qualitative findings from multiple studies to generate new insights and understandings.
+Categorizing and coding: Each identified theme can further be broken down into sub-themes or brought together under categories. At this stage, researchers can continue coding (or recoding) their data according to these themes or categories.
+
+Refining the framework: As the analysis progresses, the initial themes represented by your coding framework may need adjustments. It's an iterative process, where the framework can be continually refined to better fit the data.
+
+Indexing and charting the data
+Once the framework is established, the next phase involves systematically applying it to the data.
+
+Indexing: Using the resulting coding framework, you can verify that codes have been systematically assigned to relevant portions of the data. This ensures every relevant piece of data is categorized under the appropriate theme or sub-theme.
+
+Charting: This step involves creating charts or matrices for each theme. Data from different sources (like interviews or focus groups) is summarized under the relevant theme. For example, a table can be created with each theme in a column and each data source in a row, and researchers can then populate the cells with relevant data extracts or notes. These charts provide a visual representation, allowing researchers to easily see patterns or discrepancies in the data.
+
+Mapping and Interpretation: With the data systematically charted, researchers can begin to map the relationships between themes and interpret the broader implications. This step is where the true essence of the research emerges, as researchers link the patterns in the data to the broader objectives of the study.
+
+Framework analysis is an involved process, with intentional decision-making at every step of the way. As a result, implementing structured qualitative methodologies such as framework analysis requires patience, meticulous attention to detail, and a clear understanding of the research objectives. When conducted diligently, it offers a transparent and systematic approach to analyzing qualitative data, ensuring the research not only has depth but also clarity.
+
+Whether comparing data across multiple sources or drilling down into the nuances of individual narratives, framework analysis equips researchers with the tools needed to derive meaningful insights from their qualitative data. As more researchers across disciplines recognize its value, it stands to become an even more integral part of the research landscape.
+
+## Benefits
+Putting more time into specifying the model, using a wider range of literature, and gaining the views of a wider range of stakeholders may all be important in improving the legitimacy and validity of any ensuring synthesis @dixon2011using.
 
 ## The pearl-growing technique
 
@@ -101,22 +129,20 @@ The pearl-growing technique is valuable for ensuring that researchers identify a
 *Paterson et al described meta-synthesis as a process which creates a new interpretation which accounts for the results of all three elements of analysis; however, they do not make it clear exactly how all three components of analysis are brought together to achieve this „new interpretation‟.*
 
 ## Differences with systematic review
+
 Meta-synthesis and systematic literature review are both methods used in qualitative research to synthesize findings from multiple studies, but they differ in their objectives, approaches, and synthesis techniques. Here are the key differences between meta-synthesis and systematic literature review:
 
-1. **Objective**:
-   - Meta-synthesis: The primary objective of meta-synthesis is to integrate and interpret qualitative findings from multiple studies to develop new understandings, theories, or conceptual frameworks. Meta-synthesis aims to generate insights that go beyond the individual studies and provide a deeper understanding of the research topic.
-   - Systematic literature review: The primary objective of a systematic literature review is to provide a comprehensive overview of the existing literature on a particular topic. It aims to summarize and critically evaluate the findings of relevant studies, identify gaps or inconsistencies in the literature, and provide a synthesis of the current state of knowledge.
-
-2. **Approach**:
-   - Meta-synthesis: Meta-synthesis typically involves a qualitative analysis approach, where researchers extract, analyze, and interpret qualitative data from multiple studies. It often involves thematic analysis, constant comparison, or other qualitative synthesis techniques to identify common themes, patterns, or concepts across studies.
-   - Systematic literature review: Systematic literature reviews can involve both qualitative and quantitative research methods, depending on the nature of the research question and available literature. They follow a systematic and transparent process for searching, selecting, appraising, and synthesizing studies, often using predetermined criteria and structured data extraction forms.
-
-3. **Synthesis technique**:
-   - Meta-synthesis: In meta-synthesis, researchers synthesize qualitative findings from multiple studies to develop new interpretations, theories, or frameworks. This synthesis may involve identifying common themes, patterns, or concepts across studies, as well as exploring relationships, contradictions, or divergent perspectives within the data.
-   - Systematic literature review: In a systematic literature review, the synthesis may involve summarizing and categorizing the findings of included studies, identifying trends or patterns in the data, and providing a narrative or descriptive synthesis of the literature. The focus is on summarizing and synthesizing existing knowledge rather than generating new interpretations or theories.
-
-4. **Output**:
-   - Meta-synthesis: The output of a meta-synthesis is often a synthesized framework, model, or theory that integrates findings from multiple qualitative studies. This output provides a deeper understanding of the research topic and may generate new insights or perspectives.
-   - Systematic literature review: The output of a systematic literature review is typically a comprehensive summary of the existing literature, including key findings, trends, gaps, and recommendations for future research. It provides a snapshot of the current state of knowledge on the topic and may inform practice, policy, or further research.
+1.  **Objective**:
+    -   Meta-synthesis: The primary objective of meta-synthesis is to integrate and interpret qualitative findings from multiple studies to develop new understandings, theories, or conceptual frameworks. Meta-synthesis aims to generate insights that go beyond the individual studies and provide a deeper understanding of the research topic.
+    -   Systematic literature review: The primary objective of a systematic literature review is to provide a comprehensive overview of the existing literature on a particular topic. It aims to summarize and critically evaluate the findings of relevant studies, identify gaps or inconsistencies in the literature, and provide a synthesis of the current state of knowledge.
+2.  **Approach**:
+    -   Meta-synthesis: Meta-synthesis typically involves a qualitative analysis approach, where researchers extract, analyze, and interpret qualitative data from multiple studies. It often involves thematic analysis, constant comparison, or other qualitative synthesis techniques to identify common themes, patterns, or concepts across studies.
+    -   Systematic literature review: Systematic literature reviews can involve both qualitative and quantitative research methods, depending on the nature of the research question and available literature. They follow a systematic and transparent process for searching, selecting, appraising, and synthesizing studies, often using predetermined criteria and structured data extraction forms.
+3.  **Synthesis technique**:
+    -   Meta-synthesis: In meta-synthesis, researchers synthesize qualitative findings from multiple studies to develop new interpretations, theories, or frameworks. This synthesis may involve identifying common themes, patterns, or concepts across studies, as well as exploring relationships, contradictions, or divergent perspectives within the data.
+    -   Systematic literature review: In a systematic literature review, the synthesis may involve summarizing and categorizing the findings of included studies, identifying trends or patterns in the data, and providing a narrative or descriptive synthesis of the literature. The focus is on summarizing and synthesizing existing knowledge rather than generating new interpretations or theories.
+4.  **Output**:
+    -   Meta-synthesis: The output of a meta-synthesis is often a synthesized framework, model, or theory that integrates findings from multiple qualitative studies. This output provides a deeper understanding of the research topic and may generate new insights or perspectives.
+    -   Systematic literature review: The output of a systematic literature review is typically a comprehensive summary of the existing literature, including key findings, trends, gaps, and recommendations for future research. It provides a snapshot of the current state of knowledge on the topic and may inform practice, policy, or further research.
 
 In summary, while both meta-synthesis and systematic literature review involve synthesizing findings from multiple studies, they differ in their objectives, approaches, synthesis techniques, and output. Meta-synthesis aims to develop new interpretations or frameworks based on qualitative data, while systematic literature reviews provide a comprehensive overview of the existing literature on a topic.

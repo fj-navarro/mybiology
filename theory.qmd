@@ -1,0 +1,14 @@
+# Theory
+
+-   The concept of evolutionary frameworks in the economics/firm/business literature
+-   Reviews of framework studies 
+
+*The following section combines several of these aspects, to provide a ‘meta-framework’ for evaluating STI frameworks.*
+
+## What is a Framework?
+*At a general level, in this paper a framework is understood as an abstraction: a type of mental and communicative construct to help build a coherent world view. A framework is not always visible to the user, but a framework for the use of indicators in a decision making context should be designed in a conscious, communicative process (15). Assmuth & Hildén (16) define frameworks as “the conceptual and procedural constructs that assimilate, process, and give meaning to
+information”. This definition highlights two dimensions to help frameworks do precisely this: 1) the ‘conceptual’ dimension that aims to capture the substance or essence of what is to be measured and elucidated (for example, frameworks to measure ‘sustainability’ organized in the Triple Bottom Line (TBL) domains), and 2) the ‘procedural’ or ‘operational’ dimension, which refers to more practical concerns – who needs to do what to collect, produce and report the required information? A third important dimension not highlighted by Assmuth and Hilden’s definition concerns the
+purpose of the information, what is termed hereon the ‘utilization’ function. @cornet2015building*
+
+## What is the purpose of a Meta-Framework?
+*A meta-framework is understood as an overarching frame for what should inform the analysis and eventually the design of STI practice frameworks, meaning frameworks used by or provided for transportation policy and planning bodies to select and apply indicators for sustainable transportation. The meta-framework is not a general theory, nor a master framework to be adopted directly by agencies, but a classification and evaluation device. It should, above all, allow for a structuring of the empirical analysis of frameworks adopted by agencies in practice. Such analysis will review how the conceptual, operational and utilization functions of a case framework are performed, and how the most important criteria for each function are fulfilled. These criteria should allow a comprehensive analysis of the strengths and weaknesses of different practical frameworks with regard to how well they manage to connect sustainability theory to action.@cornet2015building*

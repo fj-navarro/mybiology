@@ -8,6 +8,7 @@ book:
   chapters:
     - index.qmd
     - intro_2.qmd
+    - theory.qmd
     - methodology.qmd
     - description.qmd
     - discussion.qmd
