@@ -1,15 +1,18 @@
 # Abstract {.unnumbered}
+
 This paper presents a data-driven, meta-framework to support evidence-based decisions for researchers and practitioners when designing, investigating and implementing social complex systems: the EVOLUTIOSoc framework.
 
-EVOLUTIOSoc was developed through a two-stage process. 
+EVOLUTIOSoc was developed through a two-stage process.
 
-Stage one comprised a large-scale bibliometric review and thematic grouping of topics based on natural language processing of over 18,403 positive psychology studies. 
+Stage one comprised the thematic grouping of topics based on a seminal evolution history work. Stage two involved testing the framework and fine-tuning it with selected works in evolution, both from the field of biology and the social sciences.
 
-Stage two involved action-research with ten schools testing the practical validity of the wellbeing themes identified in stage one with educators. 
+*Stage one comprised a large-scale bibliometric review and thematic grouping of topics based on natural language processing of over 18,403 positive psychology studies. *
 
-The result of these two stages identified six overarching pathways to wellbeing that formed the SEARCH framework: 1) strengths, 2) emotional manage- ment, 3) attention and awareness, 4) relationships, 5) coping and 6) habits and goals. 
+*Stage two involved action-research with ten schools testing the practical validity of the wellbeing themes identified in stage one with educators.*
 
-The **aim** of this current review paper was to examine the existing educational and psychology literature for evidence ofwhether each SEARCH pathway has been found to successfully foster student wellbeing. Seventy five peer-reviewed studies (total student N= 35,888) were reviewed from North America, Europe, the United Kingdom, Asia, Australia and New Zealand. 
+The **result** of these two stages identified six overarching pathways to wellbeing that formed the SEARCH framework: 1) strengths, 2) emotional manage- ment, 3) attention and awareness, 4) relationships, 5) coping and 6) habits and goals.
+
+The **aim of this current review paper** was to examine the existing educational and psychology literature for evidence ofwhether each SEARCH pathway has been found to successfully foster student wellbeing. Seventy five peer-reviewed studies (total student N= 35,888) were reviewed from North America, Europe, the United Kingdom, Asia, Australia and New Zealand.
 
 **Results** demonstrate the value and applicability of the SEARCH framework. The comprehensive review conducted in this paper is then used to discuss current gaps in positive education research as well as present the utility of SEARCH as a framework to support positive education science and practice.
 

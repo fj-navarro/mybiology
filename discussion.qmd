@@ -1,6 +1,88 @@
 # Discussion
+*The SEARCH framework has been developed as a tool to support future research and practice in positive education and to help overcome (...) @waters2019search*
 
-## On Evolution
+*SEARCH is a data-driven, multidimensional and actionable framework, comprising six evidence-based pathways to foster wellbeing. The higher-order nature of these path- ways provides a comprehensive and integrated focus whilst still (...) @waters2019search*
+
+*To further establish the utility of SEARCH for school students the current review paper examined whether the existing evidence from published positive education interventions mapped on to the six pathways. Eighty-five peer-reviewed intervention studies were identified that had tested the effects of each of the SEARCH pathways on students. The interventions were tested in school students ranging from ages (...)@waters2019search*
+
+*The intervention studies showed a consistent pattern of evidence that each of the six pathways can be effectively targeted to improve wellbeing and academic outcomes, although tests of efficacy were not universally significant. Positive(...) @waters2019search*
+
+## Using SEARCH as a Meta-Framework to Guide Future Research 
+*We offer SEARCH as a useful framework to help researchers scaffold and build the science of positive education. For example, when researchers are designing and/or evaluating (...) A positive consequence of this is that it may create greater connections amongst researchers and foster stronger cross-pollination across topics when pulled together by an overarching framework like SEARCH.*
+*@waters2019search*
+
+*One potential avenue ofresearch using SEARCH may be in developmental psychology where the framework can be used to create an age-stage appropriate scope and sequencing of wellbeing curriculums. In addition, research may also show that certain pathways are needed to be developed earlier than other pathways in certain ages (...) Such developmental questions on how to best build wellbeing over time can be scaffolded by using the SEARCH meta- framework.*@waters2019search*
+
+## Gaps in Positive Education Research
+*The current review of existing positive education literature has identified a number of gaps that can be addressed through future research. First, (...)*
+*@waters2019search*
+
+*Another gap identified in this review paper is the disparity of research conducted between the six pathways in positive education interventions (...) @waters2019search*
+
+*Finally, this review points towards the need for more RCT designs to be used when testing the effectiveness of positive education interventions (...)@waters2019search*
+
+*One untapped area for future research is the effect of context and where and how the interventions are delivered. In the current review, the bulk of the interventions were (...)@waters2019search*
+
+## Using SEARCH as a Meta-Framework to Guide School Practice
+*@waters2019search*
+**Note: meter aquí el archivo de "Implications"**
+
+*SEARCH is not only an evidence-based framework to guide research in the field, it is also a framework that can guide practical application in schools, something that White and Kern (2018) highlight as being ofcentral importance.We offer SEARCH as a framework to assist schools when implementing positive education interventions in a co-ordinated manner across different year levels and across all areas of the school (...) @waters2019search*
+
+*SEARCH provides a data-driven, action-research informed framework for teachers to use when designing positive education interventions. Educators are encouraged to think not only about the content ofthe intervention but how that intervention can be used to build one or more of the higher-order pathways ofwellbeing. For example, while (...) @waters2019search*
+
+*Beyond the design ofindividual positive education interventions, SEARCH can be used to design larger wellbeing curriculums. Such curriculums can teach students how to (...) @waters2019search*
+
+*School leaders and administrators can find strategic and consistent ways to infuse SEARCH into elements of the school that impact faculty and staff such as recruitment and selection, performance development, professional learning, employee wellbeing programs and staff/faculty room culture. A key question for school leaders prompted by the SEARCH framework is ‘How can I intentionally create a culture that fosters strengths, emotional management, attention and awareness, relationships, coping and habits and goals for all the adult members of the school?@waters2019search*
+
+## Practical Implications
+
+### Evolutionary analyst
+
+One of the practical benefits derived from the present proposal of formulating an evolutionary systems analytical framework is to determine the need to have professionals with an evolutionary analyst profile. An evolutionary analyst is understood to be an academic or professional who has a clear and deep understanding of the evolutionary functioning of systems and who is capable of using rigorous analysis and tools to determine the factors that explain their essence and elements of change.
+
+### Prediction ability
+
+If we are able to acquire a deep understanding of the functioning of the evolutionary system, its components, behaviors and flow of changes, we can then better foresee in which direction the evolutionary system is moving and glimpse whether the system has the capacity to survive or, on the contrary, is doomed to disappearance.
+
+It is worth considering the possibility of whether, based on increasingly deeper knowledge of the evolution of a system, it would be possible to act on the future of the system. In other words, if it could be feasible to design your own plan and carry it out based on the knowledge generated about the evolution of the system.
+
+To what extent is the system under observation random in change or does it evidence a logic that can be known and even altered based on our desires or needs?
+
+### Manipulation of the system and its programmability
+
+If they were really able to manipulate the system as we wish, on what elements would it be most feasible to do so? Would it be possible to act on both the structural and behavioral elements, only on one of them? Being able to act on a known evolutionary system would open new and great opportunities to design systems that meet a wide diversity of needs.
+
+The above would necessarily entail having to assess the ethical problems of altering the course of nature and the new problems that would emerge by distorting the natural mechanisms of the functioning of life and society. The opposite position would be to conclude that the system is unalterable and we cannot intelligently design it to satisfy our desires.
+
+Society would go from a stage in which social systems are considered elusive to another in which we would be able to know to what extent their evolution is random, to what extent there is causality and to what extent they are programmable.
+
+### Inform and activate policies
+
+An evolutionary analysis framework can serve to inform who cannot support themselves, namely, who is more likely to survive and continue competitive, and who is threatened by disappearance.
+
+Identifying who dominates over whom, that is, elucidating the relationships and power structures has great significance, but it is also a way to understand how species advance. In fact, the process of replacement or extinction of species is an essential aspect to understand human progress.
+
+The level at which the analyst expects to inform policy, or the level of contribution expected by decision makers from an evolutionary model, is a factor in determining the level of analysis to be used in the "struggle for existence."
+
+Additionally, if education (education policies) could improve individuals, the benefits could perhaps be passed on through inheritance (this is a Lamarckian view).
+
+### Overcoming the barriers that prevent systematic struggle
+
+From the RQs: Another question that the evolutionary analyst can try to resolve is whether the individual **permits the struggle** to take place and, if not, to what extent this weakens the individual and, therefore, that the individual enters into a process of degeneration that leads to a replacement by another individual.
+
+This leads us to the recommendation, in some circumstances mediated by policies, that the struggle does not have constraints that condition it. Thus, as the environment continues to pose challenges that must be faced (resolved) by the individual, progress will continues.
+
+### Eugenics of individuals
+
+The above leads us to the problem of eugenics, and the reflection on to what extent the system must ensure that the selection produces and there are no barriers for it to unfold its effects.
+
+### The connection with complex systems
+
+The analysis of evolutionary systems demonstrates a connection with complex systems, such that species should be seen as complex systems with an enormous amount of variation, stimulated by selection.
+
+## Framework Thematic Discussion
+### On Evolution
 
 When addressing the study of an evolutionary system, it is of paramount importance to first elucidate what **the unit** of the system will be, on which the entire conceptual and methodological apparatus of evolution will be applied. This is a discussion that has changed over time, having moved from the individual organism to what is currently considered a more correct approach, the gene. What the above means is that instead of prioritizing "adaptive fitness" in the analysis, today it seems more appropriate to focus on the reproductive success of the individual. This new perspective has given rise to the movement of ultra-Darwinism.
 
@@ -8,30 +90,33 @@ The analysis of evolutionary **stratigraphy**, that is, the analysis of the evol
 
 The geological **law of superposition**, which states that in any sequence of undisturbed sedimentary rocks, each layer of rock is younger than the one below it and older than the one above it, can be used analogously in the analysis of an evolutionary system, thus establishing that each lower layer manifests a behavior on which the behavior of the upper layer is based.
 
-### Hierarchy
+#### Hierarchy
+
 The idea of hierarchy involves something on top down to somethinge else.
 
 Once the evolutionary system has been sliced into strata and the evidence that each one individually provides, as well as that of the global stratigraphic system, has been analyzed, the evolutionary analyst will be able to infer the **hierarchical structure** of evolutionary elements that characterize the system under observation.
 
-### Classification
+#### Classification
+
 A classification or taxonomy is a procedure used to better understand the diversity (and variation) of organisms.
 
 When studying the evolution of a population, building a **classification or taxonomy** of units (species) becomes relevant. This requires discipline and deep analysis into the building blocks and the relationships (or degrees of relationships) that stand between individuals. By formulating a classification/taxonomy, new avenues can be opened that allow the evolutionary analyst to trace (and understand) the past of the units and make it easier to foresee the next steps that the unit will go through.
 
-With a classification or taxonomy the analyst can study the diversity of the units (species) based e.g. in their morphology, as well as the ecological relationships that exist between them. 
+With a classification or taxonomy the analyst can study the diversity of the units (species) based e.g. in their morphology, as well as the ecological relationships that exist between them.
 
 In the history of evolution, three major frameworks for classifying species are usually proposed:
 
-1. Chain of being (Bonnet) -> it is a hierarchical chain of relationships
-2. The rope of being (Rubinet)
-3. Lineo taxonomy based on visible resemblances (with no hierarchy)
+1.  Chain of being (Bonnet) -\> it is a hierarchical chain of relationships
+2.  The rope of being (Rubinet)
+3.  Lineo taxonomy based on visible resemblances (with no hierarchy)
 
-### Miscelaneous
+#### Miscelaneous
+
 The idea of the extent to which the **history of "life"** has been progressive but in an irregular way.
 
 The idea of **"emergent evolution"** (Lloyd Morgan) which highlights the new high-level properties that appear as evolution reaches a certain level of complexity.
 
-## On the Origin
+### On the Origin
 
 The idea of the Origin is consubstantially associated with the idea of an **end**, since everything that begins must necessarily have an end.
 
@@ -39,9 +124,9 @@ The problem of origin is closed related to the **problem of generation**, thus t
 
 An alternative perspective to the problem of origin can be raised from **biogenesis** (life arising from non-living matter) and the **"primordial soup"** (Opsin), that is, the combination of elements that gives rise to the synthesis of compounds " organic" after adding energy to the system (from lightning, UVA radiation, volcanic activity, etc.)
 
-## On the Environment
+### On the Environment
 
-### On the Forces
+#### On the Forces
 
 We do not know the forces (and their sources) that operate driving the process of change in the individuals of a population.
 
@@ -49,7 +134,7 @@ Apart from the forces that operate at the level of individuals, it is necessary 
 
 What is the materiality of the pressure for change exerted by an environmental force?
 
-### On Selection
+#### On Selection
 
 One of the most difficult questions that every evolutionary analyst must face is how the **selection process** imposed by the environment actually work, and to what extent different alternative selection approaches can help explain the evolutionary course of the system.
 
@@ -57,9 +142,9 @@ We refer to the selection process not as the blind application of a closed parad
 
 ### On the Unit
 
-### On the Structure
+#### On the Structure
 
-### On the Behavior
+#### On the Behavior
 
 To what extent is the system's behavior governed by inherited **instincts**? And to what extent can the selection process alter instincts? Are instincts constraints to the development of behavior and the process of change, or are they not such constraints?
 
@@ -75,7 +160,7 @@ The problem of **hierarchy** can also affect behavior to the point that the evol
 
 It is important for the evolutionary analyst to assess to what extent there is the possibility that we have the ability to **control genes** and, therefore, that we can control how human behavior can be controlled (The Blind Watchmaker- R.Dawkins)
 
-## On Change
+### On Change
 
 We know what an individual is today, but we do not know how an individual became what it is today. This necessarily raises the need to study the **historical past** as a source of knowledge to understand the process of change or evolution followed.
 
@@ -103,9 +188,10 @@ It is evident that the clock idea would not offer precise information similar to
 
 A possible model that explains the evolutionary process that should be seriously taken into account is known as **punctuated equilibria"**. According to this model, species remain relatively stable and in equilibrium with their environment for long periods of time. During this time they register small changes in their morphology or level of adaptation. However, at certain times, sudden changes occur that trigger evolutionary episodes of changes (punctuation) associated with events that are accompanied by speciation. These periods of rapid change would be interspersed with long periods of stasis.
 
-The evolutionary analyst should open to the notion of **arrow of time**, and the preferred direction or sequence of change. And if the change process is reversible vs irreversible (with higher entropy). In turn, this should lead the analyst to consider the predictability or unpredictability of evolution. 
+The evolutionary analyst should open to the notion of **arrow of time**, and the preferred direction or sequence of change. And if the change process is reversible vs irreversible (with higher entropy). In turn, this should lead the analyst to consider the predictability or unpredictability of evolution.
 
-Is the result of evolution the same system of a new one? 
+Is the result of evolution the same system of a new one?
 
-## On Heredity
+### On Heredity
+
 What are the limits of heredity (change)?

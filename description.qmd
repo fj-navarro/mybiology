@@ -1,4 +1,11 @@
 # Description
+*It is clear that positive education will benefit from the development of meta-frameworks to guide research and practice. To this end, the first author of this paper has been involved in a multi-year programme of research to develop a data-driven, meta- framework in positive education - the SEARCH framework. SEARCH has been developed to help researchers organize current scientific findings and to advance future research. The framework is also designed to help (...) @waters2019search*
+
+*SEARCH is a new meta-framework that is higher-order in nature, evidence-based, actionable and multi-dimensional. SEARCH was developed through two key stages of research. Stage one involved a large-scale, ‘birds-eye’, review of the science of positive psychology in order to determine the key pathways of positive functioning/ well-being (Rusk and Waters 2015). Stage two involved road testing the pathways identified in stage one via action research in ten schools. Both of these stages will be now be described.@waters2019search*
+
+*With regard to stage one,(...) Findings revealed five over-arching pathways: 1) virtues and relationships, 2) emotional management, 3) attention and awareness, 4) comprehension and coping and 5) habits and goals. These five pathways formed the first iteration of the positive psychology (PP) framework @waters2019search*
+
+*(...)At the completion of stage one and two the six pathways comprising the framework were established. By taking the first letter of each pathway, the acronym SEARCH was created, and Fig. 1 visually depicts the six pathways of the SEARCH positive education framework.@waters2019search*
 
 It is important to clearly establish the differences that distinguish an evolutionary process from another of change or transformation. Although these are related concepts in evolutionary theory, they actually denote different processes that act on different agents, which is why they tend to be confusing even among some specialists.
 
@@ -48,7 +55,7 @@ According to this framework of thought, only when alterations in the environment
 
 Environmental stressors cause the perfectly adapted organism to begin a process of degeneration and lose its original adaptability and perfection. This process that takes place over time gives rise to intermediate or transitional forms, which ultimately explain the diversity of life on earth.
 
-![Fig3. Buffon\'s evolution framework. Source: own elaboration](scheme-3.png) \### Spencer's framework Herbert Spencer's analytical framework establishes that new situations in the environment give rise to organisms having to learn how to cope with them. From this learning is derived the development of new instincts, which are more complex human faculties, which allow the organism to be more prepared to face the "survival of the fittest."
+![Fig3. Buffon's evolution framework. Source: own elaboration](scheme-3.png) \### Spencer's framework Herbert Spencer's analytical framework establishes that new situations in the environment give rise to organisms having to learn how to cope with them. From this learning is derived the development of new instincts, which are more complex human faculties, which allow the organism to be more prepared to face the "survival of the fittest."
 
 ## Origin
 

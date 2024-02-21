@@ -1,11 +1,10 @@
-# Methodology 
+# Methodology
 
 Meta-framework analysis is a qualitative research method used to analyze and synthesize findings from multiple qualitative studies, particularly when those studies employ different theoretical frameworks or methodologies. This approach goes beyond traditional qualitative synthesis methods by aiming to integrate diverse perspectives and theories into a cohesive framework that captures the complexity of the research topic. Framework synthesis offers a highly structured approach to organizing and analyzing a sheer amount of data that presents the challenge for rigorous analysis (@barnett2009methods).
 
-*They employed an iterative process involving familiarization with the literature, gradually developing a conceptual framework based on concepts derived from the review question and the theoretical and empirical literature, applying the framework systematically to evidence from the studies included in the review, and
-constructing a chart for each key dimension with distilled summaries from all relevant documents @dixon2011using.*
+*They employed an iterative process involving familiarization with the literature, gradually developing a conceptual framework based on concepts derived from the review question and the theoretical and empirical literature, applying the framework systematically to evidence from the studies included in the review, and constructing a chart for each key dimension with distilled summaries from all relevant documents @dixon2011using.*
 
-*Framework synthesis is distinct from the other methods outlined here in that it utilises an a priori „framework‟ -- informed by background material and team discussions -- to extract and synthesise findings. As such, it is largely a deductive approach although, in addition to topics identified by the framework, new topics may be developed and incorporated as they emerge from the data. (...) One of the novel features of their approach is their use of a conceptual model that was used as an initial starting point for coding the evidence from 20 studies. This conceptual model was chosen because of its broad applicability to the area under review, and the authors did not engage in the more lengthy process of model specification that is often more characteristic of framework synthesis. They augmented analysis using this prespecified model with analysis that was more inductive, and ended up generating a revised conceptual model that provided a ‘best fit’ to the evidence reported in the studies they reviewed. The revised model included some factors that were absent from the original model, as well as adjustments to factors that had been reported in that model.(@barnett2009methods)*
+*Framework synthesis is distinct from the other methods outlined here in that it utilises an a priori „framework‟ -- informed by background material and team discussions -- to extract and synthesize findings. As such, it is largely a deductive approach although, in addition to topics identified by the framework, new topics may be developed and incorporated as they emerge from the data. (...) One of the novel features of their approach is their use of a conceptual model that was used as an initial starting point for coding the evidence from 20 studies. This conceptual model was chosen because of its broad applicability to the area under review, and the authors did not engage in the more lengthy process of model specification that is often more characteristic of framework synthesis. They augmented analysis using this prespecified model with analysis that was more inductive, and ended up generating a revised conceptual model that provided a 'best fit' to the evidence reported in the studies they reviewed. The revised model included some factors that were absent from the original model, as well as adjustments to factors that had been reported in that model.(@barnett2009methods)*
 
 *The synthetic product can be expressed in the form of a chart for each key dimension identified, which may be used to map the nature and range of the concept under study and find associations between themes and exceptions to these (Brunton et al 2006). (@barnett2009methods).*
 
@@ -49,15 +48,13 @@ Meta-framework analysis offers a systematic approach to synthesizing qualitative
 
 #### Atlas.ti
 
-**Process (according to Atlas.ti):**
-Thematic framework: Central to framework analysis is the development of a framework identifying key themes, concepts, and relationships in the data. The framework guides the subsequent stages of coding and charting.
+**Process (according to Atlas.ti):** Thematic framework: Central to framework analysis is the development of a framework identifying key themes, concepts, and relationships in the data. The framework guides the subsequent stages of coding and charting.
 
 Flexibility: While it provides a clear structure, framework analysis is also adaptable. Depending on the objectives of the study, researchers can modify the process to better suit their data and questions.
 
-Iterative process: The process in framework analysis is not linear. As data is collected and data analysis progresses, researchers often revisit earlier stages, refining the framework or revising codes to better capture the nuances in the data.*
+Iterative process: The process in framework analysis is not linear. As data is collected and data analysis progresses, researchers often revisit earlier stages, refining the framework or revising codes to better capture the nuances in the data.\*
 
-**Benefits of framework analysis**
-Conducting framework analysis has several advantages:
+**Benefits of framework analysis** Conducting framework analysis has several advantages:
 
 Rigorous data management: The structured approach means data is managed and analyzed with a high level of rigor, minimizing the potential influence of preconceptions.
 
@@ -69,16 +66,13 @@ Accessibility: By presenting data in a summarized, charted form, findings from f
 
 Relevance for applied research: Given its origins in policy research and its clear focus on addressing specific research questions, framework analysis is particularly relevant for studies aiming to inform policy or practice.
 
-**Implementing**
-Familiarization with the data
-Before discussing a more detailed analysis, it's paramount to understand the breadth and depth of the data at hand.
+**Implementing** Familiarization with the data Before discussing a more detailed analysis, it's paramount to understand the breadth and depth of the data at hand.
 
 Reading and re-reading: Begin by reading textual data such as transcripts, field notes, and other data sources multiple times. This immersion allows researchers to understand participants' perspectives and grasp the overall context.
 
 Noting preliminary ideas: As researchers familiarize themselves with the data, preliminary themes or ideas may start to emerge. Jotting these down in memos helps in forming an initial understanding and can be instrumental in the subsequent phase of developing a set of themes.
 
-Developing a thematic framework
-As is the case across nearly all types of qualitative methodology, central to framework analysis is the construction of a robust analytical framework. This structure aids in organizing and interpreting the data.
+Developing a thematic framework As is the case across nearly all types of qualitative methodology, central to framework analysis is the construction of a robust analytical framework. This structure aids in organizing and interpreting the data.
 
 Identifying key themes: Based on the initial familiarization, it's important to identify themes that occur in the multimedia or textual data. These themes should be relevant to the research question. Researchers can begin assigning codes to specific chunks of data to capture emerging themes.
 
@@ -86,8 +80,7 @@ Categorizing and coding: Each identified theme can further be broken down into s
 
 Refining the framework: As the analysis progresses, the initial themes represented by your coding framework may need adjustments. It's an iterative process, where the framework can be continually refined to better fit the data.
 
-Indexing and charting the data
-Once the framework is established, the next phase involves systematically applying it to the data.
+Indexing and charting the data Once the framework is established, the next phase involves systematically applying it to the data.
 
 Indexing: Using the resulting coding framework, you can verify that codes have been systematically assigned to relevant portions of the data. This ensures every relevant piece of data is categorized under the appropriate theme or sub-theme.
 
@@ -100,7 +93,16 @@ Framework analysis is an involved process, with intentional decision-making at e
 Whether comparing data across multiple sources or drilling down into the nuances of individual narratives, framework analysis equips researchers with the tools needed to derive meaningful insights from their qualitative data. As more researchers across disciplines recognize its value, it stands to become an even more integral part of the research landscape.
 
 ## Benefits
+
 Putting more time into specifying the model, using a wider range of literature, and gaining the views of a wider range of stakeholders may all be important in improving the legitimacy and validity of any ensuring synthesis @dixon2011using.
+
+**Purpose of Meta-Framework**
+
+- A meta-framework is understood as an overarching frame for what should inform the analysis and eventually the design of STI practice frameworks, meaning frameworks used by or provided for transportation policy and planning bodies to select and apply indicators for sustainable transportation. The meta-framework is not a general theory, nor a master framework to be adopted directly by agencies, but a **classification** and **evaluation** device. @cornet2015building
+
+- Comparative analysis based on the meta-framework could identify common features and gaps, and be used as **a basis for testing hypotheses** regarding how indicators influence decisions on option generation, design, operation, maintenance and other aspects of transportation systems. Eventually it should help evolve sustainability measurement in transportation planning from a position as a niche, ad hoc, or add-on activity into something like an “Organizing Principle for Transportation Agencies”, as it has recently been formulated (21). @cornet2015building
+
+- Therefore, rather than a ‘recipe’ to be applied directly by agencies, the meta-framework is first and foremost a scheme for further empirical analysis of existing frameworks. The next step is to refine and apply the criteria via empirical analysis of how frameworks have been developed and used in real world conditions. Eventually this will allow for building a robust set of criteria based on theory as well as realism @cornet2015building
 
 ## The pearl-growing technique
 
