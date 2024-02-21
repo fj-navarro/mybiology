@@ -1,6 +1,30 @@
 # Methodology
 
+*Policy-makers and practitioners are increasingly aware of the limitations of regarding randomised controlled trials as the sole source of ‘evidence’. This has resulted in growing calls for more inclusive forms of review, so that better use may be made of primary data. Some questions can only be appropriately answered by examining a range of data sources; maximum value can be gained from studies able to overcome problems with access to sensitive or hard-to-reach settings; contra- dictions in the evidence-base can be identified and examined; and theory development or specification of operational models can be optimised.@dixon2005synthesising*
+
+*Noblit and Hare introduce a useful distinction between integrative and interpretive reviews. Instead, (Dixon et al., 2005) we suggest that integrative syntheses are those where the focus is on summarising data, and where the concepts (or variables) under which data are to be summarised are assumed to be largely secure and well specified (...) the primary focus of an integrative synthesis is not on the development of concepts or their specification. @dixon2005synthesising*
+
+*we suggest that the defining characteristic of an interpretive synthesis is its concern with the development of concepts, and with the development and specification of theories that integrate those concepts (...) An interpretive synthesis will therefore avoid specifying concepts in advance of the synthesis. In contrast with an integrative synthesis, it will not be concerned to fix the meaning of those concepts at an early stage. @dixon2005synthesising*
+
+*The interpretive analysis that yields the synthesis is conceptual in process and output, and the main product is not aggregations of data, but theory. Again it is important not to caricature an interpretive (...) Again it is important not to caricature an interpretive synthesis as therefore floating free of any empirical anchor: an interpretive synthesis of primary studies must be grounded in the data reported in those studies (...) might be concerned with the generation of middle-range theories – explanations which apply in a specified domain, such as seeking to explain why people defer help-seeking for some types of symptoms. We argue that interpretive syntheses can be carried out on all types of evidence, both qualitative and quantitative.  @dixon2005synthesising*
+
+*There is considerable overlap. Whilst most forms of synthesis can be characterised as being either primarily interpretive or primarily integrative in form and process, every integrative synthesis will include elements of interpretation, and every interpretive synthesis will include elements of aggregation of data. The choice of the form of synthesis is likely to be crucially related to the form and nature of the research question being asked @dixon2005synthesising*
+
+*Thematic analysis*
+*Thematic analysis, clearly sharing some overlaps with narrative summary and content analysis, involves the identification of prominent or recurrent themes in the literature, and summarising the findings of different studies under thematic headings. Summary tables, providing descriptions of the key points, can then be produced.@dixon2005synthesising*
+
+*Thematic analysis allows clear identification of prominent themes, and organised and structured ways of dealing with the literature under these themes. It is flexible, allowing considerable latitude to reviewers and a means of integrating qualitative and quantitative evidence. However, it suffers from several important problems. Thematic analysis can be either data driven – driven by the themes identified in the literature itself – or theory driven – oriented to evaluation of particular themes through interrogation of the literature. The failure of much writing on thematic analysis to distinguish adequately between these two approaches has resulted in a lack of transparency. @dixon2005synthesising*
+
+*It is unclear whether the structure of the analysis should reflect the frequency with which particular themes are reported, or whether the analysis should be weighted towards themes that appear to have a high level of explanatory value. If thematic analysis is limited to summarising themes reported in primary studies, it offers little by way of theoretical structure within which to develop higher order thematic categories beyond those identified from the literature @dixon2005synthesising*
+
+*Framework analysis was originally developed as a method for analysing primary data in applied social research. We describe here how the same principles were employed in a systematic review to label the data of research reports in meaningful and manageable sections for subsequent retrieval and exploration. The result is both a general method for systematically reviewing diverse literature, and a framework for analysing public involvement in research in particular. @oliver2008multidimensional*
+
+*The conceptual framework described in this paper built on our own experiences of public involvement, and on a detailed and sensitive search strategy to identify, then appraise and analyse relevant literature. @oliver2008multidimensional*
+
+
 Meta-framework analysis is a qualitative research method used to analyze and synthesize findings from multiple qualitative studies, particularly when those studies employ different theoretical frameworks or methodologies. This approach goes beyond traditional qualitative synthesis methods by aiming to integrate diverse perspectives and theories into a cohesive framework that captures the complexity of the research topic. Framework synthesis offers a highly structured approach to organizing and analyzing a sheer amount of data that presents the challenge for rigorous analysis (@barnett2009methods).
+
+*Ritchie et al.(2003) in their advocacy of framework analysis. In framework analysis, before applying codes to the text, the researcher is encouraged to build up a list of key thematic ideas. These can be taken from the literature and previous research but are also generated by reading through at least some of the transcripts and other documents such as field notes, focus groups and printed documents.A similar view is taken by King (1998), who recommends the construction of a template, using similar sources of inspiration, which is a hierarchical arrangement of potential codes. In both King’s template analysis and framework analysis, coding consists of the identification of chunks of text that exemplify the codes in this initial list. However, all these authors recognize that the researcher will need to amend the list of codes during analysis as new ideas and new ways of categorizing are detected in the text. @gibbs2018analyzing*
 
 *They employed an iterative process involving familiarization with the literature, gradually developing a conceptual framework based on concepts derived from the review question and the theoretical and empirical literature, applying the framework systematically to evidence from the studies included in the review, and constructing a chart for each key dimension with distilled summaries from all relevant documents @dixon2011using.*
 
@@ -46,7 +70,51 @@ Here are the key steps involved in conducting a meta-framework analysis:
 
 Meta-framework analysis offers a systematic approach to synthesizing qualitative research findings from diverse theoretical perspectives and methodologies. By integrating these perspectives into a cohesive framework, researchers can gain a more comprehensive understanding of the research topic and contribute to the advancement of knowledge in the field.
 
-#### Atlas.ti
+*The framework approach has five stages (which share features of both the comparative and translational approaches to interpretive synthesis described above):*
+*1 familiarisation with the data and/or studies (i.e. reading and re-reading)*
+*2 identification of a thematic framework, typically derived form the research questions*
+*3 indexing or coding of the data/ and/or studies*
+*4 charting (i.e. transfer of summaries to matrix displays)*
+*5 mapping and interpretation*
+*@mays2007synthesizing*
+
+### Literature selection
+Criterios para elegir la literatura primaria y complementaria. Criterios de búsqueda en base de datos.
+
+*To uncover peer reviewed research on school-based positive education interventions, a systematic literature search was conducted using the four databases of: Scopus®, Google Scholar, PsycINFO®, and Web of Science®. Additionally, the reference lists of review articles that were identified through the above search were cross-checked using the ancestry method outlined in Lyubomirsky et al. (2005), in order to capture the broadest collection of relevant articles possible. To qualify for inclusion, studies had to meet eight key criteria. First, the study had to be peer-reviewed and published in an academic journal and, thus, have withstood the scrutiny of the peer review process. Second, the (...) @waters2019search*
+
+*Seventy-five school-based positive education intervention studies were identified as meeting the criteria above and form the basis of this review. Table One provides definitions of the six SEARCH pathways and lists the sub-categories of interventions that were identified in each pathway for the current review. @waters2019search*
+
+*For consistency across the presentation of the review findings, the same structure has been used when mapping each of the six pathways to the studies identified. First, the specific interventions that can be mapped to each pathway are identified. For example, under the pathway of attention and awareness, the specific interventions identified in the school-based interventions were mindfulness and meditation (...)@waters2019search*
+
+*Finally, and most importantly, the evidence supporting each pathway is considered. This evaluation is structured around the three key research questions listed in the former section and considers how the evidence meets Seligman et al.’s(2009) broad aims of positive education: to improve both wellbeing and academic outcomes.@waters2019search*
+*3.2 Pathway One: Strengths*
+
+*Literature searching and analysis*
+*Our literature searches across medicine, nursing, social welfare and the social sciences covered reports published in academic journals and patient- and carer-group publications, and unpublished reports accessible through professional and patient or public networks. As we accumulated literature, we followed an iterative process similar to framework analysis as applied to primary research data (ver Ritchie). This involved familiarization with the literature; gradually developing a conceptual framework using concepts embedded in the review question, and in the theoretical and empirical literature; applying the framework systematically to the data; and subsequently rearranging the data within the framework in order to construct a chart for each key dimension with distilled summaries from all relevant documents identified. The charts were then used to map the range and nature of involvement and find associations between themes with a view to providing explanations for the findings. We describe below the key concepts used to build our framework, and how these were combined so as to enable us to analyse and draw conclusions from the literature. @oliver2008multidimensional*
+
+*Categorizing the literature*
+*As well as reports of public involvement, we found discussion papers about differing priorities, conceptual frameworks, community equi- poise, power, democratic practice and advocacy. These papers drew on a wide range of theories, and described episodes of involvement in many different research areas. (...)The health topics covered in the literature included different health conditions (asthma, breastfeeding (...) The papers came from different disciplines (agricul- ture, genetics, environmental studies) and reported different research methodologies (sys- tematic reviews, technology assessment, participatory research).  @oliver2008multidimensional*
+
+*Reports of public involvement were first characterized as ÔpurposefulÕ, ÔopportunisticÕ or ÔindirectÕ. (a continuación hay que explicar a qué se refiere cada) @oliver2008multidimensional*
+
+*Framework analysis is designed so that it can be viewed and assessed by people other than the primary analyst. Consequently, framework analysis in a systematic review displays the data in such a way that readers can navigate the charts to find evidence relevant to their circumstances (in this case, for instance, international or national programmes or individual projects), or to the options available to them (e.g. patient organizations responding to consultations or only entering collaborative partnerships or taking the initiative). Applying the framework to these data reveals the theories that have been applied to work constructively with individuals,23,24 or within organizations (...) Thus, readers can draw out for themselves relevant implications for their policy and practice from what is known about public involvement in research agenda setting @oliver2008multidimensional*
+
+### Method
+Mecanismo utilizado para identificar "themes" relevantes.
+Tabla de "Themes" -> Resumen de la "rationale" + Fuentes donde aparecen en la literatura
+
+**The review was conducted in three parts. First, we searched for and mapped the existing research literature on the general public's views of walking and cycling. Second, we conducted an in-depth review of a subset of this literature, the scope of which was selected by our Advisory Group, focusing on the views of children, young people and parents. Third, we synthesised the findings relating to these ‘views studies’ together with the research on interventions carried out by Ogilvie et al. (2004). The overall conclusions of the review are thus based both on international evaluations of specific interventions, and from findings of recent ‘qualitative’ research conducted in the United Kingdom (UK) examining the views and experiences of children, young people and parents. @brunton2006synthesis*
+
+*Analysis of this research revealed four recurrent themes drawn from the views of children, young people and parents: a culture of car use; fear and dislike of local environments; children as responsible transport users; and parental responsibility and behaviour.@brunton2006synthesis*
+
+## Other Alterantive Methods
+*Meta-synthesis*
+
+*Thematic analysis (TA) is a technique for the analysis of qualitative data which allows you to identify or develop patterns of meaning and/or central ideas that unify them (referred to as themes) pertaining to a given set of data. You will then use these themes to organize, describe or interpret (perceptions of) reality (Boyatzis, 1998; Braun & Clarke, 2006, 2021). Once (relationships among) themes are identified, you need to interpret their relevance and implications for the research question you aim to answer. Verbal individual or group interviews (see King et al. 2018), focus group data (see Barbour, 2008) or textual data (written material) are usually at the core of thematic research. Nevertheless, video material and images might also be thematically analysed (Joffe, 2012).@stevens2022qualitative*
+
+
+### Atlas.ti
 
 **Process (according to Atlas.ti):** Thematic framework: Central to framework analysis is the development of a framework identifying key themes, concepts, and relationships in the data. The framework guides the subsequent stages of coding and charting.
 
@@ -148,3 +216,14 @@ Meta-synthesis and systematic literature review are both methods used in qualita
     -   Systematic literature review: The output of a systematic literature review is typically a comprehensive summary of the existing literature, including key findings, trends, gaps, and recommendations for future research. It provides a snapshot of the current state of knowledge on the topic and may inform practice, policy, or further research.
 
 In summary, while both meta-synthesis and systematic literature review involve synthesizing findings from multiple studies, they differ in their objectives, approaches, synthesis techniques, and output. Meta-synthesis aims to develop new interpretations or frameworks based on qualitative data, while systematic literature reviews provide a comprehensive overview of the existing literature on a topic.
+
+## 3.2 Structured Review of Key Existing Frameworks
+*As can be seen from the above, assessing skills/competence frameworks is not a simple task.*
+
+*In this situation the Workshop has examined tools that can help in the structured review of what is currently available. These tools are essentially of two kinds:*
+
+*• “top-down” approaches, where the main characteristics of the different frameworks are presented in what might be viewed as a structured inventory – drawing on Dutch experience with the Generic Referential ICT Profiles (GRIP) approach (Hacquebard, 2005) , and*
+
+*• “bottom-up” approaches, where each profile specification is analysed in terms of the underlying units of competence, skills and knowledge (the e-Competences and Certifications Observatory (eCCO) project, researching the use of “Knowledge Objects” as the “underlying unit”, leads developments here). A summary of the principles of the eCCO approach is presented in Annex G.*
+
+*This CWA uses the Top-down approach, but supports the development of complementary Bottom-up approaches as potentially providing more rigorous analysis for comparison and design. In particular completion of the eCCO approach in this regard is awaited with interest  @de2006european*

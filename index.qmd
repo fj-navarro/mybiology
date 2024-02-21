@@ -16,4 +16,17 @@ The **aim of this current review paper** was to examine the existing educational
 
 **Results** demonstrate the value and applicability of the SEARCH framework. The comprehensive review conducted in this paper is then used to discuss current gaps in positive education research as well as present the utility of SEARCH as a framework to support positive education science and practice.
 
+*The review of views studies concludes that children's, young people's and parents’ views about what helps and hinders their walking and cycling involves the strong culture of car use, the fear and dislike of local environments, children as responsible transport users, and parental responsibility for their children. @brunton2006synthesis*
+
+*The CEN Workshop Agreement (CWA) first presents an in-depth analysis of the current state-of-the art of ICT Practitioner Skills/Competence frameworks in order to clarify the nature of the next steps towards a European ICT Skills Meta-Framework, and its relationship to the proposed European Qualifications Framework (EQF). Then, recommendations based on the results of the analysis are presented.@de2006european*
+
+*A comprehensive overview of ICT frameworks has been produced, and a structured inventory of five particularly significant ICT Practitioner Skills/Competence frameworks is presented, in terms of a number of key attributes. Three specific frameworks, representing the national approaches in three large Member States, are analysed in some detail, and certain findings are evident, based on their mutual similarities and differences. The overall structural paradigm and an example comparable profile for each are examined. @de2006european*
+
+*A structured review of four significant ICT Practitioner Frameworks (the three major national frameworks in the EU and one from North America) was carried out and is presented, and Level Descriptors for the specification of ICT Practitioner competence are developed from the generic EQF descriptors. In addition, based on the comparisons of existing frameworks, broad Guidance is provided for appropriate and effective use and further development of such frameworks. @de2006european*
+
+*An “Ideal Scenario” is presented, aiming to introduce the potential benefits of greater coherence at the European level, and options are shown for possible ways of moving towards that world. It is recognized that there is a need for stronger evidence of benefits in relation to the different uses of such frameworks, and a set of recommendations for progressing increased coherence are made, in relation to both ICT Practitioner competence Frameworks and ICT Qualifications of different types.@de2006european*
+
+*The in-depth analysis of a range of evidence leads to the following conclusions:*
+*- It is recommended to encourage and strengthen the process of convergence of ICT Practitioner skills/competence frameworks within the EU by means of a three step process:@de2006european*
+
 **Keywords:** Evolutionary analysis, meta-systhesis, framework, complex systems, social science

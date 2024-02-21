@@ -1,4 +1,16 @@
 # Discussion
+
+*The framework we have described categorizes the engagement of participants in research agenda setting in terms of the types of people involved, the degree of public involvement, and the initiators of the engagement. It combines and extends concepts proposed by Arnstein9 and Mullen et al.12 The framework is consistent with an eight-dimensional framework described by Byrt and Dooher. @oliver2008multidimensional*
+
+*Our review findings provide some answers to Boote et al.Õs questions7: how can public involvement be conceptualized; how and why does public involvement influence health research; and what factors are associated with success?. @oliver2008multidimensional*
+
+*In many ways our analysis drew similar conclusions to research addressing public participation in health services. We found that lay (...) @oliver2008multidimensional*
+
+*Particular success has been achieved by a research agenda setting exercise that addressed the key dimensions of the framework by com- bining the benefits of representative consultation with iterative collaboration and explicit decision making.64 Acomprehensive evaluation of process and outcome concluded that the (...) @oliver2008multidimensional*
+
+*Our framework has been since used in a systematic review of involvement in a broader range of activities: developing health-care policy and research, clinical practice guidelines and patient information.65 Use of the framework in this review ensured that different methods of involvement were described in comparable terms, and it enabled the review to highlight areas where no evidence was available at all. The review showed clearly that no trials to date have evalu- ated different degrees of involvement, different forums of communication, lay involvement in decision making, or the provision of training or personal or financial support for lay involvement. @oliver2008multidimensional*
+
+
 *The SEARCH framework has been developed as a tool to support future research and practice in positive education and to help overcome (...) @waters2019search*
 
 *SEARCH is a data-driven, multidimensional and actionable framework, comprising six evidence-based pathways to foster wellbeing. The higher-order nature of these path- ways provides a comprehensive and integrated focus whilst still (...) @waters2019search*
@@ -7,15 +19,17 @@
 
 *The intervention studies showed a consistent pattern of evidence that each of the six pathways can be effectively targeted to improve wellbeing and academic outcomes, although tests of efficacy were not universally significant. Positive(...) @waters2019search*
 
-## Using SEARCH as a Meta-Framework to Guide Future Research 
-*We offer SEARCH as a useful framework to help researchers scaffold and build the science of positive education. For example, when researchers are designing and/or evaluating (...) A positive consequence of this is that it may create greater connections amongst researchers and foster stronger cross-pollination across topics when pulled together by an overarching framework like SEARCH.*
-*@waters2019search*
+*6.1 Substantive findings / 6.2 Strengths and limitations of the review / 6.3 Methods of primary studies / 6.5 The context of previous 'views' research / 6.6 Policy context @brunton2006synthesis*
 
-*One potential avenue ofresearch using SEARCH may be in developmental psychology where the framework can be used to create an age-stage appropriate scope and sequencing of wellbeing curriculums. In addition, research may also show that certain pathways are needed to be developed earlier than other pathways in certain ages (...) Such developmental questions on how to best build wellbeing over time can be scaffolded by using the SEARCH meta- framework.*@waters2019search*
+## Using SEARCH as a Meta-Framework to Guide Future Research
+
+*We offer SEARCH as a useful framework to help researchers scaffold and build the science of positive education. For example, when researchers are designing and/or evaluating (...) A positive consequence of this is that it may create greater connections amongst researchers and foster stronger cross-pollination across topics when pulled together by an overarching framework like SEARCH.* @waters2019search
+
+*One potential avenue ofresearch using SEARCH may be in developmental psychology where the framework can be used to create an age-stage appropriate scope and sequencing of wellbeing curriculums. In addition, research may also show that certain pathways are needed to be developed earlier than other pathways in certain ages (...) Such developmental questions on how to best build wellbeing over time can be scaffolded by using the SEARCH meta- framework.*\@waters2019search\*
 
 ## Gaps in Positive Education Research
-*The current review of existing positive education literature has identified a number of gaps that can be addressed through future research. First, (...)*
-*@waters2019search*
+
+*The current review of existing positive education literature has identified a number of gaps that can be addressed through future research. First, (...)* @waters2019search
 
 *Another gap identified in this review paper is the disparity of research conducted between the six pathways in positive education interventions (...) @waters2019search*
 
@@ -24,8 +38,8 @@
 *One untapped area for future research is the effect of context and where and how the interventions are delivered. In the current review, the bulk of the interventions were (...)@waters2019search*
 
 ## Using SEARCH as a Meta-Framework to Guide School Practice
-*@waters2019search*
-**Note: meter aquí el archivo de "Implications"**
+
+@waters2019search **Note: meter aquí el archivo de "Implications"**
 
 *SEARCH is not only an evidence-based framework to guide research in the field, it is also a framework that can guide practical application in schools, something that White and Kern (2018) highlight as being ofcentral importance.We offer SEARCH as a framework to assist schools when implementing positive education interventions in a co-ordinated manner across different year levels and across all areas of the school (...) @waters2019search*
 
@@ -33,7 +47,24 @@
 
 *Beyond the design ofindividual positive education interventions, SEARCH can be used to design larger wellbeing curriculums. Such curriculums can teach students how to (...) @waters2019search*
 
-*School leaders and administrators can find strategic and consistent ways to infuse SEARCH into elements of the school that impact faculty and staff such as recruitment and selection, performance development, professional learning, employee wellbeing programs and staff/faculty room culture. A key question for school leaders prompted by the SEARCH framework is ‘How can I intentionally create a culture that fosters strengths, emotional management, attention and awareness, relationships, coping and habits and goals for all the adult members of the school?@waters2019search*
+*School leaders and administrators can find strategic and consistent ways to infuse SEARCH into elements of the school that impact faculty and staff such as recruitment and selection, performance development, professional learning, employee wellbeing programs and staff/faculty room culture. A key question for school leaders prompted by the SEARCH framework is 'How can I intentionally create a culture that fosters strengths, emotional management, attention and awareness, relationships, coping and habits and goals for all the adult members of the school?@waters2019search*
+
+## The Use of a Synthesis Method
+
+*There are arguments about whether it is feasible or acceptable to conduct syntheses of qualitative evidence at all,41 and whether it is acceptable to synthesise qualitative studies derived from different traditions. The distinctions, tensions and conflicts between these have been vividly described.\@dixon2005synthesising*
+
+*Perhaps even more likely to generate controversy are attempts to synthesise qualitative and quantitative evidence. It is evident from the discussion above that synthesis of diverse forms of evidence will generally involve conversion of qualitative data into quantitative form or vice versa. @dixon2005synthesising*
+
+*Should reviews start with a well-defined question and how many papers are required? The issue of questions is an important one for syntheses. It will be clear that the methods described above will be more suited to some questions than others: for example questions concerning causality may be better suited to qualitative comparative analysis than questions concerned with the production of mid-range theory, which might be better suited to meta-ethnography. The issue of how questions should be identified and formulated in the first instance is one on which there is much uncertainty.*
+
+*Estabrooks et al, like many in the systematic review community, argue that review questions should be selected to focus on similar populations or themes.43 However, others point out that in primary qualitative research, definitions of the phenomenon emerge from the data.15 Whether one should start with an a priori definition of the phenomenon for purposes of a secondary synthesis is therefore an important question.\@dixon2005synthesising*
+
+*A related issue is how to limit the number of papers included in the review. One approach is to narrow the focus. An alternative strategy is offered by theoretical sampling, used in primary qualitative research with a view towards the evolving development of the concepts. Sampling continues until theoretical saturation is reached, where no new relevant data seem to emerge regarding a category, either to extend or contradict it.45 It has been suggested that this approach would also be suitable for selecting papers for inclusion in reviews.46--48 However, the application of this form of sampling has been rarely tested empirically, and some express anxiety that this may result in the omission of relevant data, thus limiting the understanding of the phenomenon and the context in which it occurs. @dixon2005synthesising*
+
+[*Appraising studies for inclusion*]{.underline} *The issue of how or whether to appraise qualitative papers for inclusion in a review has received a great deal of attention. The NHS CRD guidance emphasises the need for a structured approach to quality assessment for qualitative studies to be included in reviews, but also recognises the difficulties of achieving consensus on the criteria that might constitute quality standards.5 Some argue that weak papers should be excluded. Others, however, propose that papers should not be excluded for reasons of quality, particularly where this might result in synthesisers discounting important studies for the sake of ‘surface mistakes’, which are distinguished from fatal mistakes that invalidate the finding.Published examples include reviews that have chosen not to appraise the papers,14 as well as those which have opted to appraise the papers using a formalised approach.22 If the argument prevails that some quality appraisal is necessary, the problem then arises as to how this should be undertaken. @dixon2005synthesising*
+
+*Conclusions*
+*There is an urgent need for rigorous methods for synthesising evidence of diverse types generated by diverse methodologies. These methods are required to meet the needs of policy-makers and practitioners, who need to be able to benefit from the range of evidence available. @dixon2005synthesising*
 
 ## Practical Implications
 
@@ -81,7 +112,12 @@ The above leads us to the problem of eugenics, and the reflection on to what ext
 
 The analysis of evolutionary systems demonstrates a connection with complex systems, such that species should be seen as complex systems with an enormous amount of variation, stimulated by selection.
 
+### The contribution of this review to policy
+
+*The key message from this systematic review is that interventions will not work unless public views about the value, safety, benefits and costs of walking and cycling are taken into account. This information will thus be of interest to parents and children, government policy-makers at the national and local level, schools, and research funding bodies.* *Policy-makers need to understand that perceived safety is a key influence on walking and cycling, but that environmental improvements and facilities can encourage a shift away from car culture.\@brunton2006synthesis*
+
 ## Framework Thematic Discussion
+
 ### On Evolution
 
 When addressing the study of an evolutionary system, it is of paramount importance to first elucidate what **the unit** of the system will be, on which the entire conceptual and methodological apparatus of evolution will be applied. This is a discussion that has changed over time, having moved from the individual organism to what is currently considered a more correct approach, the gene. What the above means is that instead of prioritizing "adaptive fitness" in the analysis, today it seems more appropriate to focus on the reproductive success of the individual. This new perspective has given rise to the movement of ultra-Darwinism.
