@@ -292,3 +292,35 @@ Other discussions apart from determinism vs probabilism established by evolution
 -   Macroscopic vs microscopic
 
 The method of evolutionary analysis is that of a patient observer (Darwin), who poses some hypothetical situations and then uses the deductive method to try to verify them.
+
+## Tables to Include: Refinement of the Initial Framework
+ 
+*Table 2 @goldsmith2021using*
+Framework Identification (Step 2) in the TBA Dataset: Initial and revised framework for understanding the work and value of TBAs and formal health care providers in the birth process
+
+(ver tabla que pusieron en este paper para comparar el framework inicial y el refinado después de aplicar el framework al resto de la literatura)
+
+Initial Framework
+Reasons why women use TBAs rather than formal health care providers
+Reasons why women use formal health care providers rather than TBAs
+Concerns about TBA practice
+Concerns about formal health care provider practice
+Characteristics of positive work relationships between TBAs and formal health care providers
+Characteristics of negative work relationships between TBAs and formal health care providers
+
+Revised Framework
+Reasons why women use TBAs rather than formal health care providers • TBAs more easily affordable than health center • TBAs local while health center can be far away • TBA practice preferred over formal health care providers practice
+• Formal health care providers’ treatment has not worked
+Reasons why women
+
+*Figure 2: An example of the coding index (ver en @smith2011qualitative)*
+Initial themes   Initial categories
+
+*Table 3 @goldsmith2021using*
+Charting (Step 4) in the TBA Dataset: Example of data abstraction for a few key framework components and sub-components by stakeholder group for understanding the work and value of TBAs and formal health care providers in the birth process
+
+*Figure 3: Developing the core concept, labelled uncertainty, and the final themes within the concept (ver en @smith2011qualitative)*
+Initial Themes | Initial categories | Refined Categories | Final Themes | Core Concept
+
+*Table 4 @goldsmith2021using*
+Mapping and Interpretation (Step 5) in the TBA Dataset: Example of data intensity mapping for a few key framework components and sub-components by stakeholder group for understanding the work and value of TBAs and formal health care providers in the birth process
