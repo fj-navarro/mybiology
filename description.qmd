@@ -1,33 +1,37 @@
 # Description
+
+**(OJO, a tener en cuenta!) Table 4 Guiding points for future framework engagement, separated by development (or modification) and application**
+Table 4 Guiding points for future framework engagement, separated by development (or modification) and application
+Framework process Guiding points
+Development and/ or modification
+Application/ use
+• Explain the framework’s positioning: (1) who developed it, (2) the values of those research- ers, (3) the research questions engaged with, and (4) the field in which it is embedded. • Explain the purpose of the framework, for example, which paradigms, specific theories and models it is intended to contribute to. • Explain each of the frameworks compo- nents and relationships, and how they were conceived (i.e., through review/meta-analysis, expert knowledge, empirical work, opinion). • Explain how the framework can be applied by others to increase methodological learning and data cohesiveness. • Explain why the framework is novel and adds value compared to other existing frameworks
+
 *It is clear that positive education will benefit from the development of meta-frameworks to guide research and practice. To this end, the first author of this paper has been involved in a multi-year programme of research to develop a data-driven, meta- framework in positive education - the SEARCH framework. SEARCH has been developed to help researchers organize current scientific findings and to advance future research. The framework is also designed to help (...) @waters2019search*
 
-*SEARCH is a new meta-framework that is higher-order in nature, evidence-based, actionable and multi-dimensional. SEARCH was developed through two key stages of research. Stage one involved a large-scale, ‘birds-eye’, review of the science of positive psychology in order to determine the key pathways of positive functioning/ well-being (Rusk and Waters 2015). Stage two involved road testing the pathways identified in stage one via action research in ten schools. Both of these stages will be now be described.@waters2019search*
+*SEARCH is a new meta-framework that is higher-order in nature, evidence-based, actionable and multi-dimensional. SEARCH was developed through two key stages of research. Stage one involved a large-scale, 'birds-eye', review of the science of positive psychology in order to determine the key pathways of positive functioning/ well-being (Rusk and Waters 2015). Stage two involved road testing the pathways identified in stage one via action research in ten schools. Both of these stages will be now be described.\@waters2019search*
 
 *With regard to stage one,(...) Findings revealed five over-arching pathways: 1) virtues and relationships, 2) emotional management, 3) attention and awareness, 4) comprehension and coping and 5) habits and goals. These five pathways formed the first iteration of the positive psychology (PP) framework @waters2019search*
 
-*(...)At the completion of stage one and two the six pathways comprising the framework were established. By taking the first letter of each pathway, the acronym SEARCH was created, and Fig. 1 visually depicts the six pathways of the SEARCH positive education framework.@waters2019search*
+*(...)At the completion of stage one and two the six pathways comprising the framework were established. By taking the first letter of each pathway, the acronym SEARCH was created, and Fig. 1 visually depicts the six pathways of the SEARCH positive education framework.\@waters2019search*
 
 ## SEARCH: A Systematic Review
-*Following the development and refinement of SEARCH as a meta-framework for positive education, the focus of the current paper is to conduct a systematic review of the educational literature to examine evidence of the six pathways in student samples and consider the ways these pathways can be increased in students through existing school-based interventions to boost wellbeing and academic achievement.@waters2019search*
+
+*Following the development and refinement of SEARCH as a meta-framework for positive education, the focus of the current paper is to conduct a systematic review of the educational literature to examine evidence of the six pathways in student samples and consider the ways these pathways can be increased in students through existing school-based interventions to boost wellbeing and academic achievement.\@waters2019search*
 
 *The current review paper was guided by the three below questions, for each of the six SEARCH pathways*
 
-*1) What evidence is there to indicate that the intervention boosts the pathway it is targeting? For example, do mindfulness interventions actually boost attention and awareness?*
-*2) What evidence is there to indicate that the intervention builds wellbeing?* *3) What evidence is there to indicate that the intervention improves school-based and academic outcomes? @waters2019search*
+*1) What evidence is there to indicate that the intervention boosts the pathway it is targeting? For example, do mindfulness interventions actually boost attention and awareness?* *2) What evidence is there to indicate that the intervention builds wellbeing?* *3) What evidence is there to indicate that the intervention improves school-based and academic outcomes? @waters2019search*
 
-*5. CROSS-STUDY SYNTHESIS 5. Cross-study synthesis*
-*Having reviewed systematically the views of children, young people and parents about walking and cycling as a means of transport, we compared these views with evidence derived for the review by Ogilvie and colleagues (2004) of the effects of interventions promoting walking and cycling as a means of transport.*
-*Implications for interventions highlighted by our views synthesis were entered into a matrix alongside the included and excluded evaluations of interventions from the review of intervention effectiveness by Ogilvie et al. (2004). This table is provided in Appendix 8. We then examined the matrix to determine whether interventions matched, contradicted or simply failed to address children’s, young people’s or parents’ views.*
-*Theme 1: Culture of car use* @brunton2006synthesis
+*5. CROSS-STUDY SYNTHESIS 5. Cross-study synthesis* *Having reviewed systematically the views of children, young people and parents about walking and cycling as a means of transport, we compared these views with evidence derived for the review by Ogilvie and colleagues (2004) of the effects of interventions promoting walking and cycling as a means of transport.* *Implications for interventions highlighted by our views synthesis were entered into a matrix alongside the included and excluded evaluations of interventions from the review of intervention effectiveness by Ogilvie et al. (2004). This table is provided in Appendix 8. We then examined the matrix to determine whether interventions matched, contradicted or simply failed to address children's, young people's or parents' views.* *Theme 1: Culture of car use* @brunton2006synthesis
 
-*Reflections on the framework and its value*
-*The framework we developed and have described in this paper is comprehensive in its scope. It accommodates diverse methods for public involvement in research, operating at international, national, regional and local levels, in urban and rural areas, stretching across the developed and developing world, and in contexts that differ widely in terms of topic of interest, organizational structures and under- pinning theories. The framework draws toge- ther examples of public involvement that share fundamental principles, but that have devel- oped in very different contexts (such as participatory research with Californian young people and with farmers in developing countries). @oliver2008multidimensional*
+*Reflections on the framework and its value* *The framework we developed and have described in this paper is comprehensive in its scope. It accommodates diverse methods for public involvement in research, operating at international, national, regional and local levels, in urban and rural areas, stretching across the developed and developing world, and in contexts that differ widely in terms of topic of interest, organizational structures and under- pinning theories. The framework draws toge- ther examples of public involvement that share fundamental principles, but that have devel- oped in very different contexts (such as participatory research with Californian young people and with farmers in developing countries). @oliver2008multidimensional*
 
 *It distinguishes between variables operating at different levels; at initiation, and subsequent choice of participants, forum and decision- making processes. It juxtaposes public involvement methods that share characteristics along one or more dimensions. Application of the framework facilitates the identification of general trends (such as collaborative relation- ships being more productive), and highlights exceptions (such as tokenistic committee involvement) to deepen our understanding of public involvement processes and increase pro- gress towards more productive methods of public involvement. @oliver2008multidimensional*
 
-*A particularly fruitful method for involving the public in setting large-scale research agendas appears to be a combination of collaboration and consultation, with lay people taking leading roles in consulting their peers. Another advan- tage of our framework is that it exposes impor- tant gaps in the existing literature, most notably about methods for collective decision making,16 which are rarely reported in detail.@oliver2008multidimensional *
+*A particularly fruitful method for involving the public in setting large-scale research agendas appears to be a combination of collaboration and consultation, with lay people taking leading roles in consulting their peers. Another advan- tage of our framework is that it exposes impor- tant gaps in the existing literature, most notably about methods for collective decision making,16 which are rarely reported in detail.\@oliver2008multidimensional*
 
-*our framework was constructed from a combination of a priori issues, the information needs of the study set by the funders, and issues that emerged from the data. The dimensions of the framework emerged from our personal experience, from the back- ground methodological literature, and from the empirical or reflective reports that provided the ÔdataÕ of the review. As with much primary qualitative research, the framework was not identified until we were familiar with the literature as data, and it was instrumental in helping us code and organize the data, then describe and interpret the concepts. This approach allowed comparative analysis of varied and complex methods and the identification of gaps, whether these were gaps in individual reports (such as little description of methods, even less of public views and influence) or gaps in our collective knowledge, in particular, about methods for reaching decisions with patients ⁄publics. @oliver2008multidimensional *
+*our framework was constructed from a combination of a priori issues, the information needs of the study set by the funders, and issues that emerged from the data. The dimensions of the framework emerged from our personal experience, from the back- ground methodological literature, and from the empirical or reflective reports that provided the ÔdataÕ of the review. As with much primary qualitative research, the framework was not identified until we were familiar with the literature as data, and it was instrumental in helping us code and organize the data, then describe and interpret the concepts. This approach allowed comparative analysis of varied and complex methods and the identification of gaps, whether these were gaps in individual reports (such as little description of methods, even less of public views and influence) or gaps in our collective knowledge, in particular, about methods for reaching decisions with patients ⁄publics. @oliver2008multidimensional*
 
 *Our framework allowed the abstract concept of empowerment to be addressed in very practical terms: the num- bers of people involved; whether they were individuals or networked group members. @oliver2008multidimensional*
 
@@ -79,7 +83,7 @@ According to this framework of thought, only when alterations in the environment
 
 Environmental stressors cause the perfectly adapted organism to begin a process of degeneration and lose its original adaptability and perfection. This process that takes place over time gives rise to intermediate or transitional forms, which ultimately explain the diversity of life on earth.
 
-![Fig3. Buffon's evolution framework. Source: own elaboration](scheme-3.png) \### Spencer's framework Herbert Spencer's analytical framework establishes that new situations in the environment give rise to organisms having to learn how to cope with them. From this learning is derived the development of new instincts, which are more complex human faculties, which allow the organism to be more prepared to face the "survival of the fittest."
+![Fig3. Buffon\'s evolution framework. Source: own elaboration](scheme-3.png) \### Spencer's framework Herbert Spencer's analytical framework establishes that new situations in the environment give rise to organisms having to learn how to cope with them. From this learning is derived the development of new instincts, which are more complex human faculties, which allow the organism to be more prepared to face the "survival of the fittest."
 
 ## Origin
 
@@ -294,35 +298,23 @@ Other discussions apart from determinism vs probabilism established by evolution
 The method of evolutionary analysis is that of a patient observer (Darwin), who poses some hypothetical situations and then uses the deductive method to try to verify them.
 
 ## Tables to Include: Refinement of the Initial Framework
- 
-*Table 2 @goldsmith2021using*
-Framework Identification (Step 2) in the TBA Dataset: Initial and revised framework for understanding the work and value of TBAs and formal health care providers in the birth process
+
+*Table 2 @goldsmith2021using* Framework Identification (Step 2) in the TBA Dataset: Initial and revised framework for understanding the work and value of TBAs and formal health care providers in the birth process
 
 (ver tabla que pusieron en este paper para comparar el framework inicial y el refinado después de aplicar el framework al resto de la literatura)
 
-Initial Framework
-Reasons why women use TBAs rather than formal health care providers
-Reasons why women use formal health care providers rather than TBAs
-Concerns about TBA practice
-Concerns about formal health care provider practice
-Characteristics of positive work relationships between TBAs and formal health care providers
-Characteristics of negative work relationships between TBAs and formal health care providers
+Initial Framework Reasons why women use TBAs rather than formal health care providers Reasons why women use formal health care providers rather than TBAs Concerns about TBA practice Concerns about formal health care provider practice Characteristics of positive work relationships between TBAs and formal health care providers Characteristics of negative work relationships between TBAs and formal health care providers
 
-Revised Framework
-Reasons why women use TBAs rather than formal health care providers • TBAs more easily affordable than health center • TBAs local while health center can be far away • TBA practice preferred over formal health care providers practice
-• Formal health care providers’ treatment has not worked
-Reasons why women
+Revised Framework Reasons why women use TBAs rather than formal health care providers • TBAs more easily affordable than health center • TBAs local while health center can be far away • TBA practice preferred over formal health care providers practice • Formal health care providers' treatment has not worked Reasons why women
 
-*Figure 2: An example of the coding index (ver en @smith2011qualitative)*
-Initial themes   Initial categories
+*Figure 2: An example of the coding index (ver en @smith2011qualitative)* Initial themes Initial categories
 
 *(ver cómo está organizada esta tabla) Figure 9.3 Example of an indexed transcript @ritchie2002qualitative*
 
-*Table 3 @goldsmith2021using*
-Charting (Step 4) in the TBA Dataset: Example of data abstraction for a few key framework components and sub-components by stakeholder group for understanding the work and value of TBAs and formal health care providers in the birth process
+*Table 3 @goldsmith2021using* Charting (Step 4) in the TBA Dataset: Example of data abstraction for a few key framework components and sub-components by stakeholder group for understanding the work and value of TBAs and formal health care providers in the birth process
 
-*Figure 3: Developing the core concept, labelled uncertainty, and the final themes within the concept (ver en @smith2011qualitative)*
-Initial Themes | Initial categories | Refined Categories | Final Themes | Core Concept
+*Figure 9.4 Example of subject chart headings @ritchie2002qualitative*
 
-*Table 4 @goldsmith2021using*
-Mapping and Interpretation (Step 5) in the TBA Dataset: Example of data intensity mapping for a few key framework components and sub-components by stakeholder group for understanding the work and value of TBAs and formal health care providers in the birth process
+*Figure 3: Developing the core concept, labelled uncertainty, and the final themes within the concept (ver en @smith2011qualitative)* Initial Themes \| Initial categories \| Refined Categories \| Final Themes \| Core Concept
+
+*Table 4 @goldsmith2021using* Mapping and Interpretation (Step 5) in the TBA Dataset: Example of data intensity mapping for a few key framework components and sub-components by stakeholder group for understanding the work and value of TBAs and formal health care providers in the birth process
