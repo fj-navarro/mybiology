@@ -34,7 +34,7 @@ Once a framework has been created and its applications in a field seem clear, it
 
 ### Familiarization
 
-Before delving into the intricate process of qualitative data analysis, researchers embark on a crucial phase known as familiarization. This initial step entails immersing oneself in the collected data to gain a comprehensive understanding of its scope and diversity. It involves reviewing a variety of cases, sources, and temporal contexts to ensure a well-rounded perspective. During this phase, researchers engage in activities such as listening to recordings, perusing transcripts, and studying observational notes. The overarching objective of familiarization is to acquaint the researcher with the intricacies of the data, allowing them to discern key ideas and recurrent themes that will serve as the foundation for subsequent analytical endeavors.
+The initial phase of meta-framework, familiarization, serves as a pivotal endeavor aimed at providing the researcher with a purposeful understanding of the collected data. Through an immersive engagement with the dataset, researchers embark on a process of discernment, identifying key ideas and recurrent themes that underpin the richness of the data that will serve as the foundation for subsequent analytical endeavors. This phase is instrumental in establishing a foundational comprehension of the dataset, encompassing an exploration of major themes pertinent to the research questions and their recurrence throughout the data. Data familiarization extends until the researcher attains a comprehensive grasp of the dataset's breadth of variation [@ritchie2002qualitative; @goldsmith2021using].
 
 ### Identifying a thematic framework
 
