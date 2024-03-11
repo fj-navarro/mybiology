@@ -19,373 +19,71 @@ In conclusion, Peter J. Bowler's "Evolution: The History of an Idea" was a valua
 **Overall, while Peter J. Bowler's "Evolution: The History of an Idea" primarily focuses on the historical development of evolutionary thought, it also offers valuable insights into modern aspects of evolution, including its interdisciplinary nature, its application to understanding human behavior and psychology, its incorporation of cultural evolution, and its relevance to fields such as evolutionary economics. By examining the evolution of ideas about evolution, Bowler's work provides a foundation for understanding the complexities of evolutionary processes in the modern world.**
 
 ## Preliminary framework
+
 Bowler's historical perspective of evolution in natural science provides a robust foundation for delineating themes and aggregate dimensions against which to code the data extracted from the literature on evolutionary economics and theory of the firm literature are coded (see Figure X). Each theme encapsulates essential aspects of evolutionary theory, shedding light on the intricate mechanisms governing species evolution and behavior. The apriori themes that reflect the conceptual framework on evolution derived from the analysis of Bowler's narrative are the following:
 
+![Fig1. Framework for evolutionary systems analysis. Source: own elaboration](scheme-5.png)
+
 ### Unit of analysis
-The unit of analysis serves as the fundamental entity upon which observations and analyses are centered. The "individual organism" stands as a cornerstone in evolutionary studies, representing a single, discrete entity within a given population. In the context of biology, an individual organism refers to a single living being, such as a plant, animal, or microorganism, capable of independent existence and reproduction. Notwithstanding, distinguishing between the individual organism and the population as units of analysis is crucial in evolutionary studies. While the individual organism represents a single instance of life, the population comprises a group of organisms of the same species occupying a defined geographical area and sharing genetic similarities. The individual organism serves as the building block of the population, with its traits, behaviors, and adaptations contributing to the collective dynamics of the population. For example, Darwin's theory is a mix of both: natural selection operates at the level of the individual organism, regulating the frequencies of traits within a population over time. 
+
+The unit of analysis serves as the fundamental entity upon which observations and analyses are centered. The "individual organism" stands as a cornerstone in evolutionary studies, representing a single, discrete entity within a given population. In the context of biology, an individual organism refers to a single living being, such as a plant, animal, or microorganism, capable of independent existence and reproduction. Notwithstanding, distinguishing between the individual organism and the population as units of analysis is crucial in evolutionary studies. While the individual organism represents a single instance of life, the population comprises a group of organisms of the same species occupying a defined geographical area and sharing genetic similarities. The individual organism serves as the building block of the population, with its traits, behaviors, and adaptations contributing to the collective dynamics of the population. For example, Darwin's theory is a mix of both: natural selection operates at the level of the individual organism, regulating the frequencies of traits within a population over time.
 
 The unit of analysis impacts the scope and focus of any evolutionary approach. Analyzing individual organisms allows researchers to examine specific traits, behaviors, and adaptations within a single entity, providing insights into microevolutionary processes such as natural selection and genetic drift. Conversely, studying populations enables researchers to investigate macroevolutionary patterns and trends, such as speciation and diversification, by considering the collective dynamics and genetic variability within and between populations.Therefore, while the individual organism offers granularity in understanding the mechanisms of evolutionary change at a local level, the population provides a broader perspective on the dynamics of species evolution and adaptation over time. Both units of analysis are integral to comprehensively elucidating the complexities of evolution within natural systems, highlighting the interplay between individual-level characteristics and population-level dynamics in shaping the evolutionary trajectory of species.
 
-### Evolutionary process
-The evolutionary process unfolds at the population level, encompassing the collective dynamics and interactions among individual organisms within a specific group. Unlike focusing solely on individual organisms, examining evolution at the population level provides insights into broader patterns of genetic variation, adaptation, and speciation within and between populations. At the heart of population-level analysis lies the concept of gene flow, wherein genetic material is exchanged between individuals within a population and sometimes between populations. Gene flow facilitates the spread of advantageous traits and genetic diversity, enabling populations to adapt to changing environmental conditions over time. Conversely, isolation mechanisms, such as geographic barriers or reproductive barriers, can restrict gene flow between populations, leading to genetic differentiation and potentially the emergence of new species through speciation. Natural selection acts upon this variation, favoring traits that enhance survival and reproductive success in a given environment. Other forces like genetic drift and mutation further contribute to population dynamics. Understanding these processes allows exploration of broader evolutionary patterns, such as speciation and adaptation, by considering the collective dynamics of populations. 
+### Origin
+
+The emergence of individuals within a population profoundly influences the evolutionary process by introducing novel genetic variation, subject to selection, mutation, and other evolutionary forces. Consequently, the inquiry into the origin of species holds paramount importance in evolutionary analysis of natural systems. It addresses fundamental inquiries regarding the emergence, diversification, and perpetuation of life forms on Earth. Understanding the mechanisms governing the origination and divergence of new species from common ancestors is crucial for comprehending the intricate dynamics driving biodiversity, species distribution, and abundance across diverse ecosystems. Such insights illuminate the adaptive strategies, evolutionary pressures, and ecological interactions shaping species dynamics within and among ecosystems.
+
+### Population evolution
+
+The evolutionary process unfolds at the population level, encompassing the collective dynamics and interactions among individual organisms within a specific group. Unlike focusing solely on individual organisms, examining evolution at the population level provides insights into broader patterns of genetic variation, adaptation, and speciation within and between populations. At the heart of population-level analysis lies the concept of gene flow, wherein genetic material is exchanged between individuals within a population and sometimes between populations. Gene flow facilitates the spread of advantageous traits and genetic diversity, enabling populations to adapt to changing environmental conditions over time. Conversely, isolation mechanisms, such as geographic barriers or reproductive barriers, can restrict gene flow between populations, leading to genetic differentiation and potentially the emergence of new species through speciation. Natural selection acts upon this variation, favoring traits that enhance survival and reproductive success in a given environment. Other forces like genetic drift and mutation further contribute to population dynamics. Understanding these processes allows exploration of broader evolutionary patterns, such as speciation and adaptation, by considering the collective dynamics of populations.
 
 ### Operational environment
+
 The environment plays a critical role in shaping evolutionary processes, providing the context within which populations and individuals interact and evolve. In natural systems, the environment encompasses both biotic and abiotic factors, influencing species distribution, behavior, and evolution. Biotic factors include living organisms and their interactions, such as competition for resources, predation, and symbiotic relationships. Abiotic factors comprise non-living elements like climate, geography, and physical resources. Together, these factors create dynamic ecosystems where species must adapt to survive and reproduce. Furthermore, environmental conditions determine the fitness of organisms, driving natural selection and shaping evolutionary trajectories. Species evolve traits and behaviors suited to their environmental niche, optimizing survival and reproductive success. Understanding the operational environment is crucial for comprehending the dynamics of natural systems and the mechanisms driving evolutionary change. By analyzing how organisms interact with and respond to their environment, insights into the processes shaping biodiversity, ecosystem function, and species evolution can be gained.
 
 The operational environment is also heavily influenced by historical factors. Past events, such as environmental disturbances and climatic shifts, leave lasting impacts on ecosystems, affecting species composition, habitat availability, and biodiversity patterns. Ecosystems with long histories may exhibit greater biodiversity and genetic resilience, while disturbances can create legacies that constrain adaptation. Integrating historical analysis into evolutionary analysis can provide valuable insights into path-dependent processes, informing conservation strategies for promoting ecosystem resilience and adaptation to changing environmental conditions.
 
-### Change process
+### Individual change
+
 At the core of evolutionary dynamics lies the change process occurring at the level of individual units. In natural systems, this manifests as the continual adaptation and modification of organisms in response to environmental pressures and internal dynamics. These changes may include phenotypic modifications, behavioral adjustments, or genetic mutations, all of which contribute to the overall diversity and resilience of the population. Natural selection acts as a guiding force, favoring traits that confer a reproductive advantage or enhance survival in a given environment. Genetic mutations introduce novel genetic variation into populations, providing raw material for evolutionary change. Understanding the change process at the unit level is essential for elucidating the mechanisms driving species evolution and adaptation. By examining the interactions between individual units and their environment, insights into the evolutionary dynamics shaping biodiversity, ecosystem resilience, and species persistence over time are gained.
 
 ### Structural and Behavioral Traits
+
 The structural and behavioral traits of individual organisms are fundamental components of evolutionary dynamics within natural systems. Structural traits encompass physical characteristics such as morphology, anatomy, and physiology, which determine an organism's form and function. These traits play a crucial role in the adaptation of organisms to their environment and their interactions with other species. Behavioral traits, on the other hand, encompass the actions and responses exhibited by organisms in their environment. These traits include feeding behaviors, mating rituals, communication signals, and social interactions, among others. Behavioral adaptations enable organisms to acquire resources, avoid predators, compete for mates, and establish social hierarchies, all of which contribute to their survival and reproductive success. The interplay between structural and behavioral traits shapes the ecological niche occupied by organisms and determines their fitness within a given environment. Organisms with traits that confer advantages in resource acquisition, predator avoidance, and reproductive success are more likely to survive and pass on their genes to future generations. Over time, this leads to the evolution of traits that are well-adapted to the prevailing environmental conditions. By examining the morphological, physiological, and behavioral adaptations of organisms, valuable insights can be gained into the ecological strategies employed by species, the dynamics of ecological communities, and the co-evolutionary processes that shape biodiversity over time.
 
 ### Competition
+
 Competition constitutes a fundamental force driving evolutionary dynamics within natural systems. Competition occurs when individuals or species vie for limited resources such as food, water, or territory. This competitive pressure selects for traits that confer a competitive advantage, driving evolutionary change over time. Within populations, competition may take various forms, including direct competition for resources, interference competition through aggressive interactions, or exploitative competition where one species outcompetes another for resources. These competitive interactions can lead to niche differentiation, where species partition resources to reduce competition and coexist within the same habitat. Moreover, competition can drive evolutionary innovation and adaptation as species evolve traits and behaviors to outcompete rivals. This race dynamic can lead to the diversification of species and the development of complex ecological interactions over evolutionary time scales. Understanding the dynamics of competition is essential for elucidating the mechanisms driving species interactions, community dynamics, and evolutionary trajectories within natural ecosystems. By studying competitive interactions and their outcomes, insights into the processes shaping biodiversity, ecological resilience, and ecosystem stability are gained.
 
+**The connection between competition and selection lies in the fact that competition sets the stage for natural selection to act. When individuals compete for resources, those with traits that confer a competitive advantage are more likely to survive and reproduce, passing on their advantageous traits to their offspring. Over time, this process leads to the accumulation of adaptive traits within populations, as individuals with less advantageous traits are outcompeted and their genes are less likely to be passed on. In summary, competition provides the selective pressures that drive natural selection, while natural selection favors traits that enhance competitive ability, thus influencing the outcome of future competition. Therefore, while competition precedes selection in terms of the environmental pressures exerted on individuals, the process of selection ultimately feeds back into competition by shaping the traits and behaviors of individuals within populations.**
+
 ### Adaptation
+
 Adaptation is a fundamental mechanism driving evolutionary change at the individual level within natural systems. Organisms continuously adjust their traits, behaviors, and physiological processes in response to selective pressures exerted by the environment. At its core, adaptation enables organisms to enhance their fitness and survival in specific ecological niches. Through the process of natural selection, individuals with traits that confer a reproductive advantage or improve survival under prevailing environmental conditions are more likely to pass on their genes to future generations. Over time, this leads to the accumulation of adaptive traits within populations, increasing their overall fitness and resilience to environmental challenges. Adaptation occurs through various mechanisms, including phenotypic plasticity, genetic mutations, and behavioral adjustments. Phenotypic plasticity allows traits to adjust to environmental cues, while mutations introduce genetic variation. Behavioral adaptations optimize resource use, predator avoidance, and reproduction. Understanding adaptation at the individual level is crucial for uncovering the mechanisms driving evolutionary change and species diversification within natural systems, shedding light on species' adaptive strategies, the emergence of novel traits, and the dynamics of ecological interactions over time.
 
 ### Selection
+
 Selection mechanisms act upon the diversity of individual units, favoring traits conducive to competitive advantage and survival. As such selection processes play a pivotal role in driving evolutionary change. Natural selection acts as a mechanism for favoring traits that enhance an organism's fitness and reproductive success in a given environment. Through natural selection, individuals with advantageous traits are more likely to survive and reproduce, passing on their genetic material to subsequent generations. Over time, this differential reproductive success leads to the accumulation of beneficial traits within populations, driving evolutionary adaptation to changing environmental conditions. It should be noted that while natural selection stands as a cornerstone of evolutionary theory, selection operates through various mechanisms, including directional selection, stabilizing selection, and disruptive selection. Directional selection shifts traits towards one extreme, stabilizing selection maintains the status quo within a population, and disruptive selection leads to divergence. Understanding selection processes is crucial for elucidating the mechanisms driving evolutionary change and biodiversity within natural systems. By studying the interactions between organisms and their environment, insights into the adaptive strategies employed by species, the emergence of novel traits, and the evolution of complex ecological interactions are gained.
 
+**Natural selection primarily operates at the individual level within populations. It acts on the variation in heritable traits among individuals, favoring those with traits that enhance their survival and reproductive success in a given environment. Over time, differential reproductive success leads to the accumulation of advantageous traits in populations, driving evolutionary change. While natural selection occurs at the individual level, its effects can be observed at the population level through changes in allele frequencies and the distribution of traits within populations.**
+
 ### Reproduction
+
 Reproduction is a fundamental process driving evolutionary dynamics at the individual level. Organisms perpetuate their genetic lineage through the production of offspring, passing on their hereditary traits to future generations. Reproduction ensures the continuity of life and the preservation of genetic diversity within populations. Through sexual and asexual reproduction, organisms produce offspring with genetic variations that contribute to the overall genetic pool of the population. The reproductive process is influenced by various factors, including mate choice, mating behaviors, reproductive timing, and reproductive success. These factors shape patterns of mate selection, mating strategies, and reproductive outcomes within populations, influencing the genetic composition and evolutionary trajectory of species. Examining the reproductive process at the individual level is key for elucidating the mechanisms underlying evolutionary change and population dynamics within natural systems. Such analysis provides valuable insights into the adaptive strategies employed by species, the preservation of genetic diversity, and the evolutionary forces influencing populations over time.
 
 ### Heredity
+
 Heredity is intricately linked to reproduction as it governs the transmission of genetic information from parent to offspring. This connection is vital because heredity, through the transmission of DNA, ensures the continuity of genetic traits across generations, providing the raw material for evolutionary change. Furthermore, genetic variation resulting from mutations and recombination during reproduction introduces diversity within populations, fueling the process of natural selection and facilitating adaptation to changing environmental conditions. Thus, understanding the relationship between heredity and reproduction is crucial for unraveling the mechanisms that underpin individual change processes and their broader implications for evolutionary dynamics within natural systems.
 
-### Origin/Generation
-The concept of generation holds profound significance within evolutionary science due to its pivotal role in understanding the origins and trajectories of species. Generation refers to the process by which new individuals are produced, either sexually or asexually, within a population. The study of generation is relevant as it provides insight into the mechanisms by which genetic variation is introduced and inherited across successive generations, driving evolutionary change. Additionally, the problem of generation intersects with the broader issue of origin, wherein the emergence of new individuals raises questions regarding their evolutionary ancestry and the factors influencing their genetic composition. The origin of individuals within a population impacts the evolutionary or change process by introducing novel genetic variation, which undergoes selection, mutation, and other evolutionary forces. Evolutionary analysts should focus on the problem of origin or generation as it offers a fundamental understanding of how new traits and adaptations arise within populations, ultimately shaping the course of evolutionary history. By elucidating the mechanisms underlying the origin of individuals and the transmission of genetic material across generations, researchers can gain insights into the evolutionary processes driving biodiversity, adaptation, and speciation over time.
-
-Conclusion
-
-The preliminary framework synthesized from Bowler's historical perspective provides a comprehensive lens for understanding the evolutionary dynamics inherent in economic systems and firm behavior. These themes serve as foundational pillars for subsequent analyses, facilitating deeper insights into the mechanisms driving economic evolution and organizational dynamics. By elucidating the interplay between evolutionary principles and economic phenomena, this framework lays the groundwork for advancing our understanding of the evolutionary economics and the theory of the firm.
-
 ## Quantity and quality of included studies
+Seventy-five studies of evolution were identified as meeting the criteria above and form the basis of this review. Table 1 provides definitions of the six SEARCH pathways and lists the sub-categories of studies that were identified in each pathway for the current review. As well as research papers and books on evolutionary economics, we found discussion papers about differing priorities, conceptual frameworks, community equipoise, power, democratic practice and advocacy. These papers drew on a wide range of theories, and described episodes of involvement in many different research areas. (...)The health topics covered in the literature included different health conditions (asthma, breastfeeding (...) The papers came from different disciplines (agriculture, genetics, environmental studies) and reported different research methodologies (systematic reviews, technology assessment, participatory research). @oliver2008multidimensional\*
 
 ## Usefulness of the preliminary conceptual framework
 
-## Extension of the preliminary conceptual framework to generate the final model
+The preliminary framework synthesized from Bowler's historical perspective provides a comprehensive lens for understanding the evolutionary dynamics inherent in economic systems and firm behavior. These themes serve as foundational pillars for subsequent analyses, facilitating deeper insights into the mechanisms driving economic evolution and organizational dynamics. By elucidating the interplay between evolutionary principles and economic phenomena, this framework lays the groundwork for advancing our understanding of the evolutionary economics and the theory of the firm.
 
-Seventy-five studies of evolution were identified as meeting the criteria above and form the basis of this review. Table 1 provides definitions of the six SEARCH pathways and lists the sub-categories of studies that were identified in each pathway for the current review. As well as research papers and books on evolutionary economics, we found discussion papers about differing priorities, conceptual frameworks, community equipoise, power, democratic practice and advocacy. These papers drew on a wide range of theories, and described episodes of involvement in many different research areas. (...)The health topics covered in the literature included different health conditions (asthma, breastfeeding (...) The papers came from different disciplines (agricul- ture, genetics, environmental studies) and reported different research methodologies (sys- tematic reviews, technology assessment, participatory research). @oliver2008multidimensional\*
+## Final evolutionary framework
 
-*(esta es la referencia a la figura del cuadro con el Framework) The model describes the processes involved in an individual's decision about whether or not to take possible chemopreventive agents. The process runs from the first stages of perceived need, on the left, through the decision-making process itself, to final non- use or use, and maintenance of use, on the right.\@carroll2011worked*
 
-*(y sigue la explicación comparando el Framework 1 obtenido de la literatura, con el Framework 2 que es al que llegan los autores) Since the source of the preliminary framework was a single published model, the manner in which new themes built-on, developed and altered this preliminary conceptual framework is quite transparent. In this review, this may be assessed in part by comparing Figure 1 with Figure 2. The principal procedural elements of the preliminary model also held true for this sample of studies and their population, i.e. the transition through the stages of perceived need, decision-making, risk versus benefit and use or non-use. These elements also reflect the three key stages of Contemplation,... @carroll2011worked*
 
-*(y sigue con la comparativa entre frameworks) Relationships between the themes were not well-developed in the preliminary model. The synthesis found that not only did family, physicians and others affect decision making, but also that this relationship was moderated by the credibility of the source and the clarity of the infor- mation being given. (...) Indeed, unlike the existing models, which appear to be exclusively linear, the model that resulted from this synthesis was potentially more recursive: the decision-making stage might still be revisited on the basis of side-effects ("risks") experienced at the stage of use. This new model can therefore be seen not only to validate, but also to build upon, extend and contextualise existing, relevant published models. The a priori boxes of Contemplation, i.e. perceived need; Determination, i.e. decision-making; and Action, i.e. use and maintenance, have been opened to reveal the complexities of the factors therein, their relationships and moderators. @carroll2011worked*
-
-**(OJO, a tener en cuenta!) Table 4 Guiding points for future framework engagement, separated by development (or modification) and application** Table 4 Guiding points for future framework engagement, separated by development (or modification) and application Framework process Guiding points Development and/ or modification Application/ use • Explain the framework's positioning: (1) who developed it, (2) the values of those research- ers, (3) the research questions engaged with, and (4) the field in which it is embedded. • Explain the purpose of the framework, for example, which paradigms, specific theories and models it is intended to contribute to. • Explain each of the frameworks compo- nents and relationships, and how they were conceived (i.e., through review/meta-analysis, expert knowledge, empirical work, opinion). • Explain how the framework can be applied by others to increase methodological learning and data cohesiveness. • Explain why the framework is novel and adds value compared to other existing frameworks
-
-*It is clear that positive education will benefit from the development of meta-frameworks to guide research and practice. To this end, the first author of this paper has been involved in a multi-year programme of research to develop a data-driven, meta- framework in positive education - the SEARCH framework. SEARCH has been developed to help researchers organize current scientific findings and to advance future research. The framework is also designed to help (...) @waters2019search*
-
-*SEARCH is a new meta-framework that is higher-order in nature, evidence-based, actionable and multi-dimensional. SEARCH was developed through two key stages of research. Stage one involved a large-scale, 'birds-eye', review of the science of positive psychology in order to determine the key pathways of positive functioning/ well-being (Rusk and Waters 2015). Stage two involved road testing the pathways identified in stage one via action research in ten schools. Both of these stages will be now be described.\@waters2019search*
-
-*With regard to stage one,(...) Findings revealed five over-arching pathways: 1) virtues and relationships, 2) emotional management, 3) attention and awareness, 4) comprehension and coping and 5) habits and goals. These five pathways formed the first iteration of the positive psychology (PP) framework @waters2019search*
-
-*(...)At the completion of stage one and two the six pathways comprising the framework were established. By taking the first letter of each pathway, the acronym SEARCH was created, and Fig. 1 visually depicts the six pathways of the SEARCH positive education framework.\@waters2019search*
-
-## SEARCH: A Systematic Review
-
-*Following the development and refinement of SEARCH as a meta-framework for positive education, the focus of the current paper is to conduct a systematic review of the educational literature to examine evidence of the six pathways in student samples and consider the ways these pathways can be increased in students through existing school-based interventions to boost wellbeing and academic achievement.\@waters2019search*
-
-*The current review paper was guided by the three below questions, for each of the six SEARCH pathways*
-
-*1) What evidence is there to indicate that the intervention boosts the pathway it is targeting? For example, do mindfulness interventions actually boost attention and awareness?* *2) What evidence is there to indicate that the intervention builds wellbeing?* *3) What evidence is there to indicate that the intervention improves school-based and academic outcomes? @waters2019search*
-
-*5. CROSS-STUDY SYNTHESIS 5. Cross-study synthesis* *Having reviewed systematically the views of children, young people and parents about walking and cycling as a means of transport, we compared these views with evidence derived for the review by Ogilvie and colleagues (2004) of the effects of interventions promoting walking and cycling as a means of transport.* *Implications for interventions highlighted by our views synthesis were entered into a matrix alongside the included and excluded evaluations of interventions from the review of intervention effectiveness by Ogilvie et al. (2004). This table is provided in Appendix 8. We then examined the matrix to determine whether interventions matched, contradicted or simply failed to address children's, young people's or parents' views.* *Theme 1: Culture of car use* @brunton2006synthesis
-
-*Reflections on the framework and its value* *The framework we developed and have described in this paper is comprehensive in its scope. It accommodates diverse methods for public involvement in research, operating at international, national, regional and local levels, in urban and rural areas, stretching across the developed and developing world, and in contexts that differ widely in terms of topic of interest, organizational structures and under- pinning theories. The framework draws toge- ther examples of public involvement that share fundamental principles, but that have devel- oped in very different contexts (such as participatory research with Californian young people and with farmers in developing countries). @oliver2008multidimensional*
-
-*It distinguishes between variables operating at different levels; at initiation, and subsequent choice of participants, forum and decision- making processes. It juxtaposes public involvement methods that share characteristics along one or more dimensions. Application of the framework facilitates the identification of general trends (such as collaborative relation- ships being more productive), and highlights exceptions (such as tokenistic committee involvement) to deepen our understanding of public involvement processes and increase pro- gress towards more productive methods of public involvement. @oliver2008multidimensional*
-
-*A particularly fruitful method for involving the public in setting large-scale research agendas appears to be a combination of collaboration and consultation, with lay people taking leading roles in consulting their peers. Another advan- tage of our framework is that it exposes impor- tant gaps in the existing literature, most notably about methods for collective decision making,16 which are rarely reported in detail.\@oliver2008multidimensional*
-
-*our framework was constructed from a combination of a priori issues, the information needs of the study set by the funders, and issues that emerged from the data. The dimensions of the framework emerged from our personal experience, from the back- ground methodological literature, and from the empirical or reflective reports that provided the ÔdataÕ of the review. As with much primary qualitative research, the framework was not identified until we were familiar with the literature as data, and it was instrumental in helping us code and organize the data, then describe and interpret the concepts. This approach allowed comparative analysis of varied and complex methods and the identification of gaps, whether these were gaps in individual reports (such as little description of methods, even less of public views and influence) or gaps in our collective knowledge, in particular, about methods for reaching decisions with patients ⁄publics. @oliver2008multidimensional*
-
-*Our framework allowed the abstract concept of empowerment to be addressed in very practical terms: the num- bers of people involved; whether they were individuals or networked group members. @oliver2008multidimensional*
-
-It is important to clearly establish the differences that distinguish an evolutionary process from another of change or transformation. Although these are related concepts in evolutionary theory, they actually denote different processes that act on different agents, which is why they tend to be confusing even among some specialists.
-
-Evolution is an overarching process that drives change in populations over generations. This means that evolutionary processes do not operate at the level of a specific individual or organism, which would only change or transform. Evolution therefore represents the cumulative effect of the inherited changes made by the characteristics of the individuals of a population, on which a selection process operates affecting the frequency of traits within a population over time. Change encompasses a broad spectrum of morphological or behavioral alterations within individuals from a variety of factors, including environmental pressures and reproductive patterns. Transformation suggests more profound or significant shifts in form, structure or function of individuals.
-
-The idea of individualism is confronted with that of populationism. Darwin's theory is a mix of both: natural selection operates at the level of the individual organism, regulating the frequencies of traits within a population over time. Populations are the units of evolution.
-
-Another important approach to take into account is the one that confronts the idea of evolutionism with that of progressionism. The first refers to a change that is non-directional, while the second implies a direction in evolution, usually following a teleological change.
-
-![Fig1. Framework for evolutionary systems analysis. Source: own elaboration](scheme-1.png)
-
-## Evolution
-
-A simple evolutionary framework works like this:
-
-Sudden or slow changes in the environment trigger a response in the organism that involves an adaptation, which means the loss, modification or creation of new individual traits. When the new traits are incorporated into the genetic variation of the population, the process of natural selection operates to favor some over others and derive a greater or lesser reproductive advantage to those individuals that have incorporated those new traits. This favoring or penalizing process carried out by the environment determines the greater or lesser ability of an organism to survive. This favoring or penalizing process carried out by the environment determines the greater or lesser ability of an organism to survive. At the end of the process the frequency of advantageous qualities (which are those that offer a greater ability to survive) will be higher, and those that offer less ability to survive have a lower frequency.
-
-![Fig2. Simple evolutionary framework](scheme-4.png)
-
-In the process of evolution is worth consider the role of feedback loops between mental an social evolution (as imagined by H.Spencer). For this author a more complex society is a stimulus for more mental development. This is the foundation of evolutionary psychology and of sociobiology.
-
-How is the mechanism of evolution: cyclic vs. continuous?
-
-The role of the organism to focus in new habits and become an active creative agent in charge of its own destiny is an idea of H.Spencer.This takes the evolutionary analyst to think about the role of knowledge and learning to change habits and create new instincts, in the end, to unfold a process of self-improvement (which is Lamarckian).
-
-Study of the role of innovation and learning, and of free enterprise of individuals to cope with a competitive environment (H.Spencer). Linked to the above is also the discussion about the role of the government and the state as instruments that affect the environment.
-
-### Competition
-
-The evolutionary analyst must understand competition as that within an ecology based on struggle. These are three fundamental terms to understand the evolutionary analysis framework.
-
-It is important to stop for a moment to understand the implications of the concept of ecology to explain an evolutionary system. To achieve this, a common approach has been to use biogeography as a way of knowing about the spread of relationships and how species compete to occupy territory.
-
-### Convergent evolution (parallelism)
-
-This conception of the evolutionary process implies the existence of a parallelism between independent evolutionary trajectories.
-
-The environmental challenges over species A and B, make those species develop the sames structures and behaviors, which may have an impact on morphology, physiology, and life history traits. This continues forward with the same genetic pathways (even the same phenotypic traits), the consequence being on predictability/replicability of evolution, namely, the same solutions given to similar selective pressures.
-
-This opens the debate between uniformitarianism (and graduation) vs catastrophism. The former is Lyell's idea of the same processes of change today than ever. The later is about sudden changes, such as catastrophic events. \### Lamarckian approach The Lamarckian approach to evolution is based on the changes posed by the environment that determine (influence) the needs of organisms. These needs, when varying, affect the degree of use or disuse of certain organs (as is the case of a giraffe) and hence the greater or lesser development of certain parts of the body. This greater or lesser development of the parts of the body in turn affects the size and power of the organism's organs and, ultimately, the organism's ability to be preserved through reproduction.
-
-![Fig2. Lamarckian evolutionary framework](scheme-2.png)
-
-### Buffon's perfect adapted organism
-
-According to this framework of thought, only when alterations in the environment occur, due to alterations in climate or geography, do variations appear. This is the moment when natural selection operates to adapt the species to new conditions.
-
-Environmental stressors cause the perfectly adapted organism to begin a process of degeneration and lose its original adaptability and perfection. This process that takes place over time gives rise to intermediate or transitional forms, which ultimately explain the diversity of life on earth.
-
-![Fig3. Buffon\'s evolution framework. Source: own elaboration](scheme-3.png) \### Spencer's framework Herbert Spencer's analytical framework establishes that new situations in the environment give rise to organisms having to learn how to cope with them. From this learning is derived the development of new instincts, which are more complex human faculties, which allow the organism to be more prepared to face the "survival of the fittest."
-
-## Origin
-
-The problem of the origin is associated with that of the "Problem of Generation" and its accompanying theories of generation. An analysis of the origin involves the need to explore for evidence of the past in search for a better system (what are the sources of evidence?).
-
-The following are some of the theories to consider when addressing the problem of generation of the original structure:
-
--   Spontaneous generation (often only for the simplest forms)
-
--   Preformationism (forms that are predetermined)
-
--   Pre-existence
-
--   A mold that is fixed.
-
-After the evidence of generation has become evident, the next step is to continue understanding the trend towards higher levels of complexity, and thee material forces that have an influence on the trend.
-
-When the evolutionary analyst deals with the problem of generation she must attend to the *developmental process*, and the constraints that it can impose on the rest of the evolutionary process. These constraints might introduce non-random variations, which can mean a way to direct. the course of evolution.
-
-It is especially useful for the evolutionary analyst to consider that the unit (species) has a limited number of developmental pathways available and that the selection process would therefore be limited only to the possibility of tinkering with the details.
-
-## Structure
-
-The main issue when considering Structure is to establish what the analytical unit of the system is (and what its main basic components are). In the case of natural evolutionary theory, this unit has traditionally been the organism, but also the population and later, after modern synthesis, the gene. It is the analyst's job to determine as clearly as possible which is the "unit" on which the evolutionary analysis of the system will focus.
-
-Thinking about population opened the door to a statistical model of explanation, which is opposed to the Newtonian view of law-based causation. This is the eternal debate between determinism and probabilism.
-
-## Environment
-
-What is the role of the environment as a key impact driver?
-
-The environment surrounding the chosen unit of analysis exerts various types of forces that act on the structure to provoke a process of change, with greater or lesser intensity, and in one direction or another.
-
-The forces of change originating in the environment force the unit to change, so it is essential that the analyst analyze the environment in depth as a key impact driver, understanding the role of the environment in the evolutionary process of the system.
-
-The connection between the environment and the origin is a key issue as well, since the direction of the change, if it exists, and the intensity or depth of the change that may take place in the structure of the unit may sometimes depend on it.
-
-This opens the debate between directionalism vs catastrophism in change. The latter is a random process of a destructive-creative type, in which change occurs in discontinuous steps and not through a gradual modification. The above opens the debate over purposeful changes (goal directed with no fixed line of advance- H. Spencer). The "struggle for existence" (Malthus) and the "survival of the fittest" (spencer).
-
-One result of this view is whether evolution is linear (represented by a ladder) vs a tree (the idea of branching).
-
-### History
-
-The system as the outcome of historical forces (Montesquieu).
-
-The evolutionary analyst should elucidate whether the same forces of the past are those that govern the forces of today.
-
-...And the vision of progress with phases of equilibrium as the whole moved from homogeneity to heterogeneity (E.Tylor)
-
-(From Change) A good question to be reviewed by the evolutionary analyst: Is change a staged process, a process depending on historical forces?
-
-### Forces
-
-It is important when analyzing the environment to specify the type of force applied to the structure, and its sources in said environment.
-
-The forces that operate to produce evolutionary changes can be:
-
-1.  Mutation
-2.  Natural selection
-3.  Genetic drift
-
-Following another typology of change forces (which should be clarified):
-
-1.  Hybridization
-2.  Recombination
-3.  Superposition
-
-### Selection
-
-Is (natural) selection an episodic or a continuous process?
-
-Are there periods of stable life where (natural) selection does not operate? or, Is (natural selection) always operating even in a stable environment?
-
-A related approach is the one which considers selectionism vs. saltationism, and the extension with the role of mass extinctions. This would open the debate about evolution not always being progressive, and the acceptance that species could degenerate in less challenging lifestyle.
-
-Is the (social) behavior programmed into us by natural selection? This would take us to the question of the development of social instincts.
-
-The idea of struggle and death might have a positive purpose to keep species well adapted to a challenging environment (this is an utilitarian perspective). They might have a creative role (along with sex reproduction). Utilitarism in behavior and change/adaptation can be seen in J.S. Mill and W.Poley.
-
-How evolution can produce advance in several directions (and not only towards humanity)?
-
-The notion of selection used in this paper is that of having a balance between different characters within a population and not about the development of a murderous or aggressive instinct.
-
-## Behavior
-
-Behavior is the way in which the structure articulates a response to the pressure exerted by environmental forces. Behavior establishes the boundaries within which the structure is capable of absorbing the forces of the environment and giving an adaptive response to the new situation or challenge posed by the environment.
-
-The result of the behavior, which takes place within the boundaries established by the structure of the unit, can give rise to three types of adaptive responses by the system:
-
--   New system qualities (traits)
--   Loss of system qualities (traits)
--   Modification of system qualities (traits)
-
-What types of evolutionary behaviors can we find?:
-
-1.  Cyclical
-2.  Linear
-3.  Random
-
-Another way to
-
-## Change
-
-Both the structure and the behavior are permanently immersed in a process of change, since the unit is always sensitive to the forces exerted on it originating in the environment. The overall evolutionary process of the unit will depend on the way in which these forces affect the unit.
-
-The characterization of the change process must be carried out considering the following key dimensions, all of them closely related:
-
-1.  The direction or trend of the change process. This question has historically been part of the discussion on evolutionary theory, with different approaches given by different authors.
-
-2.  The change driver, whether it is a single one or a set of drivers that configure the change process. This opens the debate between configurable versus non-configurable change or, in other words, whether change is manipulable (Lamarckian) or non-manipulable (Darwinian).
-
-3.  The mechanics of the process, whether gradual and slow, or sudden/abrupt and in jumps, or any intermediate alternative in the continuum formed by these two extremes.
-
-4.  The time scale on which the change process takes place. This can develop over a vast amount of time or a small amount of time, or somewhere in between.
-
-5.  Open-ended process based on trial-and-error vs. directed (fixed) process
-
-Some important considerations to keep in mind are that the process of change always implies progress, but it can also involve regression. Therefore, the evolutionary analyst faces both forward and backward movements.This goes hand in hand with the idea of continuous progress, as opposed to progress in jumps or saltation.
-
-A good question to be reviewed by the evolutionary analyst: Is change a staged process, a process depending on historical forces?
-
-What is the role of the state of technology to explain the change process, and that of diffusion of knowledge?
-
-Be aware that the process of accumulation of change can lead to the formation of new organs (new structure), according to E.Darwin.
-
-### Mutations
-
-Mutations play a role in the process of change, specifically they provide a source of random variation, but they do not generate new species. Mutations generate variation and natural selection then shapes the distribution of traits within a population over time.
-
-It must be taken into account that not all genes that undergo a mutation produce drastic changes in the organism (individual); in reality, most mutations are neutral and do not produce noticeable changes. The evolutionary analyst will have to take into account that the environment plays a role in determining which mutated characters are those that spread in the population (this is nothing more than the phenomenon of selection).
-
-Maybe the concept of mutation is for more drastic transformations leading to new species, accepting that adaptation and selection might be irrelevant.
-
-Can the evolutionary analyst evaluate the idea that there might be internal forces generating characters unrelated to the organism's needs? A related consideration may take us to consider that evolutionary changes occur in a predetermined manner driven by internal factors (this is called "directed evolution"). This is what has historically been called orthogenesis (F.Eimer).
-
-The above opens involves fixity of direction, and if variation is also considered as not random, therefore there is no need for adaptation. According to this vision the environment would not have any role in evolution. Evolution might come to happen beyond what is functionally needed and not because environmental factors.
-
-Does **"overdevelopment theory"** apply (A.Hyatt)?
-
-## Reproduction
-
-Currently there is a generalized consensus in accepting the reproductive success of the unit as the main driver of selection, that is, the ability to transmit the genetic load of the unit to the offspring (this perspective has been criticised by Stephen Jay Gould). This modern vision of evolution has not always been like this, so less than 100 years ago success was considered to be found in the ability to adapt to the environment.
-
-Selection based on reproductive success has opened the doors to new avenues of interest and study, which now focus more on sexual selection, in the case of natural systems, or on the reproduction mechanisms of any other system. An interesting factor that every evolutionary analyst may want to analyze is the role of geographic barriers to explain the way in which species multiply.
-
-Let us also think that the selection process that takes place in the environment is continuous and is not interrupted even when the environment is stable. In other words, competition between some units and others for scarce resources never stops, even if the environment appears stable. The analogy of the Red Queen hypothesis, introduced by Van Halen @van201419 to denote that in the evolutionary race between organisms species must constantly adapt and evolve just to maintain their relative fitness within an ever-changing environment, it is good to explain that units must remain constantly improving or, otherwise, they will be outstripped by their rivals.
-
-### Reproductive strategies
-
-What are the reproductive strategies in a population? There are a few: parthenogensis, hermaphroditism, R-selected, K-selected, Sewel parity, itero parity, mono/poly gams, hybridization, transmutation, pangenesis, orthogenesis.
-
-Germ (hard heredity) vs somato plasm (soft heredity).
-
-### Developmental constraints
-
-The concept of developmental constraints affects in shaping the course of evolution. This is because the embryonic development process imposes a series of limitations on the types of changes that can occur in organisms over time. Patterns and constraints of embryonic development can provide insights into the mechanisms underlying evolutionary change and diversification.
-
-### Evo-devo approach
-
-This approach, abandoned by current biologists, states that "ontogeny recapitulates phylogeny". To understand it we must apply an "evo-devo" approach, meaning that embryological processes are part of evolutionary systems. This approach presents the idea of "blending" as the most convincing explanation of reproduction.
-
-The "evo-devo" approach is based on Von Baer's laws of embryology, which establish the following:
-
-1.  The basic structures of the body are established before specialized features appear
-
-2.  Embryos progress from general to specific characteristics as they develop
-
-Homology vs analogy. These concepts establish that similar structures in different organisms are derived from a common ancestor.
-
-In the case of homology a common ancestor "A" gives rise to a divergent pattern of species "B" and "C" that are specialized and have a different formation.
-
-The pattern in the case of analogy is convergent, since two species "A" and "B" present the same organ with the same function.
-
-### Speciation and Specialization
-
-The problem of speciation, that is, the division of a parent into several descendants. This is related to niche specialization and adaptation. Speciation is a fundamental mechanism of biological diversification.
-
-Speciation leads to opportunities for specialization. Specialization within populations can contribute to reproductive isolation and promote speciation. It can also drive specialized traits that lead to divergence of populations over time.
-
-In specialization a constant force, natural selection, determines the level of specialization, posing a pressure to specialize on species (in line with Adam Smith thought). The level of specialization influences the level of adaptation, which drives a divergent process of speciation.
-
-**Types of specialization**: genetic, behavioral or ecological.
-
-Role of geographical isolation of speciation There are two considerations in regards of the role of geographical isolation for speciation. One considers that specialization emerges without the need of geographical barriers, this is called sympatric speciation and is a radiply evolving type of speciation. Whereas allopatric speciation is much less rapid and more accepted today, and considers geographical barriers at the initial stage of species separation.
-
-## Heredity
-
-Heredity is an accumulated effect (think of Lamarckian IAC).
-
-Species have a gene pool that contain a large pool of genetic variability, in which many of these genes are simply useless or harmful. This gene pool is the raw material for selection.
-
-An important task of the evolutionary analyst will be to determine if there are modifier genes (W.Castle) that influence the genes responsible for phenotypic characters.
-
-Some Lamarckian stances might be worth an analysis. For example, the evolutionary analyst might consider that not all inherited acquired characteristics (IAC) are inherited by or as a response to changes in the environment.
-
-The above might take of to the question if all evolution is mere trial-and-error, and how much is a deliberate choice of new habits in response to changes in the environment? Current thinking considers that not all needs to be inherited, so (to what extent) Can the environment influence heredity? (W.Bateson). But be advised that genetics is hostile to this idea.
-
-Mendelian rule of "one single unit" in the germ plasm being responsible for determining the character and transmitting it to offspring. This would lead us to have to elucidate which genes (alleles) are dominant and which are recessive. This would lead us to have to elucidate which genes (alleles) are dominant and which are recessive, and thus explain that there are discontinuous characters (Bateson).
-
-## About the Evolutionary Analysis Model
-
-The analysis model for evolutionary analysis must balance theory with observation (Herschel). In reality, theories derive their power from their ability to establish connections with other areas of study.
-
-(In Structure) Thinking about population opened the door to a statistical model of explanation, which is opposed to the Newtonian view of law-based causation. This is the eternal debate between determinism (causation) and probabilism (statistical).
-
-Other discussions apart from determinism vs probabilism established by evolutionary analysis are these:
-
--   Predictive vs descriptive
--   Reductionist vs holistic
--   Macroscopic vs microscopic
-
-The method of evolutionary analysis is that of a patient observer (Darwin), who poses some hypothetical situations and then uses the deductive method to try to verify them.
-
-## Tables to Include: Refinement of the Initial Framework
-
-*Table 2 @goldsmith2021using* Framework Identification (Step 2) in the TBA Dataset: Initial and revised framework for understanding the work and value of TBAs and formal health care providers in the birth process
-
-(ver tabla que pusieron en este paper para comparar el framework inicial y el refinado después de aplicar el framework al resto de la literatura)
-
-Initial Framework Reasons why women use TBAs rather than formal health care providers Reasons why women use formal health care providers rather than TBAs Concerns about TBA practice Concerns about formal health care provider practice Characteristics of positive work relationships between TBAs and formal health care providers Characteristics of negative work relationships between TBAs and formal health care providers
-
-Revised Framework Reasons why women use TBAs rather than formal health care providers • TBAs more easily affordable than health center • TBAs local while health center can be far away • TBA practice preferred over formal health care providers practice • Formal health care providers' treatment has not worked Reasons why women
-
-*Figure 2: An example of the coding index (ver en @smith2011qualitative)* Initial themes Initial categories
-
-*(ver cómo está organizada esta tabla) Figure 9.3 Example of an indexed transcript @ritchie2002qualitative*
-
-*Table 3 @goldsmith2021using* Charting (Step 4) in the TBA Dataset: Example of data abstraction for a few key framework components and sub-components by stakeholder group for understanding the work and value of TBAs and formal health care providers in the birth process
-
-*Figure 9.4 Example of subject chart headings @ritchie2002qualitative*
-
-*Figure 3: Developing the core concept, labelled uncertainty, and the final themes within the concept (ver en @smith2011qualitative)* Initial Themes \| Initial categories \| Refined Categories \| Final Themes \| Core Concept
-
-*Table 4 @goldsmith2021using* Mapping and Interpretation (Step 5) in the TBA Dataset: Example of data intensity mapping for a few key framework components and sub-components by stakeholder group for understanding the work and value of TBAs and formal health care providers in the birth process
