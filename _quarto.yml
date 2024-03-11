@@ -10,7 +10,7 @@ book:
     - intro_2.qmd
     - theory.qmd
     - methodology.qmd
-    - description.qmd
+    - results.qmd
     - discussion.qmd
     - conclusion.qmd
     - references.qmd
