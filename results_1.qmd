@@ -164,7 +164,7 @@ According to this framework of thought, only when alterations in the environment
 
 Environmental stressors cause the perfectly adapted organism to begin a process of degeneration and lose its original adaptability and perfection. This process that takes place over time gives rise to intermediate or transitional forms, which ultimately explain the diversity of life on earth.
 
-![Fig3. Buffon's evolution framework. Source: own elaboration](scheme-3.png) \### Spencer's framework Herbert Spencer's analytical framework establishes that new situations in the environment give rise to organisms having to learn how to cope with them. From this learning is derived the development of new instincts, which are more complex human faculties, which allow the organism to be more prepared to face the "survival of the fittest."
+![Fig3. Buffon\'s evolution framework. Source: own elaboration](scheme-3.png) \### Spencer's framework Herbert Spencer's analytical framework establishes that new situations in the environment give rise to organisms having to learn how to cope with them. From this learning is derived the development of new instincts, which are more complex human faculties, which allow the organism to be more prepared to face the "survival of the fittest."
 
 ## Origin
 
