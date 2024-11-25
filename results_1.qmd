@@ -2,7 +2,7 @@
 
 ## Bowler's seminal work
 
-Peter J. Bowler's seminal book, "Evolution: The History of an Idea" [-@bowler2003evolution] explores the historical evolution of evolutionary thought, offering a comprehensive foundation for understanding the development of economic systems. Bowler's interdisciplinary perspective highlights the dynamic nature of economic processes, portraying them as evolving systems that change over time. Through his analysis, Bowler provides valuable insights that can enhance research in evolutionary economics by illuminating the historical roots of evolutionary ideas and their relevance to economic analysis.
+Peter J. Bowler's seminal book, "Evolution: The History of an Idea" [-@bowler2003evolution] explores the historical evolution of evolutionary thought, offering a comprehensive foundation for understanding the development of economic systems. Bowler's interdisciplinary perspective highlights the dynamic nature of economic processes, portraying them as evolving systems that change over time. Through his analysis, Bowler provides valuable insights that can enhance research in evolutionary economics by illuminating the historical roots of evolutionary ideas and their relevance to economic analysis.[@teece1997dynamic]
 
 One key aspect of Bowler's work relevant to our research question is its examination of the interplay between cultural, scientific, and anthropological factors in shaping evolutionary theories. Bowler traces the evolution of evolutionary thought from its origins in ancient Greece to its modern understanding, highlighting how societal beliefs and values influenced the development of evolutionary concepts.
 

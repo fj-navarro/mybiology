@@ -1,32 +1,5 @@
 # Abstract {.unnumbered}
 
-This paper presents a data-driven, meta-framework to support evidence-based decisions for researchers and practitioners when designing, investigating and implementing social complex systems: the EVOLUTIOSoc framework.
+Evolutionary economics, especially in its endeavor to elucidate the behavior of firms, confronts notable integrative challenges that have constrained its ascension as a mainstream alternative within economics vis-à-vis classical paradigms. Central among these challenges are the dispersion, fragmentation, and reductionism inherent in the accumulation of knowledge. Nevertheless, the integration of evolutionary knowledge stands as a main driver for disciplinary advancement, offering a pathway to holistic comprehension, innovation stimulation, methodological enhancement, and improved applicability in policy and practice domains. In response to these impediments, a meta-framework for knowledge integration has been formulated. Rooted in foundational tenets derived from evolutionary biology, evolutionary economics, and firm-specific research, this integrated approach seeks to furnish deeper insights into the complex dynamics governing firms, while providing a more cohesive and structured comprehension of firm evolution by transcending disciplinary boundaries. The article concludes by outlining the implications of this meta-framework for scholarly inquiry and practical application, while identifying prospective avenues for future research.
 
-EVOLUTIOSoc was developed through a two-stage process.
-
-Stage one comprised the thematic grouping of topics based on a seminal evolution history work. Stage two involved testing the framework and fine-tuning it with selected works in evolution, both from the field of biology and the social sciences.
-
-*Stage one comprised a large-scale bibliometric review and thematic grouping of topics based on natural language processing of over 18,403 positive psychology studies. *
-
-*Stage two involved action-research with ten schools testing the practical validity of the wellbeing themes identified in stage one with educators.*
-
-The **result** of these two stages identified six overarching pathways to wellbeing that formed the SEARCH framework: 1) strengths, 2) emotional manage- ment, 3) attention and awareness, 4) relationships, 5) coping and 6) habits and goals.
-
-The **aim of this current review paper** was to examine the existing educational and psychology literature for evidence ofwhether each SEARCH pathway has been found to successfully foster student wellbeing. Seventy five peer-reviewed studies (total student N= 35,888) were reviewed from North America, Europe, the United Kingdom, Asia, Australia and New Zealand.
-
-**Results** demonstrate the value and applicability of the SEARCH framework. The comprehensive review conducted in this paper is then used to discuss current gaps in positive education research as well as present the utility of SEARCH as a framework to support positive education science and practice.
-
-*The review of views studies concludes that children's, young people's and parents’ views about what helps and hinders their walking and cycling involves the strong culture of car use, the fear and dislike of local environments, children as responsible transport users, and parental responsibility for their children. @brunton2006synthesis*
-
-*The CEN Workshop Agreement (CWA) first presents an in-depth analysis of the current state-of-the art of ICT Practitioner Skills/Competence frameworks in order to clarify the nature of the next steps towards a European ICT Skills Meta-Framework, and its relationship to the proposed European Qualifications Framework (EQF). Then, recommendations based on the results of the analysis are presented.@de2006european*
-
-*A comprehensive overview of ICT frameworks has been produced, and a structured inventory of five particularly significant ICT Practitioner Skills/Competence frameworks is presented, in terms of a number of key attributes. Three specific frameworks, representing the national approaches in three large Member States, are analysed in some detail, and certain findings are evident, based on their mutual similarities and differences. The overall structural paradigm and an example comparable profile for each are examined. @de2006european*
-
-*A structured review of four significant ICT Practitioner Frameworks (the three major national frameworks in the EU and one from North America) was carried out and is presented, and Level Descriptors for the specification of ICT Practitioner competence are developed from the generic EQF descriptors. In addition, based on the comparisons of existing frameworks, broad Guidance is provided for appropriate and effective use and further development of such frameworks. @de2006european*
-
-*An “Ideal Scenario” is presented, aiming to introduce the potential benefits of greater coherence at the European level, and options are shown for possible ways of moving towards that world. It is recognized that there is a need for stronger evidence of benefits in relation to the different uses of such frameworks, and a set of recommendations for progressing increased coherence are made, in relation to both ICT Practitioner competence Frameworks and ICT Qualifications of different types.@de2006european*
-
-*The in-depth analysis of a range of evidence leads to the following conclusions:*
-*- It is recommended to encourage and strengthen the process of convergence of ICT Practitioner skills/competence frameworks within the EU by means of a three step process:@de2006european*
-
-**Keywords:** Evolutionary analysis, meta-systhesis, framework, complex systems, social science
+**Keywords:** Evolutionary economics, Meta-framework, Firm behavior, Knowledge Integration.

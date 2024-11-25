@@ -2,16 +2,18 @@ project:
   type: book
 
 book:
-  title: "EVOLUTIOSoc: A Meta-Framework for Complex Social Systems"
+  title: "Towards an Integrative Meta-Framework for the Evolutionary Analysis of the Firm"
   author: "Francisco J Navarro-Meneses"
-  date: "22/02/2024"
+  date: "06/26/2024"
   chapters:
     - index.qmd
-    - intro_2.qmd
+    - 1_intro.qmd
+    - 2_challenges.qmd
+    - 3_meta-framework.qmd
+    - 4_methodology.qmd
+    - 5_results.qmd
+    - 6_discussion.qmd
     - theory.qmd
-    - methodology.qmd
-    - results.qmd
-    - discussion.qmd
     - conclusion.qmd
     - references.qmd
 
