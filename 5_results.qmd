@@ -4,9 +4,9 @@
 
 ## Research Questions and Objectives
 
-## Choosing a Knowledge Baseline
+## Selecting a Knowledge Baseline
 
-Unlike traditional meta-framework synthesis approaches, which typically require extensive literature reviews, consultations, and deep topic expertise to develop an a priori framework, our approach focused on selecting a seminal work from the existing literature that thoroughly addressed the key concepts and relationships defining evolution in the natural sciences. This reference work provided a foundational knowledge base for elucidating our a priori framework, simplifying the subsequent coding and synthesis process while eliminating the need for extensive preparatory efforts. 
+Unlike traditional meta-framework synthesis approaches, which typically require extensive literature reviews, consultations, and deep topic expertise to develop an a priori framework, our approach focused on selecting a seminal work from the existing literature that thoroughly addressed the key concepts and relationships defining evolution in the natural sciences. This reference work provided a foundational knowledge base for elucidating our a priori framework, simplifying the subsequent coding and synthesis process while eliminating the need for extensive preparatory efforts.
 
 The selected work was Peter J. Bowler's seminal book, "Evolution: The History of an Idea" [-@bowler2009evolution], which examines the historical trajectory of evolutionary thought and offers a comprehensive foundation for understanding the development of economic systems. Bowler's interdisciplinary perspective emphasizes the dynamic nature of economic processes as evolving systems shaped by continuous change. His analysis provides valuable insights for evolutionary economics by uncovering the historical origins of evolutionary ideas and their relevance to economic analysis.
 
@@ -22,13 +22,15 @@ In conclusion, Bowler's comprehensive treatise on evolution provides a robust fo
 
 The a priori framework is a preliminary conceptual structure developed before the main meta-synthesis process begins. It serves as a foundation for organizing, analyzing, and interpreting data in a systematic manner. The main components of the a priori meta-framework include:
 
-1.    **Themes**: Broad, overarching concepts and categories that capture key aspects of evolutionary natural processes. Each theme and categories encapsulate essential aspects of evolutionary theory, illuminating the intricate mechanisms governing evolution and evolutionary behavior. 
+1.  **Themes**: Broad, overarching concepts and categories that capture key aspects of evolutionary natural processes. Each theme and categories encapsulate essential aspects of evolutionary theory, illuminating the intricate mechanisms governing evolution and evolutionary behavior.
 
-2.    **Relationships**: Connections or interactions between the identified themes, illustrating how they influence or depend on each other.  
+2.  **Relationships**: Connections or interactions between the identified themes, illustrating how they influence or depend on each other.
 
-3.    **Guiding Structure**: A logical template or model that directs data mapping and coding during the synthesis process, ensuring coherence and alignment with the research objectives.  
+3.  **Guiding Structure**: A logical template or model that directs data mapping and coding during the synthesis process, ensuring coherence and alignment with the research objectives.
 
 By providing a structured starting point, the a priori framework serves as a template for coding data extracted during the literature review in the later stages of this research.
+
+**AQUI HAY QUE PONER UN RESUMEN DEL NUMERO DE THEMES Y RELACIONES POR CATEGORÍA**
 
 The resulting a priori meta-framework contains the following key themes and relationships (Fig. 1):
 
@@ -36,11 +38,11 @@ The resulting a priori meta-framework contains the following key themes and rela
 
 ### Unit of analysis
 
-In evolutionary studies, the unit of analysis represents the fundamental entity on which observations and analyses are centered. Historically, this focus has shifted over time. Initially, attention was directed toward the organism --defined in biology as an individual living entity, such as a plant, animal, or microorganism capable of independent existence and reproduction. Later, the emphasis shifted to populations and, following the modern synthesis, to genes. Identifying the primary unit of analysis within each system under investigation is a critical first step for evolutionary analysts and a foundational element of the analytical process.
+In evolutionary systems, the unit of analysis represents the fundamental entity on which observations and analyses are centered. Historically, the focus has shifted over time, beginning with the organism—defined in biology as an individual living entity, such as a plant, animal, or microorganism, capable of independent existence and reproduction. Later, attention moved to populations, and with the advent of the modern synthesis, to genes.
 
-**Despite the aforementioned shifts in the locus of analysis, the individual** organism remains a cornerstone in evolutionary studies, representing a single, discrete entity within a given population. However, distinguishing between the individual organism and the population as units of analysis is crucial for any evolutionary study. The individual organism represents a single instance of life, while the population comprises a group of organisms of the same species occupying a defined geographical area and sharing genetic similarities. The individual organism serves as the building block of the population, with its traits, behaviors, and adaptations contributing to the collective dynamics of the population. This fundamental differentiation between individual and population units of analysis can be illustrated in Darwin's theory, which encompasses both types of units. Natural selection operates at the level of the individual organism, influencing the frequencies of traits within a population over time.
+When identifying the unit of analysis in an evolutionary system, it is crucial to clearly differentiate between the organism and the population as the primary focus of study. The individual organism represents a single instance of life, while the population comprises a group of organisms of the same species occupying a defined geographical area and sharing genetic similarities. The individual organism serves as the building block of the population, with its traits, behaviors, and adaptations contributing to the collective dynamics of the population. Darwin's theory intertwines the roles of both organisms and populations: natural selection acts at the level of the individual organism while influencing the frequencies of traits within a population over time.
 
-The selection of a specific unit of analysis significantly influences the scope and focus of evolutionary approaches. Analyzing individual organisms allows researchers to examine specific traits, behaviors, and adaptations within a single entity, providing insights into microevolutionary processes such as natural selection and genetic drift. Conversely, studying populations enables researchers to investigate macroevolutionary patterns and trends, such as speciation and diversification, by considering the collective dynamics and genetic variability within and between populations. While the individual organism offers granularity in understanding the mechanisms of evolutionary change at a local level, the population provides a broader perspective on the dynamics of species evolution and adaptation over time. Both units of analysis are integral to comprehensively elucidating the complexities of evolution within natural systems. They highlight the interplay between individual-level characteristics and population-level dynamics in shaping the evolutionary trajectory of species.
+The choice of the unit of analysis profoundly shapes the scope and focus of evolutionary approaches. Focusing on individual organisms allows researchers to delve into specific traits, behaviors, and adaptations, shedding light on microevolutionary processes like natural selection and genetic drift. On the other hand, analyzing populations enables the exploration of macroevolutionary patterns and trends, such as speciation and diversification, by examining collective dynamics and genetic variability within and between populations. In other words, while the individual organism provides detailed insights into local mechanisms of evolutionary change, the population offers a broader understanding of species evolution and adaptation over time. Ultimately, both units of analysis are integral to comprehensively understanding the complexities of evolution within natural systems, as they underscore the interplay between individual-level characteristics and population-level dynamics in shaping the evolutionary trajectory of species.
 
 ### Origin
 
