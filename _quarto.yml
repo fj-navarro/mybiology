@@ -2,9 +2,9 @@ project:
   type: book
 
 book:
-  title: "Towards an Integrative Meta-Framework for the Evolutionary Analysis of the Firm"
+  title: "Towards an Integrative Meta-Framework of the Evolutionary Firm"
   author: "Francisco J Navarro-Meneses"
-  date: "11/28/2024"
+  date: "12/02/2024"
   chapters:
     - index.qmd
     - 1_intro.qmd
