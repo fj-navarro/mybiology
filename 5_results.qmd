@@ -4,7 +4,7 @@
 
 The familiarization phase served as a preparatory step in the meta-framework elucidation process, providing a broad understanding of the diverse contexts in which "evolution" has been applied to explore fundamental questions across multiple disciplines. The goal was to establish a robust intellectual foundation by examining how evolutionary concepts and processes are used to analyze, explain, and predict phenomena across a wide range of knowledge areas. This stage enabled the identification of key theoretical frameworks, influential authors, and emerging trends in evolutionary thought, providing essential insights that informed the selection of a knowledge baseline for subsequent research stages.
 
-Table 1 provides a summary of the various knowledge disciplines explored during the familiarization phase, detailing the number of works reviewed (594) and the range of years they cover.
+Table 2 provides a summary of the various knowledge disciplines explored during the familiarization phase, detailing the number of works reviewed (594) and the range of years they cover.
 
 | Discipline                                 | Number of works | Years     |
 |--------------------------------------------|-----------------|-----------|
@@ -25,7 +25,7 @@ Table 1 provides a summary of the various knowledge disciplines explored during 
 | Systems Biology                            | 36              | 1934-2022 |
 | Transdisciplinary thinking                 | 9               | 1972-2023 |
 
-: Table 1. Summary of literature screened during the familiarization phase. Source: own elaboration.
+: Table 2. Summary of literature screened during the familiarization phase. Source: own elaboration.
 
 The reviewed literature in the natural sciences encompassed various fields, including evolutionary biology, which examines the processes and mechanisms driving the diversity and complexity of life; darwinism, focusing on how species evolve over time due to environmental pressures and variation within populations; systems biology, which applies evolutionary concepts to analyze complex biological networks; genetics, focusing on heritable variation and mutation as drivers of change; and neuroscience, which examines how evolutionary mechanisms influence cognition and behavior.
 
@@ -51,24 +51,25 @@ The familiarization process not only provided a panoramic view of evolutionary i
 
 Building on the key themes identified during the familiarization stage, the following research questions and objectives were established to guide the construction of the meta-framework:
 
-1.    How can evolutionary principles provide a unifying framework to analyze and understand firms' adaptive dynamics and complexities across diverse environments?
+1.  How can evolutionary principles provide a unifying framework to analyze and understand firms' adaptive dynamics and complexities across diverse environments?
 
-2.    What are the core mechanisms driving firms' evolutionary trajectories, and how can these mechanisms inform strategies for uncertain business contexts?
+2.  What are the core mechanisms driving firms' evolutionary trajectories, and how can these mechanisms inform strategies for uncertain business contexts?
 
-3.    How can biological metaphors and evolutionary analogies help elucidate the co-evolutionary strategies and behaviors of firms within competitive markets?
+3.  How can biological metaphors and evolutionary analogies help elucidate the co-evolutionary strategies and behaviors of firms within competitive markets?
 
 The following objectives were outlined to address the research questions:
 
--   Analyze the potential of evolutionary principles as a universal framework for studying complexity and change within and across firms.  
+-   Analyze the potential of evolutionary principles as a universal framework for studying complexity and change within and across firms.
 
--   Investigate the interactions between firms and industries, identifying key patterns and co-evolutionary dynamics that shape behavioral and strategic outcomes.  
--   Explore the application of systems thinking and complexity theory to the study of evolutionary firms, emphasizing the emergence of adaptive strategies in different contexts.  
+-   Investigate the interactions between firms and industries, identifying key patterns and co-evolutionary dynamics that shape behavioral and strategic outcomes.\
 
--   Identify and synthesize the primary mechanisms of evolutionary change and assess their relevance to firm dynamics.  
+-   Explore the application of systems thinking and complexity theory to the study of evolutionary firms, emphasizing the emergence of adaptive strategies in different contexts.
 
--   Construct a comprehensive meta-framework integrating these insights to advance theoretical understanding and practical applications in the study of firms' evolutionary dynamics.  
+-   Identify and synthesize the primary mechanisms of evolutionary change and assess their relevance to firm dynamics.
 
-## Selecting a Knowledge Baseline
+-   Construct a comprehensive meta-framework integrating these insights to advance theoretical understanding and practical applications in the study of firms' evolutionary dynamics.
+
+## Knowledge Baseline
 
 Unlike traditional meta-framework synthesis approaches, which typically require extensive literature reviews, consultations, and deep topic expertise to develop an a priori framework, our approach focused on selecting a seminal work from the existing literature that thoroughly addressed the key concepts and relationships defining evolution in the natural sciences. This reference work provided a foundational knowledge base for elucidating our a priori framework, simplifying the subsequent coding and synthesis process while eliminating the need for extensive preparatory efforts.
 
@@ -76,29 +77,17 @@ The selected work was Peter J. Bowler's seminal book, "Evolution: The History of
 
 Bowler’s work is also relevant to our research for its exploration of the interplay between cultural, scientific, and anthropological factors in shaping evolutionary theories. In the book, the author traces the development of evolutionary thought from its origins in ancient Greece to its modern understanding, highlighting how societal beliefs and values influenced these concepts. His insights are particularly valuable for evolutionary economists, as it underscores the importance of understanding the cultural and ideological contexts in which economic systems emerge and evolve.
 
-The author delves into the diverse contributions of key figures to evolutionary thought, examining the ideas and theories of prominent thinkers and highlighting their impact on the evolution of the field. Understanding this intellectual lineage enriches our a priori meta-framework by offering valuable insights into the historical foundations of contemporary economic theories and methodologies. Bowler’s analysis further emphasizes the diversity of perspectives within evolutionary thought, providing a wide array of ideas to inform the analysis of evolutionary economic systems.
+The author delves into the diverse contributions of key figures to evolutionary thought, examining the ideas and theories of prominent thinkers and highlighting their impact on the evolution of the field. Understanding this intellectual lineage enriches our a priori framework by offering valuable insights into the historical foundations of contemporary economic theories and methodologies. Bowler’s analysis further emphasizes the diversity of perspectives within evolutionary thought, providing a wide array of ideas to inform the analysis of evolutionary economic systems.
 
-Ultimately, Bowler's book explores the controversies and debates surrounding the concept of evolution, highlighting the different interpretations and challenges to evolutionary theory throughout history. This aspect is particularly relevant for constructing our a priori meta-framework, as it emphasizes the complex and multifaceted nature of economic evolution. By examining historical debates over evolutionary theory, our a priori meta-framework gains a deeper appreciation for the contested nature of economic processes and the diverse array of factors that shape them. Bowler's nuanced analysis encourages critical engagement with evolutionary concepts and methodologies, fostering a more robust and interdisciplinary approach to studying economic systems.
+Ultimately, Bowler's book explores the controversies and debates surrounding the concept of evolution, highlighting the different interpretations and challenges to evolutionary theory throughout history. This aspect is particularly relevant for constructing our a priori framework, as it emphasizes the complex and multifaceted nature of economic evolution. By examining historical debates over evolutionary theory, our a priori framework gains a deeper appreciation for the contested nature of economic processes and the diverse array of factors that shape them. Bowler's nuanced analysis encourages critical engagement with evolutionary concepts and methodologies, fostering a more robust and interdisciplinary approach to studying economic systems.
 
-In conclusion, Bowler's comprehensive treatise on evolution provides a robust foundation for understanding key themes in evolution and aggregate dimensions, serving as the baseline for elucidating our a priori meta-framework.
+In summary, Bowler's comprehensive treatise on evolution provides a robust foundation for understanding key themes in evolution and aggregate dimensions, serving as the baseline for elucidating our a priori framework.
 
-## Elucidating the A Priori Meta-Framework
+## A Priori Framework
 
-The a priori framework is a preliminary conceptual structure developed before the main meta-synthesis process begins. It serves as a foundation for organizing, analyzing, and interpreting data in a systematic manner. The main components of the a priori meta-framework include:
+The resulting a priori framework contains the following key themes and relationships (Fig. 1):
 
-1.  **Themes**: Broad, overarching concepts and categories that capture key aspects of evolutionary natural processes. Each theme and categories encapsulate essential aspects of evolutionary theory, illuminating the intricate mechanisms governing evolution and evolutionary behavior.
-
-2.  **Relationships**: Connections or interactions between the identified themes, illustrating how they influence or depend on each other.
-
-3.  **Guiding Structure**: A logical template or model that directs data mapping and coding during the synthesis process, ensuring coherence and alignment with the research objectives.
-
-By providing a structured starting point, the a priori framework serves as a template for coding data extracted during the literature review in the later stages of this research.
-
-**AQUI HAY QUE PONER UN RESUMEN DEL NUMERO DE THEMES Y RELACIONES POR CATEGORÍA**
-
-The resulting a priori meta-framework contains the following key themes and relationships (Fig. 1):
-
-![Fig1. The a priori meta-framework. Source: own elaboration based on Bowler (2009)](img/fig1.png)
+![Fig2. The a priori framework. Source: own elaboration based on Bowler (2009)](img/fig2.png)
 
 ### Unit of analysis
 
@@ -186,6 +175,6 @@ Selection operates through multiple mechanisms, each influencing evolutionary tr
 
 Each type of selection represents a distinct pathway that drives population adaptation and evolution over time. Understanding these processes is therefore important for revealing how evolutionary change occurs and for explaining the development of biodiversity within natural systems.
 
-## Systematic Literature Reviews
+## Systematic Literature Review
 
 ## Final Meta-Framework

@@ -20,7 +20,26 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
@@ -170,9 +189,20 @@ ul.task-list li input[type="checkbox"] {
   <ul>
   <li><a href="#familiarization-with-literature" id="toc-familiarization-with-literature" class="nav-link active" data-scroll-target="#familiarization-with-literature"><span class="header-section-number">4.1</span> Familiarization with Literature</a></li>
   <li><a href="#research-questions-and-objectives" id="toc-research-questions-and-objectives" class="nav-link" data-scroll-target="#research-questions-and-objectives"><span class="header-section-number">4.2</span> Research Questions and Objectives</a></li>
-  <li><a href="#specification-of-an-a-priori-meta-framework" id="toc-specification-of-an-a-priori-meta-framework" class="nav-link" data-scroll-target="#specification-of-an-a-priori-meta-framework"><span class="header-section-number">4.3</span> Specification of An A Priori Meta-Framework</a></li>
-  <li><a href="#systematic-literature-reviews" id="toc-systematic-literature-reviews" class="nav-link" data-scroll-target="#systematic-literature-reviews"><span class="header-section-number">4.4</span> Systematic Literature Reviews</a></li>
-  <li><a href="#meta-framework-synthesisdata-extraction-and-thematic-analysis" id="toc-meta-framework-synthesisdata-extraction-and-thematic-analysis" class="nav-link" data-scroll-target="#meta-framework-synthesisdata-extraction-and-thematic-analysis"><span class="header-section-number">4.5</span> Meta-Framework Synthesis(Data Extraction and Thematic Analysis)</a></li>
+  <li><a href="#specifying-an-a-priori-framework" id="toc-specifying-an-a-priori-framework" class="nav-link" data-scroll-target="#specifying-an-a-priori-framework"><span class="header-section-number">4.3</span> Specifying an A Priori Framework</a>
+  <ul class="collapse">
+  <li><a href="#selection-of-a-seminal-work" id="toc-selection-of-a-seminal-work" class="nav-link" data-scroll-target="#selection-of-a-seminal-work"><span class="header-section-number">4.3.1</span> Selection of a Seminal Work</a></li>
+  <li><a href="#in-depth-review-and-thematic-categorization" id="toc-in-depth-review-and-thematic-categorization" class="nav-link" data-scroll-target="#in-depth-review-and-thematic-categorization"><span class="header-section-number">4.3.2</span> In-Depth Review and Thematic Categorization</a></li>
+  <li><a href="#refinement-of-the-a-priori-framework" id="toc-refinement-of-the-a-priori-framework" class="nav-link" data-scroll-target="#refinement-of-the-a-priori-framework"><span class="header-section-number">4.3.3</span> Refinement of the A Priori Framework</a></li>
+  </ul></li>
+  <li><a href="#systematic-literature-review" id="toc-systematic-literature-review" class="nav-link" data-scroll-target="#systematic-literature-review"><span class="header-section-number">4.4</span> Systematic Literature Review</a>
+  <ul class="collapse">
+  <li><a href="#inclusion-and-exclusion-criteria" id="toc-inclusion-and-exclusion-criteria" class="nav-link" data-scroll-target="#inclusion-and-exclusion-criteria"><span class="header-section-number">4.4.1</span> Inclusion and exclusion criteria</a></li>
+  <li><a href="#sources-and-search-strategy" id="toc-sources-and-search-strategy" class="nav-link" data-scroll-target="#sources-and-search-strategy"><span class="header-section-number">4.4.2</span> Sources and search strategy</a></li>
+  <li><a href="#selection-of-studies" id="toc-selection-of-studies" class="nav-link" data-scroll-target="#selection-of-studies"><span class="header-section-number">4.4.3</span> Selection of studies</a></li>
+  <li><a href="#quality-assessment-and-data-extraction" id="toc-quality-assessment-and-data-extraction" class="nav-link" data-scroll-target="#quality-assessment-and-data-extraction"><span class="header-section-number">4.4.4</span> Quality assessment and Data extraction</a></li>
+  </ul></li>
+  <li><a href="#data-extraction-and-thematic-synthesis" id="toc-data-extraction-and-thematic-synthesis" class="nav-link" data-scroll-target="#data-extraction-and-thematic-synthesis"><span class="header-section-number">4.5</span> Data Extraction and Thematic Synthesis</a></li>
   <li><a href="#final-meta-framework-specification" id="toc-final-meta-framework-specification" class="nav-link" data-scroll-target="#final-meta-framework-specification"><span class="header-section-number">4.6</span> Final Meta-Framework Specification</a></li>
   </ul>
 </nav>
@@ -200,28 +230,113 @@ ul.task-list li input[type="checkbox"] {
 <p>The construction of a robust meta-framework requires a systematic, step-by-step approach for synthesizing diverse data and existing frameworks into a cohesive and comprehensive higher-order framework. Each methodological step is designed to ensure organized, rigorous analysis and thorough synthesis of qualitative data. This approach ensures that the resulting meta-framework possesses both theoretical robustness and empirical grounding, ultimately enhancing its practical relevance and applicability. This section describes the specific steps that have been used in the construction of the meta-framework.</p>
 <section id="familiarization-with-literature" class="level2" data-number="4.1">
 <h2 data-number="4.1" class="anchored" data-anchor-id="familiarization-with-literature"><span class="header-section-number">4.1</span> Familiarization with Literature</h2>
-<p>Before delving into the detailed construction of the meta-framework, an exploratory review of the extant literature was conducted covering the fields of evolution in the natural sciences, evolutionary economics and the theory of the firm, and other related areas within the social sciences, including sociology, anthropology, psychology, and political science. The primary objective was to gather as many different and interdisciplinary perspectives as possible, identify knowledge gaps, grasp the current state of knowledge, and pinpoint the most pertinent theories, models, and existing related frameworks. By completing the familiarization step first, the meta-framework was built on a solid foundation of prior research, ensuring its alignment with established knowledge.</p>
-<p>During the familiarization phase, the focus was on developing a broad understanding of key evolutionary concepts and their applications, as well as identifying interdisciplinary connections and the complexity of the field, rather than conducting a comprehensive review of all available studies. To achieve this, the process involved a targeted search for high-quality articles from major peer-reviewed databases (WOS and Scopus), as well as books and conference proceedings, all in English and without time restrictions. The search used various combinations of the term “evolution” along with related keywords such as “social,” “economics,” “firm,” “thinking,” and “history.”</p>
-<p>While not exhaustive, this approach effectively identified key themes, recurring patterns, and emerging debates within the field of evolutionary studies. It enabled the mapping of the intellectual landscape and informed the development of the research questions and objectives. Additionally, it provided valuable insights into the diverse perspectives and frameworks that have shaped evolutionary thought over the past two centuries.</p>
+<p>Before beginning the detailed construction of the meta-framework, an exploratory review of existing literature was undertaken. This review encompassed the fields of evolutionary natural sciences, economics, firm dynamics, and various disciplines within the social sciences, including sociology, anthropology, psychology, and political science. The primary goal was to gather diverse interdisciplinary perspectives, identify knowledge gaps, understand the current state of research, and highlight the most relevant theories, models, and frameworks in evolutionary studies. Conducting this familiarization step first ensured that the subsequent meta-framework would be grounded in established knowledge, providing a solid and reliable foundation.</p>
+<p>The goal during this phase was to develop a broad understanding of key evolutionary concepts, their applications, and interdisciplinary connections, while appreciating the complexity of the field. Rather than conducting an exhaustive review of all available studies, the focus was on foundational and widely referenced works. These included Charles Darwin’s seminal text “On the Origin of Species” <span class="citation" data-cites="darwin1964origin">(<a href="references.html#ref-darwin1964origin" role="doc-biblioref">1964</a>)</span>, Richard Dawkins’ “The Selfish Gene” <span class="citation" data-cites="dawkins2016selfish">(<a href="references.html#ref-dawkins2016selfish" role="doc-biblioref">2016</a>)</span> , Jerry Coyne’s “Why Evolution Is True” <span class="citation" data-cites="coyne2010evolution">(<a href="references.html#ref-coyne2010evolution" role="doc-biblioref">2010</a>)</span>, Stephen Jay Gould’s “The Structure of Evolutionary Theory” <span class="citation" data-cites="gould2002structure">(<a href="references.html#ref-gould2002structure" role="doc-biblioref">2002</a>)</span> , Sean B. Carroll’s “The Making of the Fittest” <span class="citation" data-cites="carroll2007making">(<a href="references.html#ref-carroll2007making" role="doc-biblioref">2007</a>)</span>, and Jared Diamond’s “The Third Chimpanzee: The Evolution and Future of the Human Animal” <span class="citation" data-cites="diamond2014third">(<a href="references.html#ref-diamond2014third" role="doc-biblioref">2014</a>)</span>, to name a few.</p>
+<p>This foundation was supplemented with a broad search for related terms in Google Scholar and Google Books, using keywords like “evolution”, “evolutionary”, “thinking”, “thought”, “natural”, “biology”, “science”, “social”, “history”, “economics”, “firm” and “business”. Insights from these initial findings informed the application of a qualitative research method known as “pearl-growing”. This iterative technique expands the search by examining references, citations, and recommendations from the initial sources. In this context, the “pearls” referred to valuable works identified through these referenced materials, enriching the preliminary review.</p>
+<p>While not exhaustive, this approach effectively identified preliminary key themes, recurring patterns, and emerging debates within the field of evolutionary studies. It enabled the mapping of the intellectual landscape and was useful to inform the development of the research questions and objectives. Additionally, it provided valuable insights into the diverse perspectives and frameworks that have shaped evolutionary thought over the past two centuries.</p>
 </section>
 <section id="research-questions-and-objectives" class="level2" data-number="4.2">
 <h2 data-number="4.2" class="anchored" data-anchor-id="research-questions-and-objectives"><span class="header-section-number">4.2</span> Research Questions and Objectives</h2>
 <p>The formulation of research questions and objectives builds on the insights gained during the initial familiarization with the literature. This phase is crucial for steering the synthesis process and ensuring the meta-framework’s relevance. By identifying key themes and gaps within the reviewed literature, the familiarization stage provided a solid foundation for developing clear, focused research questions and objectives that address the specific issues highlighted in the review.</p>
 <p>The SMART criteria (Specific, Measurable, Achievable, Relevant, and Time-bound) were applied to formulate clear and focused research questions and objectives, ensuring a structured and well-defined roadmap for the meta-framework development process. Additionally, the iterative nature of this process enabled the refinement of research questions and objectives as new insights emerged during the synthesis. This adaptability proved essential, as the discovery of new themes during the meta-framework synthesis often reshaped the initial research focus, ensuring alignment with the evolving understanding of the subject.</p>
 </section>
-<section id="specification-of-an-a-priori-meta-framework" class="level2" data-number="4.3">
-<h2 data-number="4.3" class="anchored" data-anchor-id="specification-of-an-a-priori-meta-framework"><span class="header-section-number">4.3</span> Specification of An A Priori Meta-Framework</h2>
-<p>The next step involved elucidating an a priori meta-framework that could serve as a baseline for the subsequent meta-framework synthesis. The process included the selection of a foundational or seminal work that comprehensively addressed the central ideas relevant to our research question. The selected work had to provide a robust theoretical and empirical basis for constructing a baseline meta-framework and serve as a reliable source for identifying the essential dimensions of evolution as a process. The seminal work chosen was from the field of evolutionary natural sciences, and the reasons were twofold. First, the work had a widespread recognition within the scientific community for its contributions to the understanding of natural evolution. Second, the work offered a valuable historical perspective on the trajectory of evolutionary thought, encompassing both mainstream and divergent ideas.</p>
-<p>After choosing the seminal work, a thorough review was conducted to gain an in-depth understanding of its core arguments, methodologies, and conclusions. During this stage, the recurring themes, significant dimensions, and the relationships between the core themes were identified. This step was critical for capturing the structure of the ideas and their interconnectedness, forming the foundation of the a priori framework. The extracted information was then organized into thematic categories. These categories were carefully aligned with the research objectives and encompassed core themes that were directly relevant to the focus of the study, as well as peripheral themes that provided valuable context or supporting insights.</p>
-<p>After completing the categorization process, the a priori meta-framework was refined to better align its themes and relationships with the specific goals of the research. This approach ensured that the resulting a priori meta-framework was grounded in established knowledge and tailored to serve as a structured template for mapping and coding new data in subsequent stages of the meta-synthesis, thereby enhacing coherence and completeness throughout the process.</p>
+<section id="specifying-an-a-priori-framework" class="level2" data-number="4.3">
+<h2 data-number="4.3" class="anchored" data-anchor-id="specifying-an-a-priori-framework"><span class="header-section-number">4.3</span> Specifying an A Priori Framework</h2>
+<p>The next step involved developing an a priori framework to serve as a foundation for the subsequent meta-framework synthesis. This process unfolded in three main stages:</p>
+<section id="selection-of-a-seminal-work" class="level3" data-number="4.3.1">
+<h3 data-number="4.3.1" class="anchored" data-anchor-id="selection-of-a-seminal-work"><span class="header-section-number">4.3.1</span> Selection of a Seminal Work</h3>
+<p>The first stage focused on identifying a seminal work that comprehensively addressed core ideas relevant to evolutionary thinking and aligned with the study’s research questions and objectives. This seminal work was intended to provide a robust theoretical and empirical basis for constructing the a priori framework. The selection criteria included:</p>
+<ul>
+<li><p>Scientific Recognition: The work must be widely acknowledged within the scientific community for its significant contributions to understanding evolutionary thought.</p></li>
+<li><p>Historical Perspective: The work should offer valuable insights into the historical trajectory of evolutionary thinking, encompassing both mainstream and divergent perspectives.</p></li>
+</ul>
 </section>
-<section id="systematic-literature-reviews" class="level2" data-number="4.4">
-<h2 data-number="4.4" class="anchored" data-anchor-id="systematic-literature-reviews"><span class="header-section-number">4.4</span> Systematic Literature Reviews</h2>
-<p>Drawing from the literature familiarization, established research questions and objectives, and the a priori meta-framework from previous stages, a comprehensive two-pronged systematic literature review was conducted to identify new data and frameworks that either supported or expanded the a priori meta-framework. The first strand delved into the domain of evolutionary economics, with a particular focus on the analysis of firm behavior through an evolutionary lens. The second strand explored case studies that utilized evolutionary concepts and/or frameworks to investigate the dynamics of the firm. Each review employed a distinct search strategy to ensure methodological rigor and the identification of high-quality research. Both WOS and SCOPUS databases were targeted to maximize the rigor and quality of the search.</p>
-<p>The first thematic review adopted a structured approach to identifying, evaluating, and synthesizing relevant scholarship pertaining to the fundamental tenets and interconnected concepts that characterize the evolutionary view of the firm. To capture the broadest possible range of ideas and perspectives, the review employed broad search terms and an extensive time-frame. The second review focused on case studies that analyzed firm behavior through an evolutionary lens. This review encompassed articles that explicitly contained the term “evolution” and/or “evolutionary” in their titles and those that analyzed the behavior of the firm in an evolutionary way although they did not explicitly contained the term “evolution” or “evolutionary” in the title. To identify the latter, a qualitative research technique known as “pearl-growing” was employed. This technique metaphorically refers to the process of iteratively accumulating valuable “pearls” of information by expanding the search based on references, citations, or recommendations found in an initial set of identified sources. In our context, the “pearls” were found after the valuable insights gained from the references and citations included in the first systematic literature review.</p>
+<section id="in-depth-review-and-thematic-categorization" class="level3" data-number="4.3.2">
+<h3 data-number="4.3.2" class="anchored" data-anchor-id="in-depth-review-and-thematic-categorization"><span class="header-section-number">4.3.2</span> In-Depth Review and Thematic Categorization</h3>
+<p>After selecting the seminal work, a detailed review was conducted to extract its core arguments, methodologies, and conclusions. Key dimensions and recurring themes were identified, along with the relationships between these themes. This analysis provided the structural foundation of the a priori framework.</p>
+<p>The extracted information was organized into thematic categories, which included:</p>
+<ul>
+<li><p>Core Themes: Central to the study’s focus and directly relevant to the research objectives.</p></li>
+<li><p>Peripheral Themes: Contextual or supporting insights that added depth to the analysis.</p></li>
+</ul>
+<p>The categorization process ensured alignment with the research objectives while maintaining flexibility to adapt during later stages of synthesis.</p>
 </section>
-<section id="meta-framework-synthesisdata-extraction-and-thematic-analysis" class="level2" data-number="4.5">
-<h2 data-number="4.5" class="anchored" data-anchor-id="meta-framework-synthesisdata-extraction-and-thematic-analysis"><span class="header-section-number">4.5</span> Meta-Framework Synthesis(Data Extraction and Thematic Analysis)</h2>
+<section id="refinement-of-the-a-priori-framework" class="level3" data-number="4.3.3">
+<h3 data-number="4.3.3" class="anchored" data-anchor-id="refinement-of-the-a-priori-framework"><span class="header-section-number">4.3.3</span> Refinement of the A Priori Framework</h3>
+<p>Once the themes and relationships were categorized, the a priori framework was refined to better align with the specific goals of the research. The resulting framework consisted of:</p>
+<ol type="1">
+<li><p>Themes: Broad, overarching concepts capturing key aspects of evolutionary processes. Each theme encapsulated essential elements of evolutionary theory, highlighting mechanisms governing evolution and adaptive behavior.</p></li>
+<li><p>Relationships: Connections between themes, illustrating their interdependencies and influences.</p></li>
+<li><p>Guiding Structure: A logical template to guide data mapping and coding during the meta-synthesis, ensuring consistency with the research objectives.</p></li>
+</ol>
+<p>This preliminary thematic structure served as a foundational guide for organizing, analyzing, and interpreting data from the selected knowledge baseline. It also provided a structured template for mapping and coding new data in subsequent stages of the meta-synthesis. By grounding the a priori framework in well-established knowledge, this approach ensured coherence throughout the research process, ensuring a rigorous yet flexible foundation to accommodate emerging insights.</p>
+</section>
+</section>
+<section id="systematic-literature-review" class="level2" data-number="4.4">
+<h2 data-number="4.4" class="anchored" data-anchor-id="systematic-literature-review"><span class="header-section-number">4.4</span> Systematic Literature Review</h2>
+<p>Building on the insights from the literature familiarization phase, the established research questions and objectives, and the a priori framework, a systematic literature review was conducted to uncover new data and frameworks in the field of the evolutionary firm. The goal was to either reinforce or extend the initial a priori framework. The review followed a structured protocol <span class="citation" data-cites="petticrew2008systematic">(<a href="references.html#ref-petticrew2008systematic" role="doc-biblioref">Petticrew and Roberts 2008</a>)</span>, which outlined the methods for locating, managing, assessing, and synthesizing various types of evidence. Serving as a roadmap, the protocol ensured transparency, consistency, and reproducibility, while keeping the review aligned with the research objectives.</p>
+<section id="inclusion-and-exclusion-criteria" class="level3" data-number="4.4.1">
+<h3 data-number="4.4.1" class="anchored" data-anchor-id="inclusion-and-exclusion-criteria"><span class="header-section-number">4.4.1</span> Inclusion and exclusion criteria</h3>
+<p>Clear inclusion and exclusion criteria were established to determine which studies from the literature search were eligible for in-depth review. Studies were considered eligible if they analyzed economic and/or firm behavior through an evolutionary lens. This included both conceptual studies and case studies that applied evolutionary concepts and frameworks to examine firm dynamics. Additionally, studies had to meet a minimum quality threshold to be included.</p>
+<p>The review encompassed various types of publications, including journals, conference proceedings, and books from diverse publishers. Both qualitative and quantitative studies were included, provided they were written in English and had no specific date restrictions. This approach ensured a comprehensive examination of relevant literature while maintaining the rigor of the review process.</p>
+</section>
+<section id="sources-and-search-strategy" class="level3" data-number="4.4.2">
+<h3 data-number="4.4.2" class="anchored" data-anchor-id="sources-and-search-strategy"><span class="header-section-number">4.4.2</span> Sources and search strategy</h3>
+<p>The search strategy encompassed a broad range of academic sources from reputable data bases, sources, and publishers. To ensure a comprehensive and high-quality review, Web of Science and Scopus were used as the primary electronic reference databases. These searches were further supplemented with Google Scholar to identify additional rigorous and reliable sources. This approach provided access to high-quality, diverse, and relevant literature across various disciplines.</p>
+</section>
+<section id="selection-of-studies" class="level3" data-number="4.4.3">
+<h3 data-number="4.4.3" class="anchored" data-anchor-id="selection-of-studies"><span class="header-section-number">4.4.3</span> Selection of studies</h3>
+<p>The selection of studies was carried out in four consecutive stages (see Figure 1). In Stage 1, candidate studies were identified by searching electronic databases using the following search keywords:</p>
+<p><strong>“EVOLUTIONARY” AND (“FIRM” OR “ENTERPRISE” OR “BUSINESS” OR “ECONOMICS”)</strong></p>
+<p>The search strategy initially yielded 775 results. These were filtered to remove duplicates, errors, and articles with titles or abstracts unrelated to the evolutionary perspective on economics or firms, resulting in 75 unique citations. Additionally, studies such as reviews, news articles, workshops, panels, and editorials were excluded from consideration.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="img/fig1.png" class="quarto-discovered-preview-image img-fluid figure-img"></p>
+<p></p><figcaption class="figure-caption">Figure 1. Studies selection process</figcaption><p></p>
+</figure>
+</div>
+</section>
+<section id="quality-assessment-and-data-extraction" class="level3" data-number="4.4.4">
+<h3 data-number="4.4.4" class="anchored" data-anchor-id="quality-assessment-and-data-extraction"><span class="header-section-number">4.4.4</span> Quality assessment and Data extraction</h3>
+<p>By the end of Stage 4 in the search process, 33 studies remained, all providing evidence of an evolutionary approach to analyzing the economy or the firm. These studies proceeded to the next stage: a quality assessment aimed at identifying any biases significant enough to render a study unable to meaningfully contribute to the research questions or the overall review. Each study was assessed using seven quality criteria (Table 1), drawn from the framework for evaluating qualitative research developed by the UK’s Government Chief Social Researcher’s Office <span class="citation" data-cites="spencer2004quality">(<a href="references.html#ref-spencer2004quality" role="doc-biblioref">Spencer et al. 2004</a>)</span>. After this evaluation, all 33 studies met the quality inclusion and quality criteria, allowing data extraction and synthesis to begin.</p>
+<table class="table">
+<caption>Table 1. Quality assessment criteria</caption>
+<colgroup>
+<col style="width: 100%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Quality Criteria</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>C1. How reliable and credible are the findings?</td>
+</tr>
+<tr class="even">
+<td>C2. How robust and defensible is the research design?</td>
+</tr>
+<tr class="odd">
+<td>C3. How well justified is the sample design or selection of cases/documents?</td>
+</tr>
+<tr class="even">
+<td>C4. How effectively was the data collection process conducted?</td>
+</tr>
+<tr class="odd">
+<td>C5. How clearly is the approach to and formulation of the analysis presented?</td>
+</tr>
+<tr class="even">
+<td>C6. How well does the study convey the detail, depth, and complexity (i.e., richness) of the data?</td>
+</tr>
+<tr class="odd">
+<td>C7. How clearly are the links between data, interpretation, and conclusions explained?</td>
+</tr>
+</tbody>
+</table>
+</section>
+</section>
+<section id="data-extraction-and-thematic-synthesis" class="level2" data-number="4.5">
+<h2 data-number="4.5" class="anchored" data-anchor-id="data-extraction-and-thematic-synthesis"><span class="header-section-number">4.5</span> Data Extraction and Thematic Synthesis</h2>
 <p>The next stage involved a two-step process of data extraction and analysis from selected studies. First, a systematic data extraction process was undertaken that collected relevant information from the selected studies, including verbatim quotes and key findings supported by the study data. This allowed the capture of all information necessary to address the research questions, ultimately forming a robust empirical foundation for the construction of the meta-framework.</p>
 <p>After data extraction, all data were mapped and coded againts the a priori meta-framework established earlier. The process involved organizing the data in a meaningful manner to facilitate the identification of emerging patterns and relationships. Data coding was conducted thematically, adhering to the predefined themes identified within the a priori meta-framework, although the coding approach remained adaptable. Any relevant data that did not fit the themes of the a priori meta-framework were incorporated through an inductive approach. This allowed new themes and relationships to emerge from the data itself, ensuring the meta-analysis captured the full range of relevant information, even if it fell outside the a priori framework.</p>
 <p>To enhance the rigor and efficiency of this process, qualitative data analysis software Atlas.ti was employed. While Atlas.ti does not supplant the researcher’s critical role in data analysis and interpretation, it significantly bolsters the methodological rigor, efficiency, and overall quality of the research endeavor. Atlas.ti played a key role in streamlining data management and coding tasks while also facilitating visual analysis to identify patterns, themes, and relationships that might be less apparent through strictly textual methods.</p>
@@ -233,6 +348,32 @@ ul.task-list li input[type="checkbox"] {
 <p>By adhering to these systematic steps, a final meta-framework was formulated, characterized by both rigor and adaptability. The meta-framework offers valuable insights that contribute to our understanding of evolutionary firm behavior. The transparent, comprehensive, and empirically grounded approach employed in its development ensures the meta-framework’s robustness as a tool for advancing both theoretical and practical knowledge in the field of evolutionary firm analysis. Notably, the final meta-framework integrates the a priori themes with those newly identified during the systematic literature reviews. This comprehensive model captures the full spectrum of relevant themes and their interrelationships, providing a nuanced and detailed understanding of the studied concepts, relations, and data.</p>
 
 
+<div id="refs" class="references csl-bib-body hanging-indent" role="list" style="display: none">
+<div id="ref-carroll2007making" class="csl-entry" role="listitem">
+Carroll, S. B. 2007. <em>The Making of the Fittest: DNA and the Ultimate Forensic Record of Evolution</em>. W. W. Norton. <a href="https://books.google.es/books?id=-SI5RJuM9n8C">https://books.google.es/books?id=-SI5RJuM9n8C</a>.
+</div>
+<div id="ref-coyne2010evolution" class="csl-entry" role="listitem">
+Coyne, J. A. 2010. <em>Why Evolution Is True</em>. Oxford Landmark Science Series. Oxford University Press. <a href="https://books.google.es/books?id=dPh0DgAAQBAJ">https://books.google.es/books?id=dPh0DgAAQBAJ</a>.
+</div>
+<div id="ref-darwin1964origin" class="csl-entry" role="listitem">
+Darwin, Charles. 1964. <em>On the Origin of Species: A Facsimile of the First Edition</em>. Harvard University Press.
+</div>
+<div id="ref-dawkins2016selfish" class="csl-entry" role="listitem">
+Dawkins, R. 2016. <em>The Selfish Gene: 40th Anniversary Edition</em>. Oxford Landmark Science. OUP Oxford. <a href="https://books.google.es/books?id=WZ9HDAAAQBAJ">https://books.google.es/books?id=WZ9HDAAAQBAJ</a>.
+</div>
+<div id="ref-diamond2014third" class="csl-entry" role="listitem">
+Diamond, J., and R. Stefoff. 2014. <em>The Third Chimpanzee for Young People: On the Evolution and Future of the Human Animal</em>. For Young People Series. Seven Stories Press. <a href="https://books.google.es/books?id=DS49AQAAQBAJ">https://books.google.es/books?id=DS49AQAAQBAJ</a>.
+</div>
+<div id="ref-gould2002structure" class="csl-entry" role="listitem">
+Gould, Stephen Jay. 2002. <em>The Structure of Evolutionary Theory</em>. Harvard university press.
+</div>
+<div id="ref-petticrew2008systematic" class="csl-entry" role="listitem">
+Petticrew, Mark, and Helen Roberts. 2008. <em>Systematic Reviews in the Social Sciences: A Practical Guide</em>. John Wiley &amp; Sons.
+</div>
+<div id="ref-spencer2004quality" class="csl-entry" role="listitem">
+Spencer, Liz, Jane Ritchie, Jane Lewis, Lucy Dillon, et al. 2004. <em>Quality in Qualitative Evaluation: A Framework for Assessing Research Evidence</em>. Government Chief Social Researcher’s Office.
+</div>
+</div>
 </section>
 
 </main> <!-- /main -->
