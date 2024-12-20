@@ -25,17 +25,17 @@ Table 2 provides a summary of the various knowledge disciplines explored during 
 | Systems Biology                            | 36              | 1934-2022 |
 | Transdisciplinary thinking                 | 9               | 1972-2023 |
 
-: Table 2. Summary of literature screened during the familiarization phase. Source: own elaboration.
+: Table 2. Summary of literature examined during the familiarization phase. Source: own elaboration.
 
-The reviewed literature in the natural sciences encompassed various fields, including evolutionary biology, which examines the processes and mechanisms driving the diversity and complexity of life; darwinism, focusing on how species evolve over time due to environmental pressures and variation within populations; systems biology, which applies evolutionary concepts to analyze complex biological networks; genetics, focusing on heritable variation and mutation as drivers of change; and neuroscience, which examines how evolutionary mechanisms influence cognition and behavior.
+The literature reviewed in natural sciences covered various fields, including evolutionary biology, which examines the processes and mechanisms driving the diversity and complexity of life; darwinism, focusing on how species evolve over time due to environmental pressures and variation within populations; systems biology, which applies evolutionary concepts to analyze complex biological networks; genetics, focusing on heritable variation and mutation as drivers of change; and neuroscience, which examines how evolutionary mechanisms influence cognition and behavior.
 
 In the social sciences, evolutionary approaches were found in disciplines such as economics, with its focus on dynamic processes of change, the role of innovation and technological development, path dependence, bounded rationality in decision-making, firm and industry heterogeneity, and the influence of institutional and cultural evolution on economic systems; psychology, exploring the evolutionary origins of behavior and cognition; anthropology and sociology, which examine the evolution of cultures and societies; and political science, which integrates evolutionary perspectives to understand the emergence of cooperation and conflict.
 
-Furthermore, the review also included advancements in computational modeling and simulation of evolutionary systems using IT-based tools, offering robust frameworks for analyzing adaptation, selection, and emergent behaviors across natural, social, and artificial systems.
+Furthermore, the review also included advancements in computational modeling and simulation of evolutionary systems using IT-based tools. This provided valuable insights into robust frameworks for analyzing adaptation, selection, and emergent behaviors within natural, social, and artificial systems.
 
-A key outcome of the familiarization phase was recognizing the inherently transdisciplinary nature of evolutionary studies. Evolution serves as a foundational explanatory paradigm not only within the natural sciences but also in social-related disciplines. By examining these diverse fields, the familiarization process sought to uncover common principles, distinctive disciplinary perspectives, and opportunities for integrating evolutionary theories across various domains.
+A key outcome of the familiarization phase was the recognition of the inherently transdisciplinary nature of evolutionary studies. Evolution serves as a foundational explanatory paradigm not only within the natural sciences but also across social science disciplines. By examining these diverse fields, the familiarization process aimed to identify common principles, understand unique disciplinary perspectives, and explore opportunities for integrating evolutionary theories across various domains.
 
-Several key transdisciplinary trends emerged, including:
+Several key transdisciplinary trends were identified, including:
 
 1.  **Evolution as a Universal Framework**: The application of evolutionary principles beyond biology, in fields like systems science and social evolution, suggests a growing recognition of evolution as a unifying framework for understanding change and complexity.
 
@@ -45,7 +45,7 @@ Several key transdisciplinary trends emerged, including:
 
 4.  **Focus on Mechanisms of Change**: Across disciplines, there is a shift towards understanding the mechanisms that drive evolutionary change, including innovation, cooperation, and adaptation in dynamic environments.
 
-The familiarization process not only provided a panoramic view of evolutionary ideas but also laid the groundwork for selecting a knowledge baseline in the subsequent steps. The insights gained during this phase ensured that the chosen baseline would reflect the complexity, breadth, and depth of evolutionary frameworks across natural and social sciences, fostering a comprehensive and integrative analysis.
+The familiarization process not only provided a panoramic view of evolutionary ideas but also laid the groundwork for selecting a knowledge baseline in the subsequent steps. The insights gained during this phase ensured that the chosen baseline would reflect the complexity, breadth, and depth of evolutionary frameworks across natural and social sciences, fostering a comprehensive and integrative meta-analysis.
 
 ## Research Questions and Objectives
 
@@ -57,7 +57,7 @@ Building on the key themes identified during the familiarization stage, the foll
 
 3.  How can biological metaphors and evolutionary analogies help elucidate the co-evolutionary strategies and behaviors of firms within competitive markets?
 
-The following objectives were outlined to address the research questions:
+These were the objectives outlined to address the research questions:
 
 -   Analyze the potential of evolutionary principles as a universal framework for studying complexity and change within and across firms.
 
@@ -85,9 +85,9 @@ In summary, Bowler's comprehensive treatise on evolution provides a robust found
 
 ## A Priori Framework
 
-The resulting a priori framework contains the following key themes and relationships (Fig. 1):
+The resulting a priori framework contains the following key themes and relationships (Fig.2):
 
-![Fig2. The a priori framework. Source: own elaboration based on Bowler (2009)](img/fig2.png)
+![Figure 2. The a priori framework. Source: own elaboration based on Bowler (2009)](img/fig2.png)
 
 ### Unit of analysis
 
@@ -175,8 +175,49 @@ Selection operates through multiple mechanisms, each influencing evolutionary tr
 
 Each type of selection represents a distinct pathway that drives population adaptation and evolution over time. Understanding these processes is therefore important for revealing how evolutionary change occurs and for explaining the development of biodiversity within natural systems.
 
-## Systematic Literature Review/ Thematic Synthesis (ver doc "best-fit")
+## Thematic Synthesis (ver doc "best-fit")
 
+### Key Terms
+
+The review of the literature resulted in the extraction of 1,012 quotations, identified by carefully highlighting relevant text segments. This thorough analysis, grounded in a deep engagement with the meaning and context of the text, laid the foundation for generating a word cloud and word list. These tools facilitated the initial identification of dominant terms and areas of focus, providing valuable direction for subsequent in-depth analysis.
+
+Figure 3 presents the word cloud generated by Atlas.ti, providing a visual summary of term frequencies across the reviewed literature. To enhance clarity, only terms cited 80 times or more are included in this representation. The size of each word in the cloud reflects its frequency within the dataset: larger words indicate higher frequency, while smaller words represent less commonly occurring terms.
+
+![Figure 3. Word Cloud. Source: Own elaboration](img/fig3.png)
+
+A word list complements the word cloud by providing a numerical breakdown of term frequencies, offering a more precise quantification of trends within the literature (Fig. 4). This analysis serves as a valuable quality control measure, helping to identify potential issues such as an over-reliance on certain terms or revealing unexpected patterns in the language employed by the authors.
+
+![Figure 4. Frequency of the 25 Most Frequent Terms in the Reviewed Literature. Source: Own elaboration](img/fig4.png)
+
+Analysis of the word cloud and word list reveals several key insights. Firstly, the prominence of terms like "firm," "evolutionary," "economic," and "theory" validates the relevance of the reviewed literature, aligning closely with the study's research questions and objectives. Secondly, the frequent appearance of terms related to core evolutionary change processes – such as "routines," "knowledge," "selection," "resources," "market," and "innovation" – underscores the literature's focus on concepts central to understanding evolutionary dynamics. Finally, the presence of terms like "firm" and "business" alongside "industry" highlights the dual-level dynamics inherent in the analysis of the evolutionary firm. This emphasizes the interplay between organizational-level factors and broader industrial perspectives
+
+### Codes and Themes
+
+The iterative coding process involved systematically labeling and categorizing relevant text segments across 1,012 quotations. This approach aimed to identify patterns, themes, and relationships within the data. A total of 195 codes were applied, which were grouped into 9 overarching categories (Figure 5).
+
+| Code Family | Codes | Grounded | Scope |
+|------------------|:------:|:--------:|------------------------------------------|
+| The Firm | 31 | 607 | Firm-level evolutionary components and processes, including characteristic genotypic and phenotypic elements |
+| The Industry | 13 | 298 | Evolutionary processes within the industry, including adaptation, competition, and variation |
+| Co-evolutionary processes | 6 | 75 | Dynamic interactions among key actors significantly influencing each other's evolutionary trajectories |
+| Cross-evolutionary factors | 38 | 397 | Interdependent influences and interactions that occur between different levels or domains within the evolutionary system |
+| Rationale of EToF | 28 | 278 | Fundamental assumptions, underlying principles, and philosophical arguments that justify the application of evolutionary concepts to understand the behavior of firms |
+| Biological metaphors | 17 | 159 | Analogies between biological processes and the dynamics of firms used to understand how firms evolve, adapt, and interact within their environments |
+| Justification | 9 | 189 | Arguments that stem from the limitations of traditional economic theories and support the need for an evolutionary approach to firms and industries |
+| Methods | 18 | 83 | Analytical and computational methods methods used to investigate the complex dynamics of firm evolution |
+| Theories | 35 | 541 | Key ideas, concepts, and theoretical frameworks from diverse fields and authors that underpin the evolutionary approach to the firm |
+
+: Table 4. Structure of the code families and codes of the study. Source: Own elaboration.
+
+While the coding process yielded nine code families, not all were directly relevant to the study's research objectives. Code families related to theories, methods, and justifications, while valuable for a broader understanding of the field, were considered outside the scope of this study and identified as potential areas for future research. The analysis, therefore, focused on the six remaining code families that were most relevant to addressing the research questions.
+
+Ejemplos de
+
+Coding matrices?
+
+### Themes Networks
+
+```{=html}
 <!-- EXPLAIN THE STEPS TOWARDS THE THEMATIC SYNTHESIS:
 
 - Terms: word cloud and word count
@@ -190,19 +231,6 @@ Each type of selection represents a distinct pathway that drives population adap
 - Query results
 - Other visuals of findings
 --->
-
-### Analysis of Key Concepts
-
-Word clouds and word counts offer an initial overview of the main concepts emerging from the reviewed literature by highlighting the most frequently occurring terms. These tools serve as a preliminary step in identifying dominant themes, patterns, or areas of focus that warrant further in-depth analysis. However, their insights are inherently limited, as they do not capture the context in which words are used. Therefore, the results from word clouds and word counts must be interpreted alongside a more detailed thematic or contextual analysis to ensure a comprehensive understanding of the findings.
-
-The word cloud generated by Atlas.ti provides a visual summary of term frequency across the reviewed literature (Fig. 3). To enhance clarity, only terms cited 80 times or more are included. In this representation, the size of each word reflects its frequency: larger words indicate higher frequency within the dataset, while smaller words represent less commonly occurring terms.
-
-![Fig. 3. Word Cloud. Source: Own elaboration](img/fig3.png)
-
-In addition to the word cloud, word counts offer a numerical breakdown of term frequency, providing a more precise quantification of trends within the literature (Fig.4). Furthermore, analyzing frequent terms can serve as a quality control measure, revealing issues like an over-reliance on filler words or uncovering unexpected patterns in the language used by the authors.  
-
-![Fig4. List of the 25 most cited words in the reviewed literature. Source: own elaboration](img/fig4.png)
-
-The analysis of the word cloud and word list offers several important insights. Firstly, the prominence of terms such as "firm", "evolutionary", "economic", and "theory", confirms the relevance and validity of the reviewed literature, aligning closely with the study's research questions and objectives. Additionally, the frequent appearance of terms related to the components of evolutionary change processes—such as "routines", "knowledge", "selection", "resources", "market" and "innovation"—highlights the literature's focus on key concepts integral to understanding evolutionary dynamics. Notably, the presence of terms such as "firm" and "business" alongside "industry" reveals the dual-level dynamics that characterize the analysis of the evolutionary firm, encompassing both organizational and broader industrial perspectives.
+```
 
 ## Final Meta-Framework
